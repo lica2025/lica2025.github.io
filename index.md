@@ -15,9 +15,14 @@ aim of the conference
 # Organisers
 
 <p>Anas Rahman (ICTP, Italy) <br></p>
+
 <p>Jiyuan Zhang (KULeuven, Belgium) <br></p>
+
 <p>Sylvia Serfaty (New York University, USA) <br></p>
+
 <p>Alice Guionnet (ENS Lyon, France) <br></p>
+
 <p>Mario Kieburg (Melbourne University, Australia) <br></p>
+
 <p>Lucas Hackl (Melbourne University, Australia) <br></p>
 
