@@ -3,6 +3,4 @@ layout: page
 title: "Home"
 ---
 
-homehomehome
-
-homehomehome
+Log-gases in Caeli Australi
