@@ -9,8 +9,20 @@ title: ""
 
 <center> <font size="6"> at MATRIX Institute, Creswick, Australia </font> </center> <br />
 
+aim of the conference
 
 # Confirmed speakers
+
+<table border="0">
+ <tr>
+    <td>
+      AAA
+    </td>
+    <td>
+      BBB
+    </td>
+ </tr>
+</table>
 
 # Organisers
 
