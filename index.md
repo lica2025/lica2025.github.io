@@ -3,8 +3,8 @@ layout: page
 title: ""
 ---
 
-`Log-gases in Caeli Australi`
+<p style="text-align: center;">Log-gases in Caeli Australi</p>
 
-`4th - 15th August, 2025`
+<p style="text-align: center;">Log-gases in Caeli Australi</p>
 
-`MATRIX Institute, Creswick, Australia`
+<p style="text-align: center;">Log-gases in Caeli Australi</p>
