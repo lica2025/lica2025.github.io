@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-<h1 style="text-align: center;">Log-gases in Caeli Australi</h1>
+<span style="font-size:0.5em;"><p style="text-align: center;">Log-gases in Caeli Australi</p><span>
 
 <p style="text-align: center;">Log-gases in Caeli Australi</p>
 
