@@ -14,10 +14,10 @@ title: ""
 
 # Organisers
 
-Anas Rahman (ICTP, Italy) 
-Jiyuan Zhang (KULeuven, Belgium)
-Sylvia Serfaty (New York University, USA)
-Alice Guionnet (ENS Lyon, France)
-Mario Kieburg (Melbourne University, Australia)
-Lucas Hackl (Melbourne University, Australia)
+Anas Rahman (ICTP, Italy) <br />
+Jiyuan Zhang (KULeuven, Belgium) <br />
+Sylvia Serfaty (New York University, USA) <br />
+Alice Guionnet (ENS Lyon, France) <br />
+Mario Kieburg (Melbourne University, Australia) <br />
+Lucas Hackl (Melbourne University, Australia) <br />
 
