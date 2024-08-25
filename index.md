@@ -15,12 +15,19 @@ aim of the conference
 # Confirmed speakers
 
 <div class="row">
+  
   <div class="col">
+    
     Markdown for col 1
+    
   </div>
+  
   <div class="col">
+    
     Markdown for col 2
+    
   </div>
+  
 </div>
 
 # Organisers
