@@ -14,22 +14,10 @@ aim of the conference
 
 # Confirmed speakers
 
-<div class="columns">
-<div class="column">
-<div style="text-align: justify; padding-right: 30px; font-size:16px; font-family: helvetica">
-<p><a href="https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=23134650&amp;lang=EN">Gernot Akemann</a> (Bielefeld University, Germany) <br></p>
-</div>
-<!--
-<div style="text-align: justify; padding-right: 30px; font-size:11px; font-family: helvetica">
-*To be confirmed
-</div>
--->
-</div><div class="column">
-<div style="text-align: justify; padding-right: 30px; font-size:16px; font-family: helvetica">
-<p><a href="http://perso.ens-lyon.fr/aguionne/">Alice Guionnet</a> (ENS Lyon, France) <br></p>
-</div>
-</div>
-</div>
+```{r attr.source="style='display:inline-block;'", collapse=TRUE}
+1:10  # a sequence from 1 to 10
+10:1  # in the reverse order
+```
 
 # Organisers
 
