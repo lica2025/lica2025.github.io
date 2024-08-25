@@ -9,3 +9,15 @@ title: ""
 
 <center> <font size="6"> at MATRIX Institute, Creswick, Australia </font> </center> <br />
 
+
+# Confirmed speakers
+
+# Organisers
+
+Anas Rahman (ICTP, Italy) 
+Jiyuan Zhang (KULeuven, Belgium)
+Sylvia Serfaty (New York University, USA)
+Alice Guionnet (ENS Lyon, France)
+Mario Kieburg (Melbourne University, Australia)
+Lucas Hackl (Melbourne University, Australia)
+
