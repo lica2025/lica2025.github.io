@@ -20,6 +20,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "program.md", title: "Program"}
   - {file: "info.html", title: "Info"}
   - {file: "about.md", title: "About"}
+  - {file: "participants.md", title: "test1"}
+  - {file: "participants.md", title: "test2"}
+  - {file: "participants.md", title: "test3"}
+  - {file: "participants.md", title: "test4"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
 #  - {title: Mail, icon: envelope, url: "mailto:licaatmatrix2025@gmail.com"}
