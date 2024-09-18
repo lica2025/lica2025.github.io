@@ -2,7 +2,9 @@
 layout: page
 title: ""
 ---
-
+<body>
+<article>
+    
 <div style="margin-bottom: 40px;">
 
     <h2>Getting here</h2>
@@ -27,4 +29,5 @@ title: ""
 
 </div>
 
-
+</article>
+</body>
