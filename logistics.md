@@ -36,13 +36,13 @@ title: ""
     
     <p>Participants may also wish to book off-campus accommodation nearby the MATRIX Institute.</p>
     
-    <p><b>Accommodations in Creswick:</b></p>
+    <p><b>In Creswick:</b></p>
 
     <p>    <a href="https://www.racv.com.au/travel-experiences/resorts/goldfields.html">RACV Goldfields Resort</a></p>
 
     <p>    <a href="https://creswickmotel.com/">Creswick Motel</a></p>
 
-    <p><b>Accommodations in Ballarat:</b></p>
+    <p><b>In Ballarat:</b></p>
 
     <p>    <a href="https://www.questapartments.com.au/">Quest Ballarat Station</a></p>
 
