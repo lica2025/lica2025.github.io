@@ -13,7 +13,7 @@ title: ""
     
     <p><b>From Airport to Ballarat:</b> we recommend an airport <a href="https://www.skybus.com.au/">Skybus</a> (tickets can be purchased on the spot) to Southern Cross Station, followed by a train to Ballarat Train Station. Alternatively, one can reserve for a <a href="https://airportshuttlebus.com.au/">Ballarat airport bus shuttle</a> going directly from Melbourne Tullamarine Airport to Ballarat Train Station. </p>
     
-    <p><b>From Ballarat to MATRIX:</b> you may take a train, or bus 30, to Raglan St/Albert St (Creswick) Station, and arrive at the MATRIX institute with a 10-min walk.</p> 
+    <p><b>From Ballarat to MATRIX:</b> you may take a train, or bus 30, to Raglan St/Albert St (Creswick) Station, and then arrive at the MATRIX institute within a 10-min walk.</p> 
     
     
 
