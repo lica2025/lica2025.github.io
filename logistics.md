@@ -9,7 +9,7 @@ title: ""
 
     <h2>Funding sources</h2>
 
-    <p>Participants are encouraged to apply for <a href="https://www.matrix-inst.org.au/travel-grant-scheme-guidelines"> MATRIX-Simons Travel Grant Scheme </a> (apply six months before the workshop), <a href="https://www.matrix-inst.org.au/international-family-fund-guidelines"> MATRIX-Simons International Family Fund </a> and <a href="https://www.matrix-inst.org.au/support-for-families-matrix-family-fund/"> MATRIX Family Fund </a>.</p>
+    <p>Participants are encouraged to apply for <a href="https://www.matrix-inst.org.au/travel-grant-scheme-guidelines"> MATRIX-Simons Travel Grant Scheme </a> (apply 6 months before the workshop), <a href="https://www.matrix-inst.org.au/international-family-fund-guidelines"> MATRIX-Simons International Family Fund </a> and <a href="https://www.matrix-inst.org.au/support-for-families-matrix-family-fund/"> MATRIX Family Fund </a>.</p>
 
 </div>
 
