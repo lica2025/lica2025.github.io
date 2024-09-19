@@ -42,10 +42,12 @@ title: "LiCA2025"
 <div style="margin-bottom: 40px;">
 
     <h2>Useful links</h2>
-    
-    <p><a href="https://www.matrix-inst.org.au/visit/#post-29">Visiting Creswick</a>.</p>
 
-    <p><a href="https://www.matrix-inst.org.au/">MATRIX institute</a>.</p>
+    <p><a href="https://www.matrix-inst.org.au/events/log-gases-in-caeli-australi-recent-developments-in-and-around-random-matrix-theory/</a>Our homepage on MATRIX website</p>
+    
+    <p><a href="https://www.matrix-inst.org.au/visit/#post-29">Visiting Creswick</a></p>
+
+    <p><a href="https://www.matrix-inst.org.au/">MATRIX institute</a></p>
 
 </div>
 
