@@ -9,7 +9,7 @@ title: ""
 
     <h2>Getting here</h2>
     
-    <p>The easiest way to reach Melbourne is through Melbourne Tullamarine Airport. We will provide shuttles on the 3rd of August from Melbourne Tullamarine Airport to Creswick and on the 15th of August from Creswick to Melbourne Tullamarine Airport. Details will be released later.</p>
+    <p>The easiest way to reach Melbourne is through Melbourne Tullamarine Airport. We will provide shuttles on the 3rd of August from Melbourne Tullamarine Airport to Creswick, and on the 15th of August from Creswick to Melbourne Tullamarine Airport. Details will be released later.</p>
     
     <p>In case you are going on your own: we recommend an airport <a href="https://www.skybus.com.au/">Skybus</a> (tickets can be purchased on the spot) to Southern Cross Station, followed by a train to Ballarat Train Station. Alternatively, one can reserve for a <a href="https://airportshuttlebus.com.au/">Ballarat airport bus shuttle</a> going directly from Melbourne Tullamarine Airport to Ballarat Train Station. From there, you may take a train, or bus 30, to Raglan St/Albert St (Creswick) Station, and arrive at the MATRIX institute with a 10-min walk.</p> 
     
