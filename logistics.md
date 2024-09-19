@@ -4,6 +4,15 @@ title: ""
 ---
 <body>
 <article>
+
+<div style="margin-bottom: 40px;">
+
+    <h2>Funding sources</h2>
+
+    <p>Participants are encouraged to apply for <a href="https://www.matrix-inst.org.au/travel-grant-scheme-guidelines"> MATRIX-Simons Travel Grant Scheme </a>, <a href="https://www.matrix-inst.org.au/international-family-fund-guidelines"> MATRIX-Simons International Family Fund </a> and <a href="https://www.matrix-inst.org.au/support-for-families-matrix-family-fund/"> MATRIX Family Fund </a>.</p>
+
+</div>
+
     
 <div style="margin-bottom: 40px;">
 
@@ -38,14 +47,6 @@ title: ""
     <p>    <a href="https://www.questapartments.com.au/">Quest Ballarat Station</a></p>
 
     <p>    <a href="https://www.begoniacity.com.au/">Begonia City Motor Inn</a></p>
-
-</div>
-
-<div style="margin-bottom: 40px;">
-
-    <h2>Funding sources</h2>
-
-    <p>Participants are encouraged to apply for <a href="https://www.matrix-inst.org.au/travel-grant-scheme-guidelines"> MATRIX-Simons Travel Grant Scheme </a>, <a href="https://www.matrix-inst.org.au/international-family-fund-guidelines"> MATRIX-Simons International Family Fund </a> and <a href="https://www.matrix-inst.org.au/support-for-families-matrix-family-fund/"> MATRIX Family Fund </a>.</p>
 
 </div>
 
