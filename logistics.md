@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "LiCA2025"
+title: ""
 ---
 <body>
 <article>
