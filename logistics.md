@@ -32,7 +32,7 @@ title: ""
 
     <h2>Accommodation</h2>
 
-    <p>We are able to provide on-campus accommodation to some participants for part of their stay, with preference given to students, early career researchers, and those experiencing other disadvantages.</p> 
+    <p>We are able to provide on-campus accommodation to some participants for part of their stay, with preference given to students, early career researchers, and those who would benefit from support.</p> 
     
     <p>Participants may also wish to book off-campus accommodation nearby the MATRIX Institute.</p>
     
