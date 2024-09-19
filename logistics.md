@@ -38,13 +38,14 @@ title: "LiCA2025"
 
 </div>
 
-</div>
 
 <div style="margin-bottom: 40px;">
 
-    <h2>Visiting Creswick</h2>
+    <h2>Useful links</h2>
     
-    <p>Information can be found <a href="https://www.matrix-inst.org.au/visit/#post-29">here</a>.</p>
+    <p><a href="https://www.matrix-inst.org.au/visit/#post-29">Visiting Creswick</a>.</p>
+
+    <p><a href="https://www.matrix-inst.org.au/">MATRIX institute</a>.</p>
 
 </div>
 
