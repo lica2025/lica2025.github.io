@@ -21,6 +21,10 @@ title: ""
 
     <p>We are able to provide on-campus accommodation to some participants for part of their stay, with preference given to students, early career researchers, and those experiencing other disadvantages. Participants may also wish to book off-campus accommodation nearby the MATRIX Institute:</p>
 
+    <p><a href="https://www.racv.com.au/travel-experiences/resorts/goldfields.html">RACV Goldfields Resort</a></p>
+
+    <p><a href="https://creswickmotel.com/">Creswick Motel</a></p>
+
 </div>
 
 <div style="margin-bottom: 40px;">
