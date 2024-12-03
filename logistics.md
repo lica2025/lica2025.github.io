@@ -11,7 +11,7 @@ title: "Logistics"
     
     <p>The easiest way to reach Melbourne is through Melbourne Tullamarine Airport. We will provide shuttles on the 3rd of August from Ballarat to Creswick, and on the 15th of August from Creswick to Melbourne Tullamarine Airport. Details will be released later.</p>
     
-    <p><b>From Airport to Ballarat:</b> we recommend an airport <a href="https://www.skybus.com.au/">Skybus</a> (tickets can be purchased on the spot) to Southern Cross Station, followed by a train to Ballarat Train Station. Alternatively, one can reserve for a <a href="https://airportshuttlebus.com.au/">Ballarat airport bus shuttle</a> going directly from Melbourne Tullamarine Airport to Ballarat Train Station. </p>
+    <p><b>From Airport to Ballarat:</b> we recommend an airport <a href="https://www.skybus.com.au/">Skybus</a> (tickets can be purchased on the spot) to Southern Cross Station, followed by a train to Ballarat Train Station. Alternatively, one can reserve a <a href="https://airportshuttlebus.com.au/">Ballarat airport bus shuttle</a> going directly from Melbourne Tullamarine Airport to Ballarat Train Station. </p>
     
     <p><b>From Ballarat to MATRIX:</b> you may take a train from Ballarat Train Station, or bus 30, to Raglan St/Albert St (Creswick) Station, and then arrive at the MATRIX institute within a 10-min walk.</p> 
     
@@ -31,9 +31,9 @@ title: "Logistics"
 
 <div style="margin-bottom: 40px;">
 
-    <h2>Excusion</h2>
+    <h2>Social Events</h2>
 
-    <p>There will be an excursion arranged. Further details are coming soon.</p>
+    <p>There will be a bqnuet and excursions arranged. Further details are coming soon, but we estimate that the banquet will be on the 6th of August and there will be excursions on the 9th and 13th of August.</p>
 
 </div>
 
@@ -42,7 +42,7 @@ title: "Logistics"
 
     <h2>Useful links</h2>
 
-    <p><a href="https://www.matrix-inst.org.au/events/log-gases-in-caeli-australi-recent-developments-in-and-around-random-matrix-theory/">Our homepage on MATRIX website</a></p>
+    <p><a href="https://www.matrix-inst.org.au/events/log-gases-in-caeli-australi-recent-developments-in-and-around-random-matrix-theory/">Our homepage on the MATRIX website</a></p>
     
     <p><a href="https://www.matrix-inst.org.au/visit/#post-29">Visiting Creswick</a></p>
 
