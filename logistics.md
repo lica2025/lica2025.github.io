@@ -29,8 +29,6 @@ title: "Logistics"
 
 </div>
 
-</div>
-
 <div style="margin-bottom: 40px;">
 
     <h2>Excusion</h2>
