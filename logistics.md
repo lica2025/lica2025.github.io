@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "Logistics"
 ---
 <body>
 <article>
