@@ -15,6 +15,12 @@ sitemap: false
 
   <style>
     * {box-sizing: border-box;}
+
+    /* Create two equal columns that floats next to each other */
+    .column {float: left;width: 50%;padding: 10px;}
+
+    /* Clear floats after the columns */
+    .row:after {content: "";display: table;clear: both;}
   </style>
 </head>
 
@@ -76,16 +82,18 @@ sitemap: false
 
     <h2>Organisers</h2>
     
-    <div style="float: left; width: 53%; padding-right: 20px;margin-bottom: 40px;">
-      <p>Anas Rahman (ICTP, Italy) <br></p>
-      <p>Jiyuan Zhang (KULeuven, Belgium) <br></p>
-      <p>Sylvia Serfaty (New York University, USA; Sorbonne Université, France; Courant Institute, USA) <br></p>
+    <div class="row">
+      <div class="column">
+        <p>Anas Rahman (ICTP, Italy) <br></p>
+        <p>Jiyuan Zhang (KULeuven, Belgium) <br></p>
+        <p>Sylvia Serfaty (New York University, USA; Sorbonne Université, France; Courant Institute, USA) <br></p>
+      </div>
+      <div class="column">
+        <p>Alice Guionnet (ENS Lyon, France) <br></p>
+        <p>Mario Kieburg (Melbourne University, Australia) <br></p>
+        <p>Lucas Hackl (Melbourne University, Australia) <br></p>
     </div>
-    <div style="float: left; width: 47%; padding-right: 5px;margin-bottom: 40px;">
-      <p>Alice Guionnet (ENS Lyon, France) <br></p>
-      <p>Mario Kieburg (Melbourne University, Australia) <br></p>
-      <p>Lucas Hackl (Melbourne University, Australia) <br></p>
-    </div>
+  </div>
     
   </div>
 
