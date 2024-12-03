@@ -9,7 +9,7 @@ title: "Logistics"
 
     <h2>Getting here</h2>
     
-    <p>The easiest way to reach Melbourne is through Melbourne Tullamarine Airport. We will provide shuttles on the 3rd of August from Melbourne Tullamarine Airport to Creswick, and on the 15th of August from Creswick to Melbourne Tullamarine Airport. Details will be released later.</p>
+    <p>The easiest way to reach Melbourne is through Melbourne Tullamarine Airport. We will provide shuttles on the 3rd of August from Ballarat to Creswick, and on the 15th of August from Creswick to Melbourne Tullamarine Airport. Details will be released later.</p>
     
     <p><b>From Airport to Ballarat:</b> we recommend an airport <a href="https://www.skybus.com.au/">Skybus</a> (tickets can be purchased on the spot) to Southern Cross Station, followed by a train to Ballarat Train Station. Alternatively, one can reserve for a <a href="https://airportshuttlebus.com.au/">Ballarat airport bus shuttle</a> going directly from Melbourne Tullamarine Airport to Ballarat Train Station. </p>
     
