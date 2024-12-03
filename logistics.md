@@ -38,6 +38,16 @@ title: "Logistics"
 
 </div>
 
+</div>
+
+<div style="margin-bottom: 40px;">
+
+    <h2>Excusion</h2>
+
+    <p>There will be an excursion arranged. Further details are coming soon.</p>
+
+</div>
+
 
 <div style="margin-bottom: 40px;">
 
