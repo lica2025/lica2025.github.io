@@ -33,7 +33,7 @@ title: "Logistics"
 
     <h2>Social Events</h2>
 
-    <p>There will be a banquet and excursions arranged. Further details are coming soon, but we estimate that the banquet will be on the 6th of August and there will be excursions on the 9th and 13th of August.</p>
+    <p>There will be a banquet and excursions arranged. Further details are coming soon.</p>
 
 </div>
 
