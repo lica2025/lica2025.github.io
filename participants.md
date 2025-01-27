@@ -39,4 +39,3 @@ title: "Participants"
 |	Meng	Yang	|	Great Bay University | China	|
 |	Lun	Zhang	|	Fudan University | China	|
 |	Jiyuan	Zhang	|	South China University of Technology| China	|
-</body>
