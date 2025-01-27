@@ -3,7 +3,20 @@ layout: page
 title: "Participants"
 ---
 
-|	Gernot	Akemann	|	Belefeld University | Germany	|
+<div style="margin-bottom: 0px;">
+
+    <b>Legend:</b>
+    
+    <div class="row">
+      <div class="column">
+        <div style="width: 10px; height: 10px; background-color: Red;"> <\div>
+      </div>
+      <div class="column">
+        <p>Statistical mechanics of log-gases</p>
+    </div>
+  </div>
+
+|	Gernot	Akemann	|	Belefeld University | Germany	| <div style="width: 10px; height: 10px; background-color: Red;"> <\div> |
 |	Zhigang	Bao	|	University of Hongkong | Hongkong	|
 |	Sungsoo	Byun	|	Seoul National University | Korea	|
 |	Giorgio	Cipolloni	|	University of Arizona | US	|
