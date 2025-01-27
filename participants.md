@@ -4,11 +4,11 @@ title: "Participants"
 ---
 
 |	Gernot	Akemann	|	Belefeld University | Germany	|
-|	Zhigang	Bao	|	University of Hongkong | China	|
+|	Zhigang	Bao	|	University of Hongkong | Hongkong	|
 |	Sungsoo	Byun	|	Seoul National University | Korea	|
 |	Giorgio	Cipolloni	|	University of Arizona | US	|
 |	Benoit	Collins	|	Kyoto University | Japan	|
-|	Dan	Dai	| City University	of Hongkong | China |
+|	Dan	Dai	| City University	of Hongkong | Hongkong |
 |	Harini	Desiraju	|	Univeristy of Sydney | Australia |
 |	Ioana	Dumitriu	|	University of California, San Diego | US	|
 |	Peter	Forrester	|	Melbourne University | Australia |
@@ -26,7 +26,7 @@ title: "Participants"
 |	James	Mingo	|	Queen's University | Canada |
 |	Leslie	Molag	|	Carlos III University of Madrid | Spain |
 |	Jonathan	Novak	|	University of California, San Diego | US	|
-|	Anas Rahman	|	University of Hongkong | China	|
+|	Anas Rahman	|	University of Hongkong | Hongkong	|
 |	Gregory	Schehr	|	Sorbonne Université | France |
 |	Nick	Simm	|	University of Sussex | UK |
 |	Daria	Tieplova	|	The Abdus Salam International Centre for Theoretical Physics | Italy |
