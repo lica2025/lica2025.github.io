@@ -3,8 +3,6 @@ layout: page
 title: "Participants"
 ---
 
-<div style="margin-bottom: 0px;">
-
     <b>Legend:</b>
     
         <div id="rectangle" style="width: 10px; height: 10px; background-color:blue"></div>  <p>Statistical mechanics of log-gases</p>
