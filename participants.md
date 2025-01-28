@@ -4,11 +4,11 @@ title: "Participants"
 ---
 <style>
         table{overflow-y: hidden;}
-        display:table{margin-bottom: -40px;}
 </style>
 <body>
 <b>Research interests:</b>
-<div class="container">
+<table style="border-collapse: collapse; border: none;">
+<tr style="border-collapse: collapse; border: none;">
 <div style="display:table">
         <div id="tag" style="display:table-cell">
           <div id="rectangle" style="width: 10px; height: 10px; background-color:#f1948a"></div>
@@ -17,6 +17,8 @@ title: "Participants"
           <div><p>&nbsp; Statistical mechanics of log-gases</p></div>
         </div>
 </div>
+</tr>
+<tr style="border-collapse: collapse; border: none;">
 <div style="display:table">
         <div id="tag" style="display:table-cell">
           <div id="rectangle" style="width: 10px; height: 10px; background-color:#f8c471"></div>
@@ -25,6 +27,8 @@ title: "Participants"
           <div><p>&nbsp; Machine learning and statistical inference</p></div>
         </div>
 </div>
+</tr>
+<tr style="border-collapse: collapse; border: none;">
 <div style="display:table">
         <div id="tag" style="display:table-cell">
           <div id="rectangle" style="width: 10px; height: 10px; background-color:#82e0aa"></div>
@@ -33,6 +37,8 @@ title: "Participants"
           <div><p>&nbsp; (Free) probability theory</p></div>
         </div>
 </div>
+</tr>
+<tr style="border-collapse: collapse; border: none;">
 <div style="display:table">
         <div id="tag" style="display:table-cell">
           <div id="rectangle" style="width: 10px; height: 10px; background-color:#85c1e9"></div>
@@ -41,6 +47,8 @@ title: "Participants"
           <div><p>&nbsp; Orthogonal polynomials and asymptotic analysis</p></div>
         </div>
 </div>
+</tr>
+<tr style="border-collapse: collapse; border: none;">
 <div style="display:table">
         <div id="tag" style="display:table-cell">
           <div id="rectangle" style="width: 10px; height: 10px; background-color:#d2b4de"></div>
@@ -49,7 +57,8 @@ title: "Participants"
           <div><p>&nbsp; Integrable systems including Painlevé equations</p></div>
         </div>
 </div>
-</div>
+</tr>
+</table>
 
 <table>
     <tr>
