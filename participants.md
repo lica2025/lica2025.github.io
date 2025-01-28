@@ -2,6 +2,18 @@
 layout: page
 title: "Participants"
 ---
+<body>
+<b>Legend:</b>
+<div style="display:table">
+        <div id="tag" style="display:table-cell">
+          <div id="rectangle" style="width: 10px; height: 10px; background-color:blue"></div>
+        </div>
+        <div id="topic" style="display:table-cell">
+          <div><p>Statistical mechanics of log-gases</p></div>
+        </div>
+</div>
+
+</body>
 
 |	Gernot	Akemann	|	Belefeld University | Germany	| 
 |	Zhigang	Bao	|	University of Hongkong | Hongkong	|
