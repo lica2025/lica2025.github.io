@@ -7,7 +7,7 @@ title: "Participants"
 </style>
 <body>
 <b>Research interests:</b>
-<table style="border-collapse: collapse; border: none;">
+<table style="border-collapse: collapse; border: none;overflow-y: hidden;">
 <tr style="border-collapse: collapse; border: none;">
           <td><div id="rectangle" style="width: 10px; height: 10px; background-color:#f1948a"></div></td>
           <td><p>&nbsp; Statistical mechanics of log-gases</p></td>
