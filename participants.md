@@ -9,14 +9,8 @@ title: "Participants"
 <b>Research interests:</b>
 <table style="border-collapse: collapse; border: none;">
 <tr style="border-collapse: collapse; border: none;">
-<div style="display:table">
-        <div id="tag" style="display:table-cell">
-          <div id="rectangle" style="width: 10px; height: 10px; background-color:#f1948a"></div>
-        </div>
-        <div id="topic" style="display:table-cell">
-          <div><p>&nbsp; Statistical mechanics of log-gases</p></div>
-        </div>
-</div>
+
+          <div id="rectangle" style="width: 10px; height: 10px; background-color:#f1948a;display:inline-block"></div><div style="display:inline-block"><p>&nbsp; Statistical mechanics of log-gases</p></div>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
 <div style="display:table">
@@ -82,8 +76,8 @@ title: "Participants"
     <tr>
         <td>Zhigang Bao</td>
         <td><div id="rectangle" style="width: 10px; height: 10px; background-color:#f1948a; display:inline-block"></div><div id="rectangle" style="width: 10px; height: 10px; background-color:#f1948a; display:inline-block"></div></td>
-        <td>University</td>
-        <td>Hongkong</td>
+        <td>The University of Hong Kong</td>
+        <td>Hong Kong</td>
     </tr>
     <tr>
         <td>Sungsoo Byun</td>
