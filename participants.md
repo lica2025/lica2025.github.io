@@ -16,28 +16,28 @@ title: "Participants"
         </div>
 </div><div style="display:table">
         <div id="tag" style="display:table-cell">
-          <div id="rectangle" style="width: 10px; height: 10px; background-color:#f1948a"></div>
+          <div id="rectangle" style="width: 10px; height: 10px; background-color:#f8c471"></div>
         </div>
         <div id="topic" style="display:table-cell">
           <div><p>&nbsp; Machine learning and statistical inference</p></div>
         </div>
 </div><div style="display:table">
         <div id="tag" style="display:table-cell">
-          <div id="rectangle" style="width: 10px; height: 10px; background-color:#f1948a"></div>
+          <div id="rectangle" style="width: 10px; height: 10px; background-color:#82e0aa"></div>
         </div>
         <div id="topic" style="display:table-cell">
           <div><p>&nbsp; (Free) probability theory</p></div>
         </div>
 </div><div style="display:table">
         <div id="tag" style="display:table-cell">
-          <div id="rectangle" style="width: 10px; height: 10px; background-color:#f1948a"></div>
+          <div id="rectangle" style="width: 10px; height: 10px; background-color:#85c1e9"></div>
         </div>
         <div id="topic" style="display:table-cell">
           <div><p>&nbsp; Orthogonal polynomials and asymptotic analysis</p></div>
         </div>
 </div><div style="display:table">
         <div id="tag" style="display:table-cell">
-          <div id="rectangle" style="width: 10px; height: 10px; background-color:#f1948a"></div>
+          <div id="rectangle" style="width: 10px; height: 10px; background-color:#d2b4de"></div>
         </div>
         <div id="topic" style="display:table-cell">
           <div><p>&nbsp; Integrable systems including Painlevé equations</p></div>
