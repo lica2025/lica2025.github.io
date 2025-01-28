@@ -76,7 +76,7 @@ title: "Participants"
                 </div>
         </div>
         </td>
-        <td>Bielefeld University</td>
+        <td>Bielefeld</td>
         <td>Germany</td>
     </tr>
     <tr>
