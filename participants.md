@@ -4,6 +4,10 @@ title: "Participants"
 ---
 <style>
         table{overflow-y: hidden;}
+        display:table{
+        display: flex;
+        flex-direction: column;
+    }
 </style>
 <body>
 <b>Research interests:</b>
