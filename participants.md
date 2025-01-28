@@ -4,10 +4,7 @@ title: "Participants"
 ---
 <style>
         table{overflow-y: hidden;}
-        .container{
-        display: flex;
-        flex-direction: column;
-    }
+        display:table{vertical-align: top;}
 </style>
 <body>
 <b>Research interests:</b>
