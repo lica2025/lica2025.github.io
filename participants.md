@@ -10,10 +10,10 @@ title: "Participants"
 <div id="rectangle" style="width: 10px; height: 10px; background-color:transparent;"></div>
 <table style="border-collapse: collapse; border: none;overflow-y: hidden;">
 <tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none;"><div id="rectangle" style="width: 10px; height: 10px; background-color:#f1948a; float: left"></div> Statistical mechanics of log-gases</td>
+        <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" style="width: 10px; height: 10px; background-color:#f1948a; display: inline-block"></div> &nbsp; Statistical mechanics of log-gases</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none;"><div id="rectangle" style="width: 10px; height: 10px; background-color:#f8c471; float: left"></div> Machine learning and statistical inference</td>
+        <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" style="width: 10px; height: 10px; background-color:#f8c471; display: inline-block"></div> &nbsp; Machine learning and statistical inference</td>
 </tr>
 </table>
 <table>
