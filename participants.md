@@ -3,10 +3,10 @@ layout: page
 title: "Participants"
 ---
 <style>
-        body{overflow-y: hidden;}
+        table{overflow-y: hidden;}
 </style>
 <body>
-<b>Legend:</b>
+<b>Research interests:</b>
 <div style="display:table">
         <div id="tag" style="display:table-cell">
           <div id="rectangle" style="width: 10px; height: 10px; background-color:#f1948a"></div>
@@ -15,11 +15,55 @@ title: "Participants"
           <div><p>&nbsp; Statistical mechanics of log-gases</p></div>
         </div>
 </div>
+<div style="display:table">
+        <div id="tag" style="display:table-cell">
+          <div id="rectangle" style="width: 10px; height: 10px; background-color:#f1948a"></div>
+        </div>
+        <div id="topic" style="display:table-cell">
+          <div><p>&nbsp; Machine learning and statistical inference</p></div>
+        </div>
+</div>
+<div style="display:table">
+        <div id="tag" style="display:table-cell">
+          <div id="rectangle" style="width: 10px; height: 10px; background-color:#f1948a"></div>
+        </div>
+        <div id="topic" style="display:table-cell">
+          <div><p>&nbsp; (Free) probability theory</p></div>
+        </div>
+</div>
+<div style="display:table">
+        <div id="tag" style="display:table-cell">
+          <div id="rectangle" style="width: 10px; height: 10px; background-color:#f1948a"></div>
+        </div>
+        <div id="topic" style="display:table-cell">
+          <div><p>&nbsp; Orthogonal polynomials and asymptotic analysis</p></div>
+        </div>
+</div>
+<div style="display:table">
+        <div id="tag" style="display:table-cell">
+          <div id="rectangle" style="width: 10px; height: 10px; background-color:#f1948a"></div>
+        </div>
+        <div id="topic" style="display:table-cell">
+          <div><p>&nbsp; Integrable systems including Painlevé equations</p></div>
+        </div>
+</div>
 
 <table>
     <tr>
         <td>Gernot Akemann</td>
-        <td><div id="rectangle" style="width: 10px; height: 10px; background-color:#f1948a"></div><div id="rectangle" style="width: 10px; height: 10px; background-color:#f1948a"></div></td>
+        <td>
+        <div style="display:table">
+                <div id="tag" style="display:table-cell">
+                        <div id="rectangle" style="width: 10px; height: 10px; background-color:#f1948a"></div>
+                </div>
+                <div id="topic" style="display:table-cell">
+                        <div><p>&nbsp;</p></div>
+                </div>
+                <div id="tag" style="display:table-cell">
+                        <div id="rectangle" style="width: 10px; height: 10px; background-color:#f1948a"></div>
+                </div>
+        </div>
+        </td>
         <td>Bielefeld University</td>
         <td>Germany</td>
     </tr>
