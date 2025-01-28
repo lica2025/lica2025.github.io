@@ -4,7 +4,7 @@ title: "Participants"
 ---
 <style>
         table{overflow-y: hidden;}
-        display:table{vertical-align: top;}
+        display:table{margin-bottom: -40px;}
 </style>
 <body>
 <b>Research interests:</b>
