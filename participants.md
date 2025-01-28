@@ -4,52 +4,31 @@ title: "Participants"
 ---
 <style>
         table{overflow-y: hidden;}
-        .red1{width: 10px; height: 10px; background-color:#f1948a; display: inline-block;}
+        .t0{width: 10px; height: 10px; background-color:transparent; display: inline-block;}
+        .t1{width: 10px; height: 10px; background-color:#f1948a; display: inline-block;}
+        .t2{width: 10px; height: 10px; background-color:#f8c471; display: inline-block;}
+        .t3{width: 10px; height: 10px; background-color:#82e0aa; display: inline-block;}
+        .t4{width: 10px; height: 10px; background-color:#85c1e9; display: inline-block;}
+        .t5{width: 10px; height: 10px; background-color:#d2b4de; display: inline-block;}
 </style>
 <body>
 <b>Research themes:</b>
-<div id="rectangle" style="width: 10px; height: 10px; background-color:transparent;"></div>
+<div id="rectangle" class="t0"></div>
 <table style="border-collapse: collapse; border: none;overflow-y: hidden;">
 <tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" class="red1"></div> &nbsp; Statistical mechanics of log-gases</td>
+        <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" class="t1"></div> &nbsp; Statistical mechanics of log-gases</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" style="width: 10px; height: 10px; background-color:#f8c471; display: inline-block"></div> &nbsp; Machine learning and statistical inference</td>
-</tr>
-</table>
-<table>
-<tr style="border-collapse: collapse; border: none;">
-          <div id="rectangle" style="width: 10px; height: 10px; background-color:#f8c471;display:inline-block"></div><div style="display:inline-block"><p>&nbsp; Machine learning and statistical inference</p></div>
+        <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" class="t2"></div> &nbsp; Machine learning and statistical inference</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
-<div style="display:table">
-        <div id="tag" style="display:table-cell">
-          <div id="rectangle" style="width: 10px; height: 10px; background-color:#82e0aa"></div>
-        </div>
-        <div id="topic" style="display:table-cell">
-          <div><p>&nbsp; (Free) probability theory</p></div>
-        </div>
-</div>
+        <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" class="t3"></div> &nbsp; (Free) probability theory</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
-<div style="display:table">
-        <div id="tag" style="display:table-cell">
-          <div id="rectangle" style="width: 10px; height: 10px; background-color:#85c1e9"></div>
-        </div>
-        <div id="topic" style="display:table-cell">
-          <div><p>&nbsp; Orthogonal polynomials and asymptotic analysis</p></div>
-        </div>
-</div>
+        <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" class="t4"></div> &nbsp; Orthogonal polynomials and asymptotic analysis</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
-<div style="display:table">
-        <div id="tag" style="display:table-cell">
-          <div id="rectangle" style="width: 10px; height: 10px; background-color:#d2b4de"></div>
-        </div>
-        <div id="topic" style="display:table-cell">
-          <div><p>&nbsp; Integrable systems including Painlevé equations</p></div>
-        </div>
-</div>
+        <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" class="t5"></div> &nbsp; Integrable systems including Painlevé equations</td>
 </tr>
 </table>
 
