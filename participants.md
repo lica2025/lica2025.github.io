@@ -6,7 +6,7 @@ title: "Participants"
         table{overflow-y: hidden;}
 </style>
 <body>
-<b>Research interests:</b>
+<b>Research themes:</b>
 <div id="rectangle" style="width: 10px; height: 10px; background-color:transparent;"></div>
 <table style="border-collapse: collapse; border: none;overflow-y: hidden;">
 <tr style="border-collapse: collapse; border: none;">
