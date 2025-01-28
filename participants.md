@@ -76,13 +76,13 @@ title: "Participants"
                 </div>
         </div>
         </td>
-        <td>Bielefeld</td>
+        <td>Bielefeld University</td>
         <td>Germany</td>
     </tr>
     <tr>
         <td>Zhigang Bao</td>
         <td><div id="rectangle" style="width: 10px; height: 10px; background-color:#f1948a; display:inline-block"></div><div id="rectangle" style="width: 10px; height: 10px; background-color:#f1948a; display:inline-block"></div></td>
-        <td>University of Hongkong</td>
+        <td>University</td>
         <td>Hongkong</td>
     </tr>
     <tr>
