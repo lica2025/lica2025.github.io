@@ -9,8 +9,8 @@ title: "Participants"
 <b>Research interests:</b>
 <table style="border-collapse: collapse; border: none;overflow-y: hidden;">
 <tr style="border-collapse: collapse; border: none;">
-          <td style="border-collapse: collapse; border: none;"><div id="rectangle" style="width: 10px; height: 10px; background-color:#f1948a; display:inline-block"></div></td>
-          <td style="border-collapse: collapse; border: none;">Statistical mechanics of log-gases</td>
+          <td style="border-collapse: collapse; border: none; background:none"><div id="rectangle" style="width: 10px; height: 10px; background-color:#f1948a; display:inline-block"></div></td>
+          <td style="border-collapse: collapse; border: none; background:none;">Statistical mechanics of log-gases</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
           <div id="rectangle" style="width: 10px; height: 10px; background-color:#f8c471;display:inline-block"></div><div style="display:inline-block"><p>&nbsp; Machine learning and statistical inference</p></div>
