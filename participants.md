@@ -4,13 +4,14 @@ title: "Participants"
 ---
 <style>
         table{overflow-y: hidden;}
+        .red1{width: 10px; height: 10px; background-color:#f1948a; display: inline-block;}
 </style>
 <body>
 <b>Research themes:</b>
 <div id="rectangle" style="width: 10px; height: 10px; background-color:transparent;"></div>
 <table style="border-collapse: collapse; border: none;overflow-y: hidden;">
 <tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" style="width: 10px; height: 10px; background-color:#f1948a; display: inline-block"></div> &nbsp; Statistical mechanics of log-gases</td>
+        <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" class="red1"></div> &nbsp; Statistical mechanics of log-gases</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" style="width: 10px; height: 10px; background-color:#f8c471; display: inline-block"></div> &nbsp; Machine learning and statistical inference</td>
