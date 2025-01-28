@@ -12,9 +12,10 @@ title: "Participants"
         .t5{width: 10px; height: 10px; background-color:#d2b4de; display: inline-block;}
 </style>
 <body>
-<b>Research themes:</b>
-<div id="rectangle" class="t0"></div>
 <table style="border-collapse: collapse; border: none;overflow-y: hidden;">
+<tr style="border-collapse: collapse; border: none;">
+        <th style="border-collapse: collapse; border: none; background: transparent">Research themes:</th>
+</tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" class="t1"></div> &nbsp; Statistical mechanics of log-gases</td>
 </tr>
@@ -33,6 +34,12 @@ title: "Participants"
 </table>
 
 <table>
+<tr>
+        <th>Particpant</th>
+        <th>Interests</th>
+        <th>Affiliation</th>
+        <th>Country</th>
+</tr>
     <tr>
         <td>Gernot Akemann</td>
         <td>
