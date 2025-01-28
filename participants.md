@@ -35,7 +35,7 @@ title: "Participants"
 
 <table>
 <tr>
-        <th>Particpant</th>
+        <th>Participant</th>
         <th>Interests</th>
         <th>Affiliation</th>
         <th>Country</th>
