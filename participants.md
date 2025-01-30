@@ -4,7 +4,7 @@ title: "Participants"
 ---
 <style>
         table{overflow-y: hidden;}
-        .t0{width: 10px; height: 10px; background-color:transparent; display: inline-block;}
+        .t0{width: 10px; height: 10px; background-color:transparent; border: 1px solid gray; display: inline-block;}
         .t1{width: 10px; height: 10px; background-color:#f1948a; display: inline-block;}
         .t2{width: 10px; height: 10px; background-color:#f8c471; display: inline-block;}
         .t3{width: 10px; height: 10px; background-color:#82e0aa; display: inline-block;}
