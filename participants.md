@@ -33,7 +33,7 @@ title: "Participants"
 </tr>
 </table>
 
-<p>Blahblah</p>
+<p>MATRIX research programs are designed to afford plenty of free time for informal research collaboration. To maximise the use of this free time, it is recommended (though not necessary) that collaborative research is initiated <i>prior</i> to arrival at the MATRIX institute. Participants are listed with their primary areas of research interests so as to make it a little easier to uncover potential collaborative projects.</p>
 
 <table>
 <tr>
