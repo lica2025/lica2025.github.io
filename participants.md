@@ -38,13 +38,13 @@ title: "Participants"
 <table>
 <tr>
         <th>Participant</th>
-        <th>Primary interests</th>
+        <th>Interests</th>
         <th>Affiliation</th>
         <th>Country</th>
 </tr>
     <tr>
         <td>Gernot Akemann</td>
-        <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
+        <td style="white-space: nowrap;"><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
         <td>Bielefeld University</td>
         <td>Germany</td>
     </tr>
