@@ -205,7 +205,7 @@ title: "Participants"
         <td>Italy</td>
     </tr>
     <tr>
-        <td>Jacobus Verbaarschot</td>
+        <td style="white-space: nowrap;">Jacobus Verbaarschot</td>
         <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
         <td>Stony Brook University</td>
         <td>USA</td>
