@@ -33,6 +33,8 @@ title: "Participants"
 </tr>
 </table>
 
+<p>Blahblah</p>
+
 <table>
 <tr>
         <th>Participant</th>
