@@ -53,51 +53,51 @@ title: "Participants"
         <td>Hong Kong</td>
     </tr>
     <tr>
-        <td>Sungsoo Byun</td>
-        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
+        <td>Sung-Soo Byun</td>
+        <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
         <td>Seoul National University</td>
-        <td>Korea</td>
+        <td>South Korea</td>
     </tr>
     <tr>
         <td>Giorgio Cipolloni</td>
         <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
         <td>University of Arizona</td>
-        <td>US</td>
+        <td>USA</td>
     </tr>
     <tr>
-        <td>Benoit Collins</td>
-        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
+        <td>Benoît Collins</td>
+        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t3"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
         <td>Kyoto University</td>
         <td>Japan</td>
     </tr>
     <tr>
         <td>Dan Dai</td>
-        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
-        <td>City University of Hongkong</td>
-        <td>Hongkong</td>
+        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t5"></div></td>
+        <td>City University of Hong Kong</td>
+        <td>Hong Kong</td>
     </tr>
     <tr>
         <td>Harini Desiraju</td>
-        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
-        <td>Univeristy of Sydney</td>
+        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t5"></div></td>
+        <td>University of Sydney</td>
         <td>Australia</td>
     </tr>
     <tr>
         <td>Ioana Dumitriu</td>
-        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
+        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t2"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
         <td>University of California, San Diego</td>
-        <td>US</td>
+        <td>USA</td>
     </tr>
     <tr>
         <td>Peter Forrester</td>
-        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
-        <td>Melbourne University</td>
+        <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t5"></div></td>
+        <td>The University of Melbourne</td>
         <td>Australia</td>
     </tr>
     <tr>
         <td>Lucas Hackl</td>
-        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
-        <td>Melbourne University</td>
+        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t3"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
+        <td>The University of Melbourne</td>
         <td>Australia</td>
     </tr>
     <tr>
