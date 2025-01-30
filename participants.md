@@ -58,7 +58,7 @@ title: "Participants"
         <td>Sung-Soo Byun</td>
         <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
         <td>Seoul National University</td>
-        <td>South Korea</td>
+        <td style="white-space: nowrap;">South Korea</td>
     </tr>
     <tr>
         <td>Giorgio Cipolloni</td>
@@ -238,7 +238,7 @@ title: "Participants"
         <td>Nicholas Witte</td>
         <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t5"></div></td>
         <td>Victoria University of Wellington</td>
-        <td>New Zealand</td>
+        <td style="white-space: nowrap;">New Zealand</td>
     </tr>
     <tr>
         <td>Yuanyuan Xu</td>
