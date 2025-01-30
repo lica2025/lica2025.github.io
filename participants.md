@@ -36,7 +36,7 @@ title: "Participants"
 <table>
 <tr>
         <th>Participant</th>
-        <th>Interests</th>
+        <th>Primary interests</th>
         <th>Affiliation</th>
         <th>Country</th>
 </tr>
@@ -204,25 +204,31 @@ title: "Participants"
     </tr>
     <tr>
         <td>Jacobus Verbaarschot</td>
-        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
+        <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
         <td>Stony Brook University</td>
-        <td>US</td>
+        <td>USA</td>
     </tr>
     <tr>
         <td>Dong Wang</td>
-        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
+        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t5"></div></td>
         <td>University of Chinese Academy of Sciences</td>
         <td>China</td>
     </tr>
     <tr>
+        <td>Fei Wei</td>
+        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t5"></div></td>
+        <td>University of Sussex</td>
+        <td>UK</td>
+    </tr>
+    <tr>
         <td>Lu Wei</td>
-        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
+        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
         <td>Texas Tech University</td>
-        <td>US</td>
+        <td>USA</td>
     </tr>
     <tr>
         <td>Aron Wennman</td>
-        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
+        <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
         <td>Katholieke Universiteit Leuven</td>
         <td>Belgium</td>
     </tr>
@@ -234,25 +240,25 @@ title: "Participants"
     </tr>
     <tr>
         <td>Yuanyuan Xu</td>
-        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
+        <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t3"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
         <td>Chinese Academy of Sciences</td>
         <td>China</td>
     </tr>
     <tr>
         <td>Meng Yang</td>
-        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
+        <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
         <td>Great Bay University</td>
         <td>China</td>
     </tr>
     <tr>
         <td>Lun Zhang</td>
-        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
+        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t5"></div></td>
         <td>Fudan University</td>
         <td>China</td>
     </tr>
     <tr>
         <td>Jiyuan Zhang</td>
-        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
+        <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
         <td>South China University of Technology</td>
         <td>China</td>
     </tr>
