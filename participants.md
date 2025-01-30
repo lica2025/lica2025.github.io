@@ -236,7 +236,7 @@ title: "Participants"
     </tr>
     <tr>
         <td>Nicholas Witte</td>
-        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
+        <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t5"></div></td>
         <td>Victoria University of Wellington</td>
         <td>New Zealand</td>
     </tr>
