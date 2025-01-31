@@ -13,7 +13,7 @@ title: "Logistics"
     
     <p><b>From Airport to Ballarat:</b> we recommend an airport <a href="https://www.skybus.com.au/">Skybus</a> (tickets can be purchased on the spot) to Southern Cross Station, followed by a train to Ballarat Train Station. Alternatively, one can reserve a <a href="https://airportshuttlebus.com.au/">Ballarat airport bus shuttle</a> going directly from Melbourne Tullamarine Airport to Ballarat Train Station. </p>
     
-    <p><b>From Ballarat to MATRIX:</b> you may take a train from Ballarat Train Station, or bus 30, to Raglan St/Albert St (Creswick) Station, and then arrive at the MATRIX institute within a 10-min walk.</p> 
+    <p><b>From Ballarat to MATRIX:</b> you may take a train from Ballarat Train Station, or bus 30, to Raglan St/Albert St (Creswick) Station, and then arrive at the MATRIX Institute within a 10-min walk.</p> 
     
     
 
@@ -25,7 +25,7 @@ title: "Logistics"
 
     <p>We are able to provide on-campus accommodation to some participants for part of their stay, with preference given to students, early career researchers, and those who would benefit from support.</p> 
     
-    <p>Participants may also wish to book off-campus accommodation nearby the MATRIX Institute. Information can be found <a href="https://www.matrix-inst.org.au/accommodation/#post-332">here</a>.</p>
+    <p>Participants may also wish to book off-campus accommodation nearby the MATRIX Institute. Information can be found <a href="https://www.matrix-inst.org.au/accommodation/#post-332">here</a>. We will be organising transportation from Ballarat Train Station to the MATRIX Institute each morning of the research program.</p>
 
 </div>
 
