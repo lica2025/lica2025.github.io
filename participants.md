@@ -193,7 +193,7 @@ title: "Participants"
         <td>France</td>
     </tr>
     <tr>
-        <td>Nick Simm</td>
+        <td>Nicholas Simm</td>
         <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t5"></div></td>
         <td>University of Sussex</td>
         <td>UK</td>
