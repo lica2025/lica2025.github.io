@@ -10,7 +10,7 @@ title: "Program"
         .t3{background-color:#82e0aa !important; border: 1px solid gray !important}
         .t4{background-color:#85c1e9 !important; border: 1px solid gray !important}
         .t5{background-color:#d2b4de !important; border: 1px solid gray !important}
-        .t6{background-color:WhiteSmoke !important; border: 1px solid gray !important}
+        .t6{background-color:#fcf3cf !important; border: 1px solid gray !important}
 </style>
 
 <body>
@@ -48,8 +48,24 @@ title: "Program"
       <td class="t6"></td>
     </tr>
     <tr>
-      <td class="t0"><u>10:30-11:30</u></td>
+      <td class="t0"><u>10:30-11:00</u></td>
       <td class="t2">Ioana Dumitriu</td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+    </tr>
+    <tr>
+      <td class="t0"><u>11:00-11:30</u></td>
+      <td class="t2">Ioana Dumitriu</td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+    </tr>
+    <tr>
+      <td class="t0"><u>11:30-11:45</u></td>
+      <td class="t2"></td>
       <td class="t6"></td>
       <td class="t6"></td>
       <td class="t6"></td>
@@ -64,7 +80,7 @@ title: "Program"
       <td class="t6">Lunch break</td>
     </tr>
     <tr>
-      <td class="t0"><u>13:30-14:30</u></td>
+      <td class="t0"><u>13:30-14:00</u></td>
       <td class="t3">Benoît Collins</td>
       <td class="t6"></td>
       <td class="t6"></td>
@@ -72,16 +88,56 @@ title: "Program"
       <td class="t6"></td>
     </tr>
     <tr>
-      <td class="t0"><u>14:30-15:30</u></td>
-      <td style="background-color:#85c1e9;">Arno Kuijlaars</td>
+      <td class="t0"><u>14:00-14:30</u></td>
+      <td class="t3">Benoît Collins</td>
       <td class="t6"></td>
       <td class="t6"></td>
       <td class="t6"></td>
       <td class="t6"></td>
     </tr>
     <tr>
-      <td class="t0"><u>15:30-16:30</u></td>
+      <td class="t0"><u>14:30-15:00</u></td>
+      <td class="t4">Arno Kuijlaars</td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+    </tr>
+    <tr>
+      <td class="t0"><u>14:30-15:30</u></td>
+      <td class="t4">Arno Kuijlaars</td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+    </tr>
+    <tr>
+      <td class="t0"><u>15:30-16:00</u></td>
+      <td class="t6">Coffee break</td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+    </tr>
+    <tr>
+      <td class="t0"><u>16:00-16:30</u></td>
       <td class="t5">Peter Forrester</td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+    </tr>
+    <tr>
+      <td class="t0"><u>16:30-17:00</u></td>
+      <td class="t5"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+    </tr>
+    <tr>
+      <td class="t0"><u>17:00-16:30</u></td>
+      <td class="t6">Informal collaboration</td>
       <td class="t6"></td>
       <td class="t6"></td>
       <td class="t6"></td>
