@@ -3,7 +3,7 @@ layout: page
 title: "Program"
 ---
 <style>
-        table{border-collapse: collapse; border: transparent; overflow-y: hidden;}
+        table{border-collapse: collapse; border: none; overflow-y: hidden;}
         .t0{background-color:LightGray !important; border: 1px solid black !important}
         .t1{background-color:#f1948a !important; border-left: 1px solid gray !important;border-right: 1px solid gray !important}
         .t2{background-color:#f8c471 !important; border: 1px solid gray !important}
