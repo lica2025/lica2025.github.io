@@ -4,6 +4,7 @@ title: "Program"
 ---
 <style>
         table{border-collapse: collapse; border: none; overflow-y: hidden;}
+        td{whitespace: nowrap}
         .t0{background-color:LightGray !important; border: 1px solid black !important}
         .t1{background-color:#f1948a !important; border-left: 1px solid gray !important;border-right: 1px solid gray !important}
         .t2{background-color:#f8c471 !important; border: 1px solid gray !important}
@@ -137,7 +138,7 @@ title: "Program"
     </tr>
     <tr>
       <td class="t0"><u>17:00-16:30</u></td>
-      <td class="t6">Informal collaboration</td>
+      <td class="t6">Discussion</td>
       <td class="t6"></td>
       <td class="t6"></td>
       <td class="t6"></td>
