@@ -3,15 +3,14 @@ layout: page
 title: "Program"
 ---
 <style>
-        table{border-collapse: collapse; border: none; overflow-y: hidden;}
-        td{background: none}
-        .t0{background-color:LightGray; border: 1px solid black}
-        .t1{background-color:#f1948a !important; border: 1px solid gray !important}
-        .t2{background-color:#f8c471; border: 1px solid gray}
-        .t3{background-color:#82e0aa; border: 1px solid gray}
-        .t4{background-color:#85c1e9; border: 1px solid gray}
-        .t5{background-color:#d2b4de; border: 1px solid gray}
-        .t6{background-color:WhiteSmoke; border: 1px solid gray}
+        table{border-collapse: collapse; border: transparent; overflow-y: hidden;}
+        .t0{background-color:LightGray !important; border: 1px solid black !important}
+        .t1{background-color:#f1948a !important; border-left: 1px solid gray !important;border-right: 1px solid gray !important}
+        .t2{background-color:#f8c471 !important; border: 1px solid gray !important}
+        .t3{background-color:#82e0aa !important; border: 1px solid gray !important}
+        .t4{background-color:#85c1e9 !important; border: 1px solid gray !important}
+        .t5{background-color:#d2b4de !important; border: 1px solid gray !important}
+        .t6{background-color:WhiteSmoke !important; border: 1px solid gray !important}
 </style>
 
 <body>
@@ -33,8 +32,16 @@ title: "Program"
       <td class="t6">Coffee break</td>
     </tr>
     <tr>
-      <td class="t0"><u>9:30-10:30</u></td>
-      <td class="t1">Gernot Akemann</td>
+      <td class="t0"><u>9:30-10:15</u></td>
+      <td class="t1" style="border-top: 1px solid gray; border-bottom:1px solid #f1948a">Gernot Akemann</td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+    </tr>
+    <tr>
+      <td class="t0"><u>10:15-10:30</u></td>
+      <td class="t1"style="border-bottom: 1px solid gray; border-top:1px solid #f1948a"></td>
       <td class="t6"></td>
       <td class="t6"></td>
       <td class="t6"></td>
