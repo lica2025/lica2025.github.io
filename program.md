@@ -17,142 +17,142 @@ title: "Program"
 <body>
   <table>
     <tr>
-      <th style="t0"><u>Time</u></th>
-      <th style="t0">Monday 4th</th>
-      <th style="t0">Tuesday 5th</th>
-      <th style="t0">Wednesday 6th</th>
-      <th style="t0">Thursday 7th</th>
-      <th style="t0">Friday 8th</th>
+      <th class="t0"><u>Time</u></th>
+      <th class="t0">Monday 4th</th>
+      <th class="t0">Tuesday 5th</th>
+      <th class="t0">Wednesday 6th</th>
+      <th class="t0">Thursday 7th</th>
+      <th class="t0">Friday 8th</th>
     </tr>
     <tr>
-      <td style="t0"><u>9:00-9:30</u></td>
-      <td style="t6">Coffee break</td>
-      <td style="t6">Coffee break</td>
-      <td style="t6">Coffee break</td>
-      <td style="t6">Coffee break</td>
-      <td style="t6">Coffee break</td>
+      <td class="t0"><u>9:00-9:30</u></td>
+      <td class="t6">Coffee break</td>
+      <td class="t6">Coffee break</td>
+      <td class="t6">Coffee break</td>
+      <td class="t6">Coffee break</td>
+      <td class="t6">Coffee break</td>
     </tr>
     <tr>
-      <td style="t0"><u>9:30-10:30</u></td>
-      <td style="t1">Gernot Akemann</td>
-      <td style="t6"></td>
-      <td style="t6"></td>
-      <td style="t6"></td>
-      <td style="t6"></td>
+      <td class="t0"><u>9:30-10:30</u></td>
+      <td style="border-bottom:none" class="t1">Gernot Akemann</td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
     </tr>
     <tr>
-      <td style="t0"><u>10:30-11:30</u></td>
-      <td style="t2">Ioana Dumitriu</td>
-      <td style="t6"></td>
-      <td style="t6"></td>
-      <td style="t6"></td>
-      <td style="t6"></td>
+      <td class="t0"><u>10:30-11:30</u></td>
+      <td class="t2">Ioana Dumitriu</td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
     </tr>
     <tr>
-      <td style="t0"><u>11:30-13:30</u></td>
-      <td style="t6">Lunch break</td>
-      <td style="t6">Lunch break</td>
-      <td style="t6">Lunch break</td>
-      <td style="t6">Lunch break</td>
-      <td style="t6">Lunch break</td>
+      <td class="t0"><u>11:30-13:30</u></td>
+      <td class="t6">Lunch break</td>
+      <td class="t6">Lunch break</td>
+      <td class="t6">Lunch break</td>
+      <td class="t6">Lunch break</td>
+      <td class="t6">Lunch break</td>
     </tr>
     <tr>
-      <td style="t0"><u>13:30-14:30</u></td>
-      <td style="t3">Benoît Collins</td>
-      <td style="t6"></td>
-      <td style="t6"></td>
-      <td style="t6"></td>
-      <td style="t6"></td>
+      <td class="t0"><u>13:30-14:30</u></td>
+      <td class="t3">Benoît Collins</td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
     </tr>
     <tr>
-      <td style="t0"><u>14:30-15:30</u></td>
-      <td style="t4">Arno Kuijlaars</td>
-      <td style="t6"></td>
-      <td style="t6"></td>
-      <td style="t6"></td>
-      <td style="t6"></td>
+      <td class="t0"><u>14:30-15:30</u></td>
+      <td class="t4">Arno Kuijlaars</td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
     </tr>
     <tr>
-      <td style="t0"><u>15:30-16:30</u></td>
-      <td style="t5">Peter Forrester</td>
-      <td style="t6"></td>
-      <td style="t6"></td>
-      <td style="t6"></td>
-      <td style="t6"></td>
+      <td class="t0"><u>15:30-16:30</u></td>
+      <td class="t5">Peter Forrester</td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
     </tr>
   </table>
   <table>
     <tr>
-      <th style="t0"><u>Time</u></th>
-      <th style="t0">Monday 11th</th>
-      <th style="t0">Tuesday 12th</th>
-      <th style="t0">Wednesday 13th</th>
-      <th style="t0">Thursday 14th</th>
-      <th style="t0">Friday 15th</th>
+      <th class="t0"><u>Time</u></th>
+      <th class="t0">Monday 11th</th>
+      <th class="t0">Tuesday 12th</th>
+      <th class="t0">Wednesday 13th</th>
+      <th class="t0">Thursday 14th</th>
+      <th class="t0">Friday 15th</th>
     </tr>
     <tr>
-      <td style="t0"><u>9:00-9:30</u></td>
-      <td style="t6">Coffee break</td>
-      <td style="t6">Coffee break</td>
-      <td style="t6">Coffee break</td>
-      <td style="t6">Coffee break</td>
-      <td style="t6">Coffee break</td>
+      <td class="t0"><u>9:00-9:30</u></td>
+      <td class="t6">Coffee break</td>
+      <td class="t6">Coffee break</td>
+      <td class="t6">Coffee break</td>
+      <td class="t6">Coffee break</td>
+      <td class="t6">Coffee break</td>
     </tr>
     <tr>
-      <td style="t0"><u>9:30-10:15</u></td>
-      <td style="t1"></td>
-      <td style="t6"></td>
-      <td style="t6"></td>
-      <td style="t6"></td>
-      <td style="t6"></td>
+      <td class="t0"><u>9:30-10:15</u></td>
+      <td class="t1"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
     </tr>
     <tr>
-      <td style="t0"><u>10:15-11:00</u></td>
-      <td style="t2"></td>
-      <td style="t6"></td>
-      <td style="t6"></td>
-      <td style="t6"></td>
-      <td style="t6"></td>
+      <td class="t0"><u>10:15-11:00</u></td>
+      <td class="t2"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
     </tr>
     <tr>
-      <td style="t0"><u>11:00-11:45</u></td>
-      <td style="t2"></td>
-      <td style="t6"></td>
-      <td style="t6"></td>
-      <td style="t6"></td>
-      <td style="t6"></td>
+      <td class="t0"><u>11:00-11:45</u></td>
+      <td class="t2"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
     </tr>
     <tr>
-      <td style="t0"><u>11:45-13:30</u></td>
-      <td style="t6">Lunch break</td>
-      <td style="t6">Lunch break</td>
-      <td style="t6">Lunch break</td>
-      <td style="t6">Lunch break</td>
-      <td style="t6">Lunch break</td>
+      <td class="t0"><u>11:45-13:30</u></td>
+      <td class="t6">Lunch break</td>
+      <td class="t6">Lunch break</td>
+      <td class="t6">Lunch break</td>
+      <td class="t6">Lunch break</td>
+      <td class="t6">Lunch break</td>
     </tr>
     <tr>
-      <td style="t0"><u>13:30-14:30</u></td>
-      <td style="t3"></td>
-      <td style="t6"></td>
-      <td style="t6"></td>
-      <td style="t6"></td>
-      <td style="t6"></td>
+      <td class="t0"><u>13:30-14:30</u></td>
+      <td class="t3"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
     </tr>
     <tr>
-      <td style="t0"><u>14:30-15:30</u></td>
-      <td style="t4"></td>
-      <td style="t6"></td>
-      <td style="t6"></td>
-      <td style="t6"></td>
-      <td style="t6"></td>
+      <td class="t0"><u>14:30-15:30</u></td>
+      <td class="t4"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
     </tr>
     <tr>
-      <td style="t0"><u>15:30-16:30</u></td>
-      <td style="t5"></td>
-      <td style="t6"></td>
-      <td style="t6"></td>
-      <td style="t6"></td>
-      <td style="t6"></td>
+      <td class="t0"><u>15:30-16:30</u></td>
+      <td class="t5"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
+      <td class="t6"></td>
     </tr>
   </table>
 
