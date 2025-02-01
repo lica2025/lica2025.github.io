@@ -4,7 +4,7 @@ title: "Program"
 ---
 
 <style>
-        table{overflow-y: hidden;}
+        table{border-collapse: collapse; overflow-y: hidden;}
         .t0{background-color:LightGray; border: 1px solid black}
         .t1{background-color:#f1948a; border: 1px solid gray}
         .t2{background-color:#f8c471; border: 1px solid gray}
