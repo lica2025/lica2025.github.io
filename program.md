@@ -41,7 +41,7 @@ title: "Program"
     </tr>
     <tr>
       <td class="t0"><u>10:15-10:30</u></td>
-      <td class="t1"style="border-bottom: 1px solid gray; border-top:1px solid #f1948a"></td>
+      <td style="border-bottom: 1px solid gray; border-top:1px solid #f1948a" class="t1"></td>
       <td class="t6"></td>
       <td class="t6"></td>
       <td class="t6"></td>
