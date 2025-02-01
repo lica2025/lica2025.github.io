@@ -57,7 +57,7 @@ title: "Program"
     </tr>
     <tr>
       <td class="t0"><u>11:00-11:30</u></td>
-      <td class="t2">Ioana Dumitriu</td>
+      <td class="t2"></td>
       <td class="t6"></td>
       <td class="t6"></td>
       <td class="t6"></td>
@@ -89,7 +89,7 @@ title: "Program"
     </tr>
     <tr>
       <td class="t0"><u>14:00-14:30</u></td>
-      <td class="t3">Benoît Collins</td>
+      <td class="t3"></td>
       <td class="t6"></td>
       <td class="t6"></td>
       <td class="t6"></td>
@@ -105,7 +105,7 @@ title: "Program"
     </tr>
     <tr>
       <td class="t0"><u>14:30-15:30</u></td>
-      <td class="t4">Arno Kuijlaars</td>
+      <td class="t4"></td>
       <td class="t6"></td>
       <td class="t6"></td>
       <td class="t6"></td>
