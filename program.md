@@ -80,10 +80,8 @@ title: "Program"
       <td class="t6"></td>
       <td class="t6"></td>
     </tr>
-  </table>
-  <table>
     <tr>
-      <th class="t0"><u>Time</u></th>
+      <th class="t0"></th>
       <th class="t0">Monday 11th</th>
       <th class="t0">Tuesday 12th</th>
       <th class="t0">Wednesday 13th</th>
