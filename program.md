@@ -8,7 +8,7 @@ title: "Program"
         .t0{background-color:LightGray; border: 1px solid black}
         .t1{background-color:#f1948a; border: 1px solid gray}
         .t2{background-color:#f8c471; border: 1px solid gray}
-        .t3{background-color:#82e0aa; border-bottom: transparent}
+        .t3{background-color:#82e0aa; border: 1px solid gray}
         .t4{background-color:#85c1e9; border: 1px solid gray}
         .t5{background-color:#d2b4de; border: 1px solid gray}
         .t6{background-color:WhiteSmoke; border: 1px solid gray}
@@ -66,7 +66,7 @@ title: "Program"
     </tr>
     <tr>
       <td class="t0"><u>14:30-15:30</u></td>
-      <td class="t4">Arno Kuijlaars</td>
+      <td style="background-color:#85c1e9;">Arno Kuijlaars</td>
       <td class="t6"></td>
       <td class="t6"></td>
       <td class="t6"></td>
