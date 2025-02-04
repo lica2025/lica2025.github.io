@@ -182,7 +182,7 @@ title: "Participants"
     </tr>
     <tr>
         <td>Anas Rahman</td>
-        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t2"></div><div id="rectangle" class="t3"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
+        <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t2"></div><div id="rectangle" class="t3"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
         <td>University of Hong Kong</td>
         <td>Hong Kong</td>
     </tr>
