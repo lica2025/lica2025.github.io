@@ -25,7 +25,7 @@ title: "Logistics"
 
     <p>We are able to provide on-campus accommodation to some participants for part of their stay, with preference given to students, early career researchers, and those who would benefit from support.</p> 
     
-    <p>Participants may also wish to book off-campus accommodation nearby the MATRIX Institute. Information can be found <a href="https://www.matrix-inst.org.au/accommodation/#post-332">here</a>. We will be organising transportation from Ballarat Train Station to the MATRIX Institute each morning of the research program.</p>
+    <p>Participants may also wish to book off-campus accommodation nearby the MATRIX Institute. Information can be found <a href="https://www.matrix-inst.org.au/accommodation/#post-332">here</a>.</p>
 
 </div>
 
