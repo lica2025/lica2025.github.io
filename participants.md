@@ -212,7 +212,7 @@ title: "Participants"
     </tr>
     <tr>
         <td>Dong Wang</td>
-        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t5"></div></td>
+        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
         <td>University of Chinese Academy of Sciences</td>
         <td>China</td>
     </tr>
