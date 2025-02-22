@@ -55,6 +55,12 @@ title: "Participants"
         <td>Hong Kong</td>
     </tr>
     <tr>
+        <td>Folkmar Bornemann</td>
+        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t5"></div></td>
+        <td>Technical University of Munich</td>
+        <td>Germany</td>
+    </tr>
+    <tr>
         <td>Sung-Soo Byun</td>
         <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
         <td>Seoul National University</td>
@@ -187,10 +193,22 @@ title: "Participants"
         <td>Hong Kong</td>
     </tr>
     <tr>
+        <td>Noriyoshi Sakuma</td>
+        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t3"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
+        <td>Osaka University</td>
+        <td>Japan</td>
+    </tr>
+    <tr>
         <td>Gregory Schehr</td>
         <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
         <td>Sorbonne Université</td>
         <td>France</td>
+    </tr>
+    <tr>
+        <td>Bo-Jian Shen</td>
+        <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t5"></div></td>
+        <td>The University of Melbourne</td>
+        <td>Australia</td>
     </tr>
     <tr>
         <td>Nicholas Simm</td>
