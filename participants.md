@@ -104,7 +104,7 @@ title: "Participants"
     </tr>
     <tr>
         <td>Lucas Hackl</td>
-        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t3"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
+        <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
         <td>The University of Melbourne</td>
         <td>Australia</td>
     </tr>
