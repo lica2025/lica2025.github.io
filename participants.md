@@ -85,12 +85,6 @@ title: "Participants"
         <td>Hong Kong</td>
     </tr>
     <tr>
-        <td>Harini Desiraju</td>
-        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t5"></div></td>
-        <td>University of Sydney</td>
-        <td>Australia</td>
-    </tr>
-    <tr>
         <td>Ioana Dumitriu</td>
         <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t2"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
         <td>University of California, San Diego</td>
