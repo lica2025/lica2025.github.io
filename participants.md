@@ -50,7 +50,7 @@ title: "Participants"
     </tr>
     <tr>
         <td>Zhigang Bao</td>
-        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t3"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
+        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t2"></div><div id="rectangle" class="t3"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
         <td>The University of Hong Kong</td>
         <td>Hong Kong</td>
     </tr>
@@ -173,6 +173,12 @@ title: "Participants"
         <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
         <td>Carlos III University of Madrid</td>
         <td>Spain</td>
+    </tr>
+    <tr>
+        <td>Daniel Munoz George</td>
+        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t3"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
+        <td>The University of Hong Kong</td>
+        <td>Hong Kong</td>
     </tr>
     <tr>
         <td>Jonathan Novak</td>
