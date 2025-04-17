@@ -43,6 +43,12 @@ title: "Participants"
         <th>Country</th>
 </tr>
     <tr>
+        <td>Matthias Allard</td>
+        <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t3"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
+        <td>The University of Melbourne</td>
+        <td>Australia</td>
+    </tr>
+    <tr>
         <td>Gernot Akemann</td>
         <td style="white-space: nowrap;"><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
         <td>Bielefeld University</td>
@@ -97,6 +103,12 @@ title: "Participants"
         <td>Australia</td>
     </tr>
     <tr>
+        <td>Yusuf Ghelem</td>
+        <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
+        <td>The University of Melbourne</td>
+        <td>Australia</td>
+    </tr>
+    <tr>
         <td>Lucas Hackl</td>
         <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
         <td>The University of Melbourne</td>
@@ -107,6 +119,12 @@ title: "Participants"
         <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
         <td>University of the Ryukyus</td>
         <td>Japan</td>
+    </tr>
+    <tr>
+        <td>Yeong-Gwang Jung</td>
+        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t3"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
+        <td>Seoul National University</td>
+        <td>South Korea</td>
     </tr>
     <tr>
         <td>Jon Keating</td>
@@ -131,6 +149,12 @@ title: "Participants"
         <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
         <td>Katholieke Universiteit Leuven</td>
         <td>Belgium</td>
+    </tr>
+    <tr>
+        <td>Yong-Woo Lee</td>
+        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
+        <td>Seoul National University</td>
+        <td>South Korea</td>
     </tr>
     <tr>
         <td>Shi-Hao Li</td>
@@ -265,10 +289,22 @@ title: "Participants"
         <td>China</td>
     </tr>
     <tr>
+        <td>Mathieu Yahiaoui</td>
+        <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
+        <td>The University of Melbourne</td>
+        <td>Australia</td>
+    </tr>
+    <tr>
         <td>Meng Yang</td>
         <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
         <td>Great Bay University</td>
         <td>China</td>
+    </tr>
+    <tr>
+        <td>Eui Yoo</td>
+        <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
+        <td>Seoul National University</td>
+        <td>South Korea</td>
     </tr>
     <tr>
         <td>Lun Zhang</td>
@@ -278,7 +314,7 @@ title: "Participants"
     </tr>
     <tr>
         <td>Jiyuan Zhang</td>
-        <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
+        <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t3"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t5"></div></td>
         <td>South China University of Technology</td>
         <td>China</td>
     </tr>
