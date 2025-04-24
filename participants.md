@@ -43,16 +43,16 @@ title: "Participants"
         <th>Country</th>
 </tr>
     <tr>
-        <td>Matthias Allard</td>
-        <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t3"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
-        <td>The University of Melbourne</td>
-        <td>Australia</td>
-    </tr>
-    <tr>
         <td>Gernot Akemann</td>
         <td style="white-space: nowrap;"><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
         <td>Bielefeld University</td>
         <td>Germany</td>
+    </tr>
+    <tr>
+        <td>Matthias Allard</td>
+        <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t3"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
+        <td>The University of Melbourne</td>
+        <td>Australia</td>
     </tr>
     <tr>
         <td>Zhigang Bao</td>
@@ -199,7 +199,7 @@ title: "Participants"
         <td>Spain</td>
     </tr>
     <tr>
-        <td>Daniel Munoz George</td>
+        <td>Daniel Muñoz George</td>
         <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t3"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
         <td>The University of Hong Kong</td>
         <td>Hong Kong</td>
@@ -281,6 +281,12 @@ title: "Participants"
         <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t5"></div></td>
         <td>Victoria University of Wellington</td>
         <td style="white-space: nowrap;">New Zealand</td>
+    </tr>
+    <tr>
+        <td>Thomas Wolfs</td>
+        <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
+        <td>Katholieke Universiteit Leuven</td>
+        <td>Belgium</td>
     </tr>
     <tr>
         <td>Yuanyuan Xu</td>
