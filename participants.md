@@ -127,12 +127,6 @@ title: "Participants"
         <td>South Korea</td>
     </tr>
     <tr>
-        <td>Jon Keating</td>
-        <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
-        <td>University of Oxford</td>
-        <td>UK</td>
-    </tr>
-    <tr>
         <td>Mario Kieburg</td>
         <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t3"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
         <td>The University of Melbourne</td>
@@ -209,6 +203,12 @@ title: "Participants"
         <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t3"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
         <td>University of California, San Diego</td>
         <td>USA</td>
+    </tr>
+    <tr>
+        <td>Anita Ponsaing</td>
+        <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
+        <td>University of South Australia</td>
+        <td>Australia</td>
     </tr>
     <tr>
         <td>Anas Rahman</td>
