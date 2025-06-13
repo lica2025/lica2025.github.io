@@ -91,12 +91,6 @@ title: "Participants"
         <td>Hong Kong</td>
     </tr>
     <tr>
-        <td>Ioana Dumitriu</td>
-        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t2"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
-        <td>University of California, San Diego</td>
-        <td>USA</td>
-    </tr>
-    <tr>
         <td>Peter Forrester</td>
         <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t5"></div></td>
         <td>The University of Melbourne</td>
@@ -113,6 +107,12 @@ title: "Participants"
         <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
         <td>The University of Melbourne</td>
         <td>Australia</td>
+    </tr>
+    <tr>
+        <td>Youyi Huang</td>
+        <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t3"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t5"></div></td>
+        <td>University of Central Missouri</td>
+        <td>USA</td>
     </tr>
     <tr>
         <td>Masahiko Ito</td>
@@ -160,6 +160,12 @@ title: "Participants"
         <td>Zhenyu Liao</td>
         <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t2"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
         <td>Huazhong University of Science and Technology</td>
+        <td>China</td>
+    </tr>
+    <tr>
+        <td>Dang-Zheng Liu</td>
+        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t3"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
+        <td>University of Science and Technology of China</td>
         <td>China</td>
     </tr>
     <tr>
@@ -263,6 +269,12 @@ title: "Participants"
         <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t5"></div></td>
         <td>University of Sussex</td>
         <td>UK</td>
+    </tr>
+    <tr>
+        <td>Linfeng Wei</td>
+        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
+        <td>Texas Tech University</td>
+        <td>USA</td>
     </tr>
     <tr>
         <td>Lu Wei</td>
