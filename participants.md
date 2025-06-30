@@ -91,6 +91,12 @@ title: "Participants"
         <td>Hong Kong</td>
     </tr>
     <tr>
+        <td>Norm Do</td>
+        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t3"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
+        <td>Monash University</td>
+        <td>Australia</td>
+    </tr>
+    <tr>
         <td>Peter Forrester</td>
         <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t5"></div></td>
         <td>The University of Melbourne</td>
@@ -215,6 +221,12 @@ title: "Participants"
         <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t2"></div><div id="rectangle" class="t3"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
         <td>University of Hong Kong</td>
         <td>Hong Kong</td>
+    </tr>
+    <tr>
+        <td>Pieter Roffelsen</td>
+        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t5"></div></td>
+        <td>The University of Sydney</td>
+        <td>Australia</td>
     </tr>
     <tr>
         <td>Noriyoshi Sakuma</td>
