@@ -205,12 +205,6 @@ title: "Participants"
         <td>Hong Kong</td>
     </tr>
     <tr>
-        <td>Jonathan Novak</td>
-        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t3"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
-        <td>University of California, San Diego</td>
-        <td>USA</td>
-    </tr>
-    <tr>
         <td>Anita Ponsaing</td>
         <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
         <td>University of South Australia</td>
