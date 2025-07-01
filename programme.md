@@ -1,5 +1,5 @@
 ---
 layout: page
-title: "Program"
+title: "Programme"
 ---
 Coming soon.
