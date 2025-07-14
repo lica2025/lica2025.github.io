@@ -2,6 +2,11 @@
 layout: page
 title: "Logistics"
 ---
+<head>
+<style>
+    img{width: 90%}
+</style>
+</head>
 <body>
 <article>
     
@@ -27,8 +32,6 @@ title: "Logistics"
     <p>Participants staying on campus will be staying at either Semmens Hall or The Lodge, described <a href="https://www.matrix-inst.org.au/accommodation">here</a>; see campus map below.</p>
     <p>Participants staying off-campus must either take the bus 30 described above from Ballarat or the RACV Goldfields Resort, or will otherwise be within walking distance of the MATRIX Institute.</p>
     <img src="/CreswickCampus.png" alt="MATRIX campus map">
-    
-    <p>Participants may also wish to book off-campus accommodation nearby the MATRIX Institute. Information can be found <a href="https://www.matrix-inst.org.au/accommodation/#post-332">here</a>.</p>
 
 </div>
 
