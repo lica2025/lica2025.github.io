@@ -31,19 +31,8 @@ details summary > * {
 
 <table style="border-collapse: collapse; border: none;overflow-y: hidden;">
 <tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" class="t1"></div> &nbsp; Gernot Akemann</td>
-</tr>
-<tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" class="t2"></div> &nbsp; Machine learning and statistical inference</td>
-</tr>
-<tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" class="t3"></div> &nbsp; (Free) probability theory</td>
-</tr>
-<tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" class="t4"></div> &nbsp; Orthogonal polynomials and asymptotic analysis</td>
-</tr>
-<tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" class="t5"></div> &nbsp; Integrable systems including Painlevé equations</td>
+        <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" class="t1"></div> &nbsp; <b>Gernot Akemann</b></td>
+        <td>Recent advances in non-Hermitian random matrix theory</td>
 </tr>
 </table>
 
