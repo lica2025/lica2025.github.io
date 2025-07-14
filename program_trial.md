@@ -7,7 +7,7 @@ title: "Program"
 </style>
 
 <body>
-<details open><h2><summary>Week 1 Shedule</summary></h2>
+<details open><summary>Week 1 Shedule</summary>
 <img src="/Schedule1.png" alt="Week 1 Schedule"></details>
 
 <details><summary><h2>Week 2 Shedule</h2></summary>
