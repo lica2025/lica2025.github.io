@@ -4,10 +4,17 @@ title: "Program"
 ---
 <style>
         img {width: 90%;}
+        details summary { 
+  cursor: pointer;
+}
+
+details summary > * {
+  display: inline;
+}
 </style>
 
 <body>
-<details open><summary><p style="font-size: 4em;"><b>Week 1 Shedule</b></p></summary>
+<details open><summary><h2>Week 1 Shedule</h2></summary>
 <img src="/Schedule1.png" alt="Week 1 Schedule"></details>
 
 <details><summary><h2>Week 2 Shedule</h2></summary>
