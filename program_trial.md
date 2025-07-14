@@ -10,13 +10,13 @@ title: "Program"
 <details><summary><h2>Week 1 Shedule</h2></summary>
 <img src="/Schedule1.png" alt="Week 1 Schedule"></details>
 
-<h2>Week 2 Shedule</h2>
-<img src="/Schedule2.png" alt="Week 2 Schedule">
+<details><summary><h2>Week 2 Shedule</h2></summary>
+<img src="/Schedule2.png" alt="Week 2 Schedule"></details>
 
-<h2>Talk Titles</h2>
-<p>Please find <a href="/Abstracts.pdf" target="_blank">detailed abstracts here</a>.</p>
+<details><summary><h2>Talk Titles</h2></summary>
+<p>Please find <a href="/Abstracts.pdf" target="_blank">detailed abstracts here</a>.</p></details>
 
-<h2>Collaborative Projects</h2>
+<details><summary><h2>Collaborative Projects</h2></summary>
 <p><b>The Mysterious Multilinear Structure of Asymptotic Expansions in Classical Random Matrix Ensembles</b></p>
 <ul>
         <li><b>People:</b> Folkmar Bornemann</li>
@@ -38,11 +38,11 @@ title: "Program"
 <ul>
         <li><b>People:</b> Thomas Wolfs</li>
         <li><b>Next meeting:</b> TBA</li>
-        <li><b>Summary:</b> So far, mainly two notions of polynomial ensemble of derivative type (also called Pólya ensemble) have been considered: a multiplicative one, due to Kieburg-Kösters (2016), and an additive one, due to Kuijlaars-Róman (2019). They typically appear in connection to the squared singular values of products of invertible random matrices and the eigenvalues of sums of Hermitian random matrices. The main goal of this project is to develop discrete notions of derivative type that are compatible with certain non-intersecting path models induced by random tilings. Such developments will deepen our understanding of these models as ensembles of derivative type typically have useful properties, e.g., their kernel has a double integral representation, opening up the road for asymptotic analysis, and they posses certain (de)composition properties. Special interest goes to the discrete (multiple) orthogonal polynomial ensembles associated with the (multiple) Kravchuk, Hahn and q-Racah polynomials, but other polynomials from the (multiple) (q-)Askey scheme are considered as well. After an appropriate notion of derivative type has been set up, the goal is to obtain a double integral representation for the correlation kernel and to describe the (de)composition properties of such models. The latter is deeply connected to developing the surrounding finite free probability theory.</li>
+        <li><details><summary><b>Description:</b></summary> So far, mainly two notions of polynomial ensemble of derivative type (also called Pólya ensemble) have been considered: a multiplicative one, due to Kieburg-Kösters (2016), and an additive one, due to Kuijlaars-Róman (2019). They typically appear in connection to the squared singular values of products of invertible random matrices and the eigenvalues of sums of Hermitian random matrices. The main goal of this project is to develop discrete notions of derivative type that are compatible with certain non-intersecting path models induced by random tilings. Such developments will deepen our understanding of these models as ensembles of derivative type typically have useful properties, e.g., their kernel has a double integral representation, opening up the road for asymptotic analysis, and they posses certain (de)composition properties. Special interest goes to the discrete (multiple) orthogonal polynomial ensembles associated with the (multiple) Kravchuk, Hahn and q-Racah polynomials, but other polynomials from the (multiple) (q-)Askey scheme are considered as well. After an appropriate notion of derivative type has been set up, the goal is to obtain a double integral representation for the correlation kernel and to describe the (de)composition properties of such models. The latter is deeply connected to developing the surrounding finite free probability theory.</details></li>
 </ul>
 <p><b>A Simple Diffusion Model for Free Cumulants</b></p>
 <ul>
         <li><b>People:</b> Gregory Schehr</li>
         <li><b>Next meeting:</b> TBA</li>
-</ul>
+</ul></details>
 </body>
