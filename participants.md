@@ -206,7 +206,7 @@ title: "Participants"
     </tr>
     <tr>
         <td>Daniel Muñoz George</td>
-        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t3"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
+        <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t2"></div><div id="rectangle" class="t3"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t0"></div></td>
         <td>The University of Hong Kong</td>
         <td>Hong Kong</td>
     </tr>
@@ -247,16 +247,10 @@ title: "Participants"
         <td>Australia</td>
     </tr>
     <tr>
-        <td>Nicholas Simm</td>
-        <td><div id="rectangle" class="t1"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t4"></div><div id="rectangle" class="t5"></div></td>
-        <td>University of Sussex</td>
-        <td>UK</td>
-    </tr>
-    <tr>
         <td>Daria Tieplova</td>
         <td><div id="rectangle" class="t0"></div><div id="rectangle" class="t2"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div><div id="rectangle" class="t0"></div></td>
-        <td>The Abdus Salam ICTP</td>
-        <td>Italy</td>
+        <td>Aarhus University</td>
+        <td>Denmark</td>
     </tr>
     <tr>
         <td style="white-space: nowrap;">Jacobus Verbaarschot</td>
