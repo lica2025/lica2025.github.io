@@ -27,14 +27,22 @@ details summary > * {
 <img src="/Schedule2.png" alt="Week 2 Schedule"></details>
 
 <details><summary><h2>Talk Titles</h2></summary>
-<p>Please find <a href="/Abstracts.pdf" target="_blank">detailed abstracts here</a>.</p></details>
+<p>Please find <a href="/Abstracts.pdf" target="_blank">detailed abstracts here</a>.</p>
 
 <table style="border-collapse: collapse; border: none;overflow-y: hidden;">
 <tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" class="t1"></div> &nbsp; <b>Gernot Akemann</b></td>
+        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Gernot Akemann</b></td>
         <td>Recent advances in non-Hermitian random matrix theory</td>
 </tr>
-</table>
+<tr style="border-collapse: collapse; border: none;">
+        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t2"></div> &nbsp; <b>Zhenyu Liao</b></td>
+        <td>Random Matrix Theory for Deep Learning: Opportunities and Challenges</td>
+</tr>
+<tr style="border-collapse: collapse; border: none;">
+        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Arno Kuijlaars</b></td>
+        <td>Riemann Hilbert problems</td>
+</tr>
+</table></details>
 
 <details open><summary><h2>Collaborative Projects</h2></summary>
 <p><b>The Mysterious Multilinear Structure of Asymptotic Expansions in Classical Random Matrix Ensembles</b></p>
