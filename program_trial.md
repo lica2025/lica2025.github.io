@@ -11,6 +11,7 @@ title: "Program"
 details summary > * {
   display: inline;
 }
+        table{overflow-y: hidden;}
         .t1{width: 10px; height: 10px; background-color:#f1948a; border: 1px solid gray; display: inline-block;}
         .t2{width: 10px; height: 10px; background-color:#f8c471; border: 1px solid gray; display: inline-block;}
         .t3{width: 10px; height: 10px; background-color:#82e0aa; border: 1px solid gray; display: inline-block;}
@@ -27,6 +28,24 @@ details summary > * {
 
 <details><summary><h2>Talk Titles</h2></summary>
 <p>Please find <a href="/Abstracts.pdf" target="_blank">detailed abstracts here</a>.</p></details>
+
+<table style="border-collapse: collapse; border: none;overflow-y: hidden;">
+<tr style="border-collapse: collapse; border: none;">
+        <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" class="t1"></div> &nbsp; Gernot Akemann</td>
+</tr>
+<tr style="border-collapse: collapse; border: none;">
+        <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" class="t2"></div> &nbsp; Machine learning and statistical inference</td>
+</tr>
+<tr style="border-collapse: collapse; border: none;">
+        <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" class="t3"></div> &nbsp; (Free) probability theory</td>
+</tr>
+<tr style="border-collapse: collapse; border: none;">
+        <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" class="t4"></div> &nbsp; Orthogonal polynomials and asymptotic analysis</td>
+</tr>
+<tr style="border-collapse: collapse; border: none;">
+        <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" class="t5"></div> &nbsp; Integrable systems including Painlevé equations</td>
+</tr>
+</table>
 
 <details open><summary><h2>Collaborative Projects</h2></summary>
 <p><b>The Mysterious Multilinear Structure of Asymptotic Expansions in Classical Random Matrix Ensembles</b></p>
