@@ -3,6 +3,7 @@ layout: page
 title: "Program"
 ---
 <style>
+        img {width: 90%;}
         table{border-collapse: collapse; border: none; overflow-y: hidden;}
         td{whitespace: nowrap !important}
         .t0{background-color:LightGray !important; border: 1px solid black !important}
