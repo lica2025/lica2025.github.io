@@ -7,7 +7,7 @@ title: "Program"
 </style>
 
 <body>
-<details><summary><h2>Week 1 Shedule</h2></summary>
+<details open><summary><h2>Week 1 Shedule</h2></summary>
 <img src="/Schedule1.png" alt="Week 1 Schedule"></details>
 
 <details><summary><h2>Week 2 Shedule</h2></summary>
@@ -16,7 +16,7 @@ title: "Program"
 <details><summary><h2>Talk Titles</h2></summary>
 <p>Please find <a href="/Abstracts.pdf" target="_blank">detailed abstracts here</a>.</p></details>
 
-<details><summary><h2>Collaborative Projects</h2></summary>
+<details open><summary><h2>Collaborative Projects</h2></summary>
 <p><b>The Mysterious Multilinear Structure of Asymptotic Expansions in Classical Random Matrix Ensembles</b></p>
 <ul>
         <li><b>People:</b> Folkmar Bornemann</li>
@@ -26,13 +26,13 @@ title: "Program"
 <ul>
         <li><b>People:</b> Benoît Collins</li>
         <li><b>Next meeting:</b> TBA</li>
-        <li><b>Description:</b> In operator algebra, a Haagerup inequality states that for a non-commuting polynomial of given degree <i>r</i>, in non-commuting variables, its operator norm and its <i>l</i><sup>2</sup> norm are comparable, up to a polynomial factor in the degree <i>r</i>. Such inequalities are true at the level of random matrices but the proof is very hard. Namely, it relies on strong convergence. We believe there should be a direct proof (perhaps using concentration of measure or other RMT techniques). This is not only a natural question, this would also allow to reprove in a new conceptual way strong convergence in many cases, and hopefully, with better bounds.</li>
+        <li><details><summary><b>Description:</b></summary> In operator algebra, a Haagerup inequality states that for a non-commuting polynomial of given degree <i>r</i>, in non-commuting variables, its operator norm and its <i>l</i><sup>2</sup> norm are comparable, up to a polynomial factor in the degree <i>r</i>. Such inequalities are true at the level of random matrices but the proof is very hard. Namely, it relies on strong convergence. We believe there should be a direct proof (perhaps using concentration of measure or other RMT techniques). This is not only a natural question, this would also allow to reprove in a new conceptual way strong convergence in many cases, and hopefully, with better bounds.</details></li>
 </ul>
 <p><b>Infinitesimal Free Probability and Wigner Ensembles</b></p>
 <ul>
         <li><b>People:</b> James Mingo, Yuanyuan Xu, Anas Rahman, Daniel Muñoz George</li>
         <li><b>Next meeting:</b> TBA</li>
-        <li><b>Summary:</b> Infinitesimal free probability has been able to recover, through combinatorial methods, differential equations characterising <i>1/N</i> corrections to eigenvalue densities of classical matrix ensembles. We wish to see if these methods can be extended to obtain equivalent results for more general Wigner ensembles.</li>
+        <li><details><summary><b>Description:</b></summary> Infinitesimal free probability has been able to recover, through combinatorial methods, differential equations characterising <i>1/N</i> corrections to eigenvalue densities of classical matrix ensembles. We wish to see if these methods can be extended to obtain equivalent results for more general Wigner ensembles.</details></li>
 </ul>
 <p><b>Disrete Notions of Derivative Type</b></p>
 <ul>
