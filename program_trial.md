@@ -17,5 +17,9 @@ title: "Program"
 <body>
 <h2>Week 1 Shedule</h2>
 <img src="Schedule1.png" alt="Week 1 Schedule">
-  <h2>Abstracts</h2>
+
+<h2>Week 2 Shedule</h2>
+<img src="Schedule2.png" alt="Week 2 Schedule">
+
+<h2>Abstracts</h2>
 </body>
