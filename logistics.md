@@ -39,7 +39,9 @@ title: "Logistics"
 
     <h2>Social Events</h2>
 
-    <p>There will be a banquet and excursions arranged. Further details are coming soon.</p>
+    <p>The banquet will be held at 18:00 on Wednesday, August 6th at <a href="https://www.google.com/maps/place/The+American+Creswick/@-37.4226802,143.8845129,14.9z/data=!4m9!3m8!1s0x6ad1383357eb0e67:0xe51b5d633a80a8ed!5m2!4m1!1i2!8m2!3d-37.424898!4d143.894476!16s%2Fg%2F1td2mmdw?entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D">The American Creswick</a> (90 Albert St, Creswick VIC 3363, Australia).</p>
+
+    <p>There will be an excursion held at 18:00 on Wednesday, August 13th Further information is coming soon.</p>
 
 </div>
 
