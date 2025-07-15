@@ -27,6 +27,27 @@ details summary > * {
 <img src="/Schedule2.png" alt="Week 2 Schedule"></details>
 
 <details><summary><h2>Talk Titles and Abstracts</h2></summary>
+<table style="border-collapse: collapse; border: none;overflow-y: hidden;">
+<tr style="border-collapse: collapse; border: none;">
+        <td style="border-collapse: collapse; border: none; background: transparent"><b>Research themes:</b></td>
+</tr>
+<tr style="border-collapse: collapse; border: none;">
+        <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" class="t1"></div> &nbsp; Statistical mechanics of log-gases</td>
+</tr>
+<tr style="border-collapse: collapse; border: none;">
+        <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" class="t2"></div> &nbsp; Machine learning and statistical inference</td>
+</tr>
+<tr style="border-collapse: collapse; border: none;">
+        <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" class="t3"></div> &nbsp; (Free) probability theory</td>
+</tr>
+<tr style="border-collapse: collapse; border: none;">
+        <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" class="t4"></div> &nbsp; Orthogonal polynomials and asymptotic analysis</td>
+</tr>
+<tr style="border-collapse: collapse; border: none;">
+        <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" class="t5"></div> &nbsp; Integrable systems including Painlevé equations</td>
+</tr>
+</table>
+
 <h3>Please find <a href="/TalkAbstracts.pdf" target="_blank">detailed abstracts here</a>.</h3>
 
 <table style="border-collapse: collapse; border: none;overflow-y: hidden;">
