@@ -71,7 +71,7 @@ details summary > * {
         <td>Information-theoretic reduction of deep neural networks to linear models in the over-parametrized proportional regime</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Jacobus Verbaarschot</b></td>
+        <td style="border-collapse: collapse; border: none;white-space: nowrap;"><div id="rectangle" class="t1"></div> &nbsp; <b>Jacobus Verbaarschot</b></td>
         <td>TBA</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
