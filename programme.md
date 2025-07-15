@@ -23,8 +23,12 @@ details summary > * {
 <details open><summary><h2>Week 1 Schedule</h2></summary>
 <img src="/Schedule1.png" alt="Week 1 Schedule"></details>
 
+<p> </p>
+
 <details><summary><h2>Week 2 Schedule</h2></summary>
 <img src="/Schedule2.png" alt="Week 2 Schedule"></details>
+
+<p> </p>
 
 <details open><summary><h2>Talk Titles and Abstracts</h2></summary>
 <table style="border-collapse: collapse; border: none;overflow-y: hidden;">
@@ -200,6 +204,8 @@ details summary > * {
         <td>Skewness of von Neumann entropy over Bures–Hall random states</td>
 </tr>
 </table></details>
+
+<p> </p>
 
 <details open><summary><h2>Collaborative Projects</h2></summary>
 <p><b>The mysterious multilinear structure of asymptotic expansions in classical random matrix ensembles</b></p>
