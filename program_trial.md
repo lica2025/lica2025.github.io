@@ -24,7 +24,7 @@ details summary > * {
 <img src="/Schedule1.png" alt="Week 1 Schedule"></details>
 
 <details><summary><h2>Week 2 Schedule</h2></summary>
-<img src="/Schedule2.png" alt="Week 2 Schedule"></details>
+<img src="/Schedule2a.png" alt="Week 2 Schedule"></details>
 
 <details><summary><h2>Talk Titles and Abstracts</h2></summary>
 <h3>Please find <a href="/Abstracts.pdf" target="_blank">detailed abstracts here</a>.</h3>
