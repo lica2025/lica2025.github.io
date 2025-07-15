@@ -30,7 +30,7 @@ details summary > * {
 
 <p> </p>
 
-<details open><summary><h2><p style="color: blue; text-decoration: underline;">Talk Titles and Abstracts </p></h2></summary>
+<details open><summary><h2 style="color: blue; text-decoration: underline;">Talk Titles and Abstracts </h2></summary>
 <table style="border-collapse: collapse; border: none;overflow-y: hidden;">
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none; background: transparent"><b>Research themes:</b></td>
