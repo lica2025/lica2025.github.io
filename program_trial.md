@@ -27,7 +27,7 @@ details summary > * {
 <img src="/Schedule2.png" alt="Week 2 Schedule"></details>
 
 <details><summary><h2>Talk Titles and Abstracts</h2></summary>
-<h3>Please find <a href="/Abstracts.pdf" target="_blank">detailed abstracts here</a>.</h3>
+<h3>Please find <a href="/TalkAbstracts.pdf" target="_blank">detailed abstracts here</a>.</h3>
 
 <table style="border-collapse: collapse; border: none;overflow-y: hidden;">
 <tr style="border-collapse: collapse; border: none;">
