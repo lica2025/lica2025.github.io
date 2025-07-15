@@ -54,7 +54,7 @@ details summary > * {
 
 <p> </p>
 
-<details ><summary><h2 style="text-decoration: underline;">Talk Titles</h2></summary>
+<details><summary><h2 style="text-decoration: underline;">Talk Titles</h2></summary>
 <h3>Please find <a href="/TalkAbstracts.pdf" target="_blank">detailed abstracts here</a>.<h3>
 <table style="border-collapse: collapse; border: none;overflow-y: hidden;">
 <tr style="border-collapse: collapse; border: none;">
