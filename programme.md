@@ -92,28 +92,28 @@ details summary > * {
         <td>Integrability aspects of large N expansions for classical β ensembles</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t2"></div> &nbsp; <b>Daria Tieplova</b></td>
-        <td>Information-theoretic reduction of deep neural networks to linear models in the over-parametrized proportional regime</td>
-</tr>
-<tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;white-space: nowrap;"><div id="rectangle" class="t1"></div> &nbsp; <b>Jacobus Verbaarschot</b></td>
-        <td>TBA</td>
+        <td>Non-Hermitian random matrix theories and integrability</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Dong Wang</b></td>
         <td>Asymptotics of biorthogonal polynomials related to Muttalib–Borodin ensemble and Hermitian random matrix with external source</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
+        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Satya N. Majumdar</b></td>
+        <td>Dynamically emergent strong corelations via stochastic resetting</td>
+</tr>
+<tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Gregory Schehr</b></td>
         <td>Higher-order cumulants of linear statistics in Coulomb and Riesz gases</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Youyi Huang</b></td>
-        <td>Cumulant structures of entanglement entropy</td>
+        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t2"></div> &nbsp; <b>Daria Tieplova</b></td>
+        <td>Information-theoretic reduction of deep neural networks to linear models in the over-parametrized proportional regime</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Satya N. Majumdar</b></td>
-        <td>Dynamically emergent strong corelations via stochastic resetting</td>
+        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Dan Dai</b></td>
+        <td>The multiplicative constant in asymptotics of higher-order analogues of the Tracy–Widom distribution</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t5"></div> &nbsp; <b>Masahiko Ito</b></td>
@@ -124,12 +124,12 @@ details summary > * {
         <td>Optimal decay of eigenvector overlap for non-Hermitian random matrices</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t2"></div> &nbsp; <b>Daniel M. George</b></td>
-        <td>Largest eigenvalue of a random matrix neural network model</td>
+        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Youyi Huang</b></td>
+        <td>Cumulant structures of entanglement entropy</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Dan Dai</b></td>
-        <td>The multiplicative constant in asymptotics of higher-order analogues of the Tracy–Widom distribution</td>
+        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t5"></div> &nbsp; <b>Lu Wei</b></td>
+        <td>Entropic cumulant structures of random state ensembles</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t3"></div> &nbsp; <b>Zhigang Bao</b></td>
@@ -148,28 +148,32 @@ details summary > * {
         <td>On the moments of the derivative of CUE characteristic polynomials inside the unit disc</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Leslie Molag</b></td>
-        <td>Universality for fluctuations of counting statistics of random normal matrices</td>
+        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t2"></div> &nbsp; <b>Justin Ko</b></td>
+        <td>On the phase diagram of extensive-rank symmetric matrix denoising beyond rotational invariance</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t5"></div> &nbsp; <b>Lun Zhang</b></td>
         <td>Asymptotics for the noncommutative Painlevé II equation</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t2"></div> &nbsp; <b>Justin Ko</b></td>
-        <td>On the phase diagram of extensive-rank symmetric matrix denoising beyond rotational invariance</td>
+        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Leslie Molag</b></td>
+        <td>Universality for fluctuations of counting statistics of random normal matrices</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Meng Yang</b></td>
         <td>Planar orthogonal polynomials and their applications</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t5"></div> &nbsp; <b>Lu Wei</b></td>
-        <td>Entropic cumulant structures of random state ensembles</td>
-</tr>
-<tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t5"></div> &nbsp; <b>Nicholas Witte</b></td>
         <td>TBA</td>
+</tr>
+<tr style="border-collapse: collapse; border: none;">
+        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t3"></div> &nbsp; <b>Dang-Zheng Liu</b></td>
+        <td>Edge statistics for random band matrices</td>
+</tr>
+<tr style="border-collapse: collapse; border: none;">
+        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t2"></div> &nbsp; <b>Daniel M. George</b></td>
+        <td>Largest eigenvalue of a random matrix neural network model</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t3"></div> &nbsp; <b>Noriyoshi Sakuma</b></td>
@@ -188,8 +192,8 @@ details summary > * {
         <td>Random winding numbers for determinantal curves from non-Hermitian matrix random fields</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t3"></div> &nbsp; <b>Dang-Zheng Liu</b></td>
-        <td>Edge statistics for random band matrices</td>
+        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Linfeng Wei</b></td>
+        <td>Skewness of von Neumann entropy over Bures–Hall random states</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Yeong-Gwang Jung</b></td>
@@ -200,8 +204,8 @@ details summary > * {
         <td>Three topological phases of the elliptic Ginibre ensembles with a point charge</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Linfeng Wei</b></td>
-        <td>Skewness of von Neumann entropy over Bures–Hall random states</td>
+        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Yong-Woo Lee</b></td>
+        <td>Large deviations for the number of real eigenvalues of the elliptic GinOE</td>
 </tr>
 </table></details>
 
