@@ -20,8 +20,10 @@ details summary > * {
 </style>
 
 <body>
-<p>This page displays the program schedule and a list of talk titles with <b><a href="/TalkAbstracts.pdf" target="_blank">detailed abstracts here</a></b>. Moreover, there is a list of on-going project collaborations that is frequently updated with <b>upcoming meeting times and locations</b>! Please contact the organisers for help in organising discussion sessions and updating this webpage. We encourage participants to join suitable projects and propose their own.</p>
-<details><summary><p><b>Legend:</b></p></summary>
+<p>This page displays the program schedule and a list of talk titles with <b><u><a href="/TalkAbstracts.pdf" target="_blank">detailed abstracts and programme summary here</a></u></b>.</p>
+<p>Moreover, there is a list of on-going project collaborations that is frequently updated with <b>upcoming meeting times and locations</b>!</p>
+<p>Please contact the organisers for help in organising discussion sessions and updating this webpage. We encourage participants to join suitable projects and propose their own.</p>
+<details><summary><p><b style="text-decoration: underline;">Legend:</b></p></summary>
         <table style="border-collapse: collapse; border: none;overflow-y: hidden;">
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" class="t1"></div> &nbsp; Statistical mechanics of log-gases</td>
@@ -42,18 +44,18 @@ details summary > * {
 
 <p> </p>
 
-<details open><summary><h2 style="color: gray; text-decoration: underline;">Week 1 Schedule</h2></summary>
+<details open><summary><h2 style="text-decoration: underline;">Week 1 Schedule</h2></summary>
 <img src="/Schedule1.png" alt="Week 1 Schedule"></details>
 
 <p> </p>
 
-<details><summary><h2 style="color: gray; text-decoration: underline;">Week 2 Schedule</h2></summary>
+<details><summary><h2 style="text-decoration: underline;">Week 2 Schedule</h2></summary>
 <img src="/Schedule2.png" alt="Week 2 Schedule"></details>
 
 <p> </p>
 
-<details ><summary><h2 style="color: gray; text-decoration: underline;">Talk Titles and Abstracts </h2></summary>
-
+<details ><summary><h2 style="text-decoration: underline;">Talk Titles</h2></summary>
+<h3>Please find <a href="/TalkAbstracts.pdf" target="_blank">detailed abstracts here</a>.<h3>
 <table style="border-collapse: collapse; border: none;overflow-y: hidden;">
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Gernot Akemann</b></td>
@@ -211,7 +213,7 @@ details summary > * {
 
 <p> </p>
 
-<details open><summary><h2 style="color: gray; text-decoration: underline;">Collaborative Projects</h2></summary>
+<details open><summary><h2 style="text-decoration: underline;">Collaborative Projects</h2></summary>
 <p><div id="rectangle" class="t5"></div> &nbsp; <b>The mysterious multilinear structure of asymptotic expansions in classical random matrix ensembles</b></p>
 <ul>
         <li><b>People:</b> Folkmar Bornemann</li>
@@ -221,19 +223,19 @@ details summary > * {
 <ul>
         <li><b>People:</b> Benoît Collins</li>
         <li><b>Next meeting:</b> TBA</li>
-        <li><details><summary><b style="color: gray; text-decoration: underline;">Description:</b></summary> In operator algebra, a Haagerup inequality states that for a non-commuting polynomial of given degree <i>r</i>, in non-commuting variables, its operator norm and its <i>l</i><sup>2</sup> norm are comparable, up to a polynomial factor in the degree <i>r</i>. Such inequalities are true at the level of random matrices but the proof is very hard. Namely, it relies on strong convergence. We believe there should be a direct proof (perhaps using concentration of measure or other RMT techniques). This is not only a natural question, this would also allow to reprove in a new conceptual way strong convergence in many cases, and hopefully, with better bounds.</details></li>
+        <li><details><summary><b style="text-decoration: underline;">Description:</b></summary> In operator algebra, a Haagerup inequality states that for a non-commuting polynomial of given degree <i>r</i>, in non-commuting variables, its operator norm and its <i>l</i><sup>2</sup> norm are comparable, up to a polynomial factor in the degree <i>r</i>. Such inequalities are true at the level of random matrices but the proof is very hard. Namely, it relies on strong convergence. We believe there should be a direct proof (perhaps using concentration of measure or other RMT techniques). This is not only a natural question, this would also allow to reprove in a new conceptual way strong convergence in many cases, and hopefully, with better bounds.</details></li>
 </ul>
 <p><div id="rectangle" class="t3"></div> &nbsp; <b>Infinitesimal free probability and Wigner ensembles</b></p>
 <ul>
         <li><b>People:</b> James Mingo, Yuanyuan Xu, Anas Rahman, Daniel Muñoz George</li>
         <li><b>Next meeting:</b> TBA</li>
-        <li><details><summary><b style="color: gray; text-decoration: underline;">Description:</b></summary> Infinitesimal free probability has been able to recover, through combinatorial methods, differential equations characterising <i>1/N</i> corrections to eigenvalue densities of classical matrix ensembles. We wish to see if these methods can be extended to obtain equivalent results for more general Wigner ensembles.</details></li>
+        <li><details><summary><b style="text-decoration: underline;">Description:</b></summary> Infinitesimal free probability has been able to recover, through combinatorial methods, differential equations characterising <i>1/N</i> corrections to eigenvalue densities of classical matrix ensembles. We wish to see if these methods can be extended to obtain equivalent results for more general Wigner ensembles.</details></li>
 </ul>
 <p><div id="rectangle" class="t1"></div> &nbsp; <b>Disrete notions of derivative type</b></p>
 <ul>
         <li><b>People:</b> Thomas Wolfs</li>
         <li><b>Next meeting:</b> TBA</li>
-        <li><details><summary><b style="color: gray; text-decoration: underline;">Description:</b></summary> So far, mainly two notions of polynomial ensemble of derivative type (also called Pólya ensemble) have been considered: a multiplicative one, due to Kieburg-Kösters (2016), and an additive one, due to Kuijlaars-Róman (2019). They typically appear in connection to the squared singular values of products of invertible random matrices and the eigenvalues of sums of Hermitian random matrices. The main goal of this project is to develop discrete notions of derivative type that are compatible with certain non-intersecting path models induced by random tilings. Such developments will deepen our understanding of these models as ensembles of derivative type typically have useful properties, e.g., their kernel has a double integral representation, opening up the road for asymptotic analysis, and they posses certain (de)composition properties. Special interest goes to the discrete (multiple) orthogonal polynomial ensembles associated with the (multiple) Kravchuk, Hahn and q-Racah polynomials, but other polynomials from the (multiple) (q-)Askey scheme are considered as well. After an appropriate notion of derivative type has been set up, the goal is to obtain a double integral representation for the correlation kernel and to describe the (de)composition properties of such models. The latter is deeply connected to developing the surrounding finite free probability theory.</details></li>
+        <li><details><summary><b style="text-decoration: underline;">Description:</b></summary> So far, mainly two notions of polynomial ensemble of derivative type (also called Pólya ensemble) have been considered: a multiplicative one, due to Kieburg-Kösters (2016), and an additive one, due to Kuijlaars-Róman (2019). They typically appear in connection to the squared singular values of products of invertible random matrices and the eigenvalues of sums of Hermitian random matrices. The main goal of this project is to develop discrete notions of derivative type that are compatible with certain non-intersecting path models induced by random tilings. Such developments will deepen our understanding of these models as ensembles of derivative type typically have useful properties, e.g., their kernel has a double integral representation, opening up the road for asymptotic analysis, and they posses certain (de)composition properties. Special interest goes to the discrete (multiple) orthogonal polynomial ensembles associated with the (multiple) Kravchuk, Hahn and q-Racah polynomials, but other polynomials from the (multiple) (q-)Askey scheme are considered as well. After an appropriate notion of derivative type has been set up, the goal is to obtain a double integral representation for the correlation kernel and to describe the (de)composition properties of such models. The latter is deeply connected to developing the surrounding finite free probability theory.</details></li>
 </ul>
 <p><div id="rectangle" class="t1"></div> &nbsp; <b>A simple diffusion model for free cumulants</b></p>
 <ul>
