@@ -101,7 +101,7 @@ details summary > * {
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Satya N. Majumdar</b></td>
-        <td>Dynamically emergent strong corelations via stochastic resetting</td>
+        <td>Dynamically emergent strong correlations via stochastic resetting</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Gregory Schehr</b></td>
