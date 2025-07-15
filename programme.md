@@ -207,7 +207,7 @@ details summary > * {
 
 <p> </p>
 
-<details open><summary><h2>Collaborative Projects</h2></summary>
+<details open><summary><h2 style="color: blue; text-decoration: underline;">Collaborative Projects</h2></summary>
 <p><b>The mysterious multilinear structure of asymptotic expansions in classical random matrix ensembles</b></p>
 <ul>
         <li><b>People:</b> Folkmar Bornemann</li>
