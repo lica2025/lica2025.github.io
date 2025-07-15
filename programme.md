@@ -143,10 +143,6 @@ details summary > * {
         <td>Entropic cumulant structures of random state ensembles</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b></b></td>
-        <td></td>
-</tr>
-<tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t5"></div> &nbsp; <b>Nicholas Witte</b></td>
         <td>TBA</td>
 </tr>
