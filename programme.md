@@ -174,7 +174,7 @@ details summary > * {
         <td>Edge statistics for random band matrices</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t2"></div> &nbsp; <b>Daniel M. George</b></td>
+        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t3"></div> &nbsp; <b>Daniel M. George</b></td>
         <td>Third order cumulants of products</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
