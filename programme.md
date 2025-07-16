@@ -175,7 +175,7 @@ details summary > * {
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t2"></div> &nbsp; <b>Daniel M. George</b></td>
-        <td>Largest eigenvalue of a random matrix neural network model</td>
+        <td>Third order cumulants of products</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t3"></div> &nbsp; <b>Noriyoshi Sakuma</b></td>
