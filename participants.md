@@ -12,10 +12,10 @@ title: "Participants"
         .t5{width: 10px; height: 10px; background-color:#d2b4de; border: 1px solid gray; display: inline-block;}
 </style>
 <body>
-<table style="border-collapse: collapse; border: none;overflow-y: hidden;">
-<tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none; background: transparent"><b>Research themes:</b></td>
-</tr>
+<p>MATRIX research programs are designed to afford plenty of free time for informal research collaboration. To maximise use of this free time, it is recommended (though not necessary) that collaborative research is initiated <i>prior</i> to arrival at the MATRIX Institute. Participants are listed with their primary areas of research interests so as to make it a little easier to recognise potential collaborative projects.</p>
+
+<details><summary><p><b style="text-decoration: underline;">Legend:</b></p></summary>
+        <table style="border-collapse: collapse; border: none;overflow-y: hidden;">
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" class="t1"></div> &nbsp; Statistical mechanics of log-gases</td>
 </tr>
@@ -31,9 +31,9 @@ title: "Participants"
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none; background: transparent"><div id="rectangle" class="t5"></div> &nbsp; Integrable systems including Painlevé equations</td>
 </tr>
-</table>
+</table></details>
 
-<p>MATRIX research programs are designed to afford plenty of free time for informal research collaboration. To maximise use of this free time, it is recommended (though not necessary) that collaborative research is initiated <i>prior</i> to arrival at the MATRIX Institute. Participants are listed with their primary areas of research interests so as to make it a little easier to recognise potential collaborative projects.</p>
+<p> </p>
 
 <table>
 <tr>
