@@ -20,9 +20,10 @@ details summary > * {
 </style>
 
 <body>
-<p>This page displays the program schedule and talk titles with <b><u><a href="/TalkAbstracts.pdf" target="_blank">detailed abstracts and programme summary here</a></u></b>. All 45-minute talks consist of 40 minutes for the speaker’s presentation followed by 5 minutes for questions.</p>
+<p>This page displays the program schedule and talk titles with <b><u><a href="/TalkAbstracts.pdf" target="_blank">detailed abstracts and programme summary here</a></u></b>.</p>
 <p>Moreover, there is a list of project collaborations frequently updated with <b>upcoming meeting times and locations</b>!</p>
 <p>Please contact the organisers for help in organising discussion sessions and updating this webpage. We encourage participants to join suitable projects and propose their own.</p>
+<p>All 45-minute talks consist of 40 minutes for the speaker’s presentation followed by 5 minutes for questions. Participants are encouraged to follow up with deeper discussions during free time.</p>
 <details><summary><p><b style="text-decoration: underline;">Legend:</b></p></summary>
         <table style="border-collapse: collapse; border: none;overflow-y: hidden;">
 <tr style="border-collapse: collapse; border: none;">
@@ -216,7 +217,7 @@ details summary > * {
 <details open><summary><h2 style="text-decoration: underline;">Collaborative Projects</h2></summary>
 <p><div id="rectangle" class="t5"></div> &nbsp; <b>The mysterious multilinear structure of asymptotic expansions in classical random matrix ensembles</b></p>
 <ul>
-        <li><b>People:</b> Folkmar Bornemann</li>
+        <li><b>People:</b> Folkmar Bornemann, Peter Forrester</li>
         <li><b>Next meeting:</b> TBA</li>
 </ul>
 <p><div id="rectangle" class="t3"></div> &nbsp; <b>Random Haagerup inequalities for random matrices</b></p>
@@ -233,13 +234,13 @@ details summary > * {
 </ul>
 <p><div id="rectangle" class="t1"></div> &nbsp; <b>Disrete notions of derivative type</b></p>
 <ul>
-        <li><b>People:</b> Thomas Wolfs</li>
+        <li><b>People:</b> Thomas Wolfs, Mario Kieburg, Jiyuan Zhang, Peter Forrester</li>
         <li><b>Next meeting:</b> TBA</li>
         <li><details><summary><b style="text-decoration: underline;">Description:</b></summary> So far, mainly two notions of polynomial ensemble of derivative type (also called Pólya ensemble) have been considered: a multiplicative one, due to Kieburg-Kösters (2016), and an additive one, due to Kuijlaars-Róman (2019). They typically appear in connection to the squared singular values of products of invertible random matrices and the eigenvalues of sums of Hermitian random matrices. The main goal of this project is to develop discrete notions of derivative type that are compatible with certain non-intersecting path models induced by random tilings. Such developments will deepen our understanding of these models as ensembles of derivative type typically have useful properties, e.g., their kernel has a double integral representation, opening up the road for asymptotic analysis, and they posses certain (de)composition properties. Special interest goes to the discrete (multiple) orthogonal polynomial ensembles associated with the (multiple) Kravchuk, Hahn and q-Racah polynomials, but other polynomials from the (multiple) (q-)Askey scheme are considered as well. After an appropriate notion of derivative type has been set up, the goal is to obtain a double integral representation for the correlation kernel and to describe the (de)composition properties of such models. The latter is deeply connected to developing the surrounding finite free probability theory.</details></li>
 </ul>
 <p><div id="rectangle" class="t1"></div> &nbsp; <b>A simple diffusion model for free cumulants</b></p>
 <ul>
-        <li><b>People:</b> Gregory Schehr</li>
+        <li><b>People:</b> Gregory Schehr, Peter Forrester</li>
         <li><b>Next meeting:</b> TBA</li>
 </ul></details>
 </body>
