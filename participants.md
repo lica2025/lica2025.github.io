@@ -3,6 +3,13 @@ layout: page
 title: "Participants"
 ---
 <style>
+        details summary { 
+  cursor: pointer;
+}
+
+details summary > * {
+  display: inline;
+}
         table{overflow-y: hidden;}
         .t0{width: 10px; height: 10px; background-color:transparent; border: 1px solid gray; display: inline-block;}
         .t1{width: 10px; height: 10px; background-color:#f1948a; border: 1px solid gray; display: inline-block;}
