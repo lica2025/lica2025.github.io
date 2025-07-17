@@ -232,7 +232,7 @@ details summary > * {
         <li><b>Next meeting:</b> TBA</li>
         <li><details><summary><b style="text-decoration: underline;">Description:</b></summary> Infinitesimal free probability has been able to recover, through combinatorial methods, differential equations characterising <i>1/N</i> corrections to eigenvalue densities of classical matrix ensembles. We wish to see if these methods can be extended to obtain equivalent results for more general Wigner ensembles.</details></li>
 </ul>
-<p><div id="rectangle" class="t1"></div> &nbsp; <b>Disrete notions of derivative type</b></p>
+<p><div id="rectangle" class="t1"></div> &nbsp; <b>Discrete notions of derivative type</b></p>
 <ul>
         <li><b>People:</b> Thomas Wolfs, Mario Kieburg, Jiyuan Zhang, Peter Forrester</li>
         <li><b>Next meeting:</b> TBA</li>
