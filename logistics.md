@@ -20,7 +20,7 @@ title: "Logistics"
     
     <p><b>From Ballarat to MATRIX:</b> We recommend taking one of the shuttles booked by MATRIX. Otherwise, you may take a train from Ballarat Train Station, or bus 30, to Raglan St/Albert St (Creswick) Station, and then arrive at the MATRIX Institute within a 10-min walk.</p> 
     
-    
+    <p><b>The Myki ticketing system:</b> Other than reserved seats on coaches or particular regional trains, one needs a Myki to travel on public transport in Victoria. The cost is $11 per weekday and $7.60 per weekend. Simply tap your Myki every time you enter or exit a bus, tram, or train station platform — do not tap your Myki at all when using a tram in the metropolitan free tram zone. One may acquire and charge credit onto a Myki at any large train station, including Southern Cross Station. Note that the physical card costs a non-refundable $6. Particularly tech-savvy Android users may prefer to download a digital Myki onto their Google account.</p>
 
 </div>
 
