@@ -118,7 +118,7 @@ details summary > * {
         <td>The multiplicative constant in asymptotics of higher-order analogues of the Tracy–Widom distribution</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t5"></div> &nbsp; <b>Masahiko Ito</b></td>
+        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Masahiko Ito</b></td>
         <td>Trigonometric and elliptic Selberg integrals</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
