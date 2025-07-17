@@ -20,7 +20,7 @@ details summary > * {
 </style>
 
 <body>
-<p>This page displays the program schedule and talk titles with <b><u><a href="/TalkAbstracts.pdf" target="_blank">detailed abstracts and programme summary here</a></u></b>.</p>
+<p>This page displays the program schedule and talk titles with <b><u><a href="/TalkAbstracts.pdf" target="_blank">detailed abstracts and programme summary here</a></u></b>. All 45-minute talks consist of 40 minutes for the speaker’s presentation followed by 5 minutes for questions.</p>
 <p>Moreover, there is a list of project collaborations frequently updated with <b>upcoming meeting times and locations</b>!</p>
 <p>Please contact the organisers for help in organising discussion sessions and updating this webpage. We encourage participants to join suitable projects and propose their own.</p>
 <details><summary><p><b style="text-decoration: underline;">Legend:</b></p></summary>
