@@ -74,8 +74,8 @@ details summary > * {
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t5"></div> &nbsp; <b>Folkmar Bornemann</b></td>
         <td>Fredholm determinants and Painlevé transcendents: A pragmatist’s perspective</td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border-bottom: 2px solid #000000;"><div id="rectangle" class="t3"></div> &nbsp; <b>Benoît Collins</b></td>
+<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;">
+        <td style="border-collapse: collapse;"><div id="rectangle" class="t3"></div> &nbsp; <b>Benoît Collins</b></td>
         <td>Recent developments around strong convergence for random matrices</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
