@@ -90,8 +90,8 @@ details summary > * {
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Thomas Wolfs</b></td>
         <td>Multiple orthogonal polynomial ensembles of derivative type</td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t5"></div> &nbsp; <b>Peter Forrester</b></td>
+<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;">
+        <td style="border-collapse: collapse;"><div id="rectangle" class="t5"></div> &nbsp; <b>Peter Forrester</b></td>
         <td>Integrability aspects of large N expansions for classical β ensembles</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
@@ -106,8 +106,8 @@ details summary > * {
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Satya N. Majumdar</b></td>
         <td>Dynamically emergent strong correlations via stochastic resetting</td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Gregory Schehr</b></td>
+<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;">
+        <td style="border-collapse: collapse;"><div id="rectangle" class="t1"></div> &nbsp; <b>Gregory Schehr</b></td>
         <td>Higher-order cumulants of linear statistics in Coulomb and Riesz gases</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
@@ -122,8 +122,8 @@ details summary > * {
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Masahiko Ito</b></td>
         <td>Trigonometric and elliptic Selberg integrals</td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t3"></div> &nbsp; <b>Yuanyuan Xu</b></td>
+<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;">
+        <td style="border-collapse: collapse;"><div id="rectangle" class="t3"></div> &nbsp; <b>Yuanyuan Xu</b></td>
         <td>Optimal decay of eigenvector overlap for non-Hermitian random matrices</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
@@ -138,8 +138,8 @@ details summary > * {
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t3"></div> &nbsp; <b>Zhigang Bao</b></td>
         <td>Law of fractional logarithm for random matrices</td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Giorgio Cipolloni</b></td>
+<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;">
+        <td style="border-collapse: collapse;"><div id="rectangle" class="t1"></div> &nbsp; <b>Giorgio Cipolloni</b></td>
         <td>Universality of the spectral form factor</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
@@ -154,8 +154,8 @@ details summary > * {
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t2"></div> &nbsp; <b>Justin Ko</b></td>
         <td>On the phase diagram of extensive-rank symmetric matrix denoising beyond rotational invariance</td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t5"></div> &nbsp; <b>Lun Zhang</b></td>
+<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;">
+        <td style="border-collapse: collapse;"><div id="rectangle" class="t5"></div> &nbsp; <b>Lun Zhang</b></td>
         <td>Asymptotics for the noncommutative Painlevé II equation</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
@@ -170,8 +170,8 @@ details summary > * {
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t5"></div> &nbsp; <b>Nicholas Witte</b></td>
         <td>TBA</td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t3"></div> &nbsp; <b>Dang-Zheng Liu</b></td>
+<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;">
+        <td style="border-collapse: collapse;"><div id="rectangle" class="t3"></div> &nbsp; <b>Dang-Zheng Liu</b></td>
         <td>Edge statistics for random band matrices</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
@@ -182,8 +182,8 @@ details summary > * {
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t3"></div> &nbsp; <b>Noriyoshi Sakuma</b></td>
         <td>On generalized free gamma distributions</td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t5"></div> &nbsp; <b>Guido Mazzuca</b></td>
+<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;">
+        <td style="border-collapse: collapse;"><div id="rectangle" class="t5"></div> &nbsp; <b>Guido Mazzuca</b></td>
         <td>Generalized hydrodynamics for the Volterra lattice</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
@@ -194,8 +194,8 @@ details summary > * {
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Mathieu Yahiaoui</b></td>
         <td>Random winding numbers for determinantal curves from non-Hermitian matrix random fields</td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Linfeng Wei</b></td>
+<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;">
+        <td style="border-collapse: collapse;"><div id="rectangle" class="t4"></div> &nbsp; <b>Linfeng Wei</b></td>
         <td>Skewness of von Neumann entropy over Bures–Hall random states</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
