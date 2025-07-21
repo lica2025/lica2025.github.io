@@ -128,7 +128,7 @@ details summary > * {
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Youyi Huang</b></td>
-        <td>Cumulant structures of entanglement entropy</td>
+        <td>Cumulant structures of entanglement entropy over Hilbert–Schmidt ensemble</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t5"></div> &nbsp; <b>Lu Wei</b></td>
