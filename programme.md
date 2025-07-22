@@ -92,7 +92,7 @@ details summary > * {
 </tr>
 <tr style="border-collapse: collapse; border-bottom: 3px solid #000000;">
         <td style="border-collapse: collapse;"><div id="rectangle" class="t5"></div> &nbsp; <b>Peter Forrester</b></td>
-        <td>Integrability aspects of large N expansions for classical β ensembles</td>
+        <td>On and around large <i>x,N</i>, small <i>k</i> expansions for log-gases and random matrices</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;white-space: nowrap;"><div id="rectangle" class="t1"></div> &nbsp; <b>Jacobus Verbaarschot</b></td>
@@ -200,7 +200,7 @@ details summary > * {
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Yeong-Gwang Jung</b></td>
-        <td>Spectral analysis of q-deformed unitary ensembles with the Al-Salam–Carlitz weight</td>
+        <td>Spectral analysis of <i>q</i>-deformed unitary ensembles with the Al-Salam–Carlitz weight</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Eui Yoo</b></td>
