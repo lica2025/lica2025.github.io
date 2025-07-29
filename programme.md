@@ -242,5 +242,11 @@ details summary > * {
 <ul>
         <li><b>People:</b> Gregory Schehr, Peter Forrester</li>
         <li><b>Next meeting:</b> TBA</li>
+</ul>
+<p><div id="rectangle" class="t3"></div> &nbsp; <b>Combinatorics of random matrix moments</b></p>
+<ul>
+        <li><b>People:</b> Anas Rahman, Daniel Muñoz George, Norm Do, James Mingo</li>
+        <li><b>Next meeting:</b> TBA</li>
+        <li><details><summary><b style="text-decoration: underline;">Description:</b></summary> It is known that the moments Tr(<i>M</i><sup>k</sup>) of matrices <i>M</i> can be understood as weighted sums over partitions of graphs obtained by identifying vertices of <i>k</i>-gons according to said partitions. In particular, moments of the Gaussian orthogonal ensemble (GOE) can be represented by pairwise identifying polygon edges to form locally orientable ribbon graphs. It has recently been shown that the <i>1/N</i> (<i>N</i> being matrix size) correction to the GOE moments are given by counts of non-crossing annular pairings. These should be in bijection with ribbon graphs of demi-genus one. We would like to elucidate a bijection and extend it to the case of general Wigner ensembles. We will also be discussing combinatorics of certain neural networks, which correspond to graphs with edges of fixed multiplicity supporting cyclic walks.</details></li>
 </ul></details>
 </body>
