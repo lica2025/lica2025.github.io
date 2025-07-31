@@ -253,7 +253,7 @@ details summary > * {
 <ul>
         <li><b>People:</b> Arno Kuijlaars, Aron Wennman</li>
         <li><b>Next meeting:</b> TBA</li>
-        <li><details><summary><b style="text-decoration: underline;">Description:</b></summary> Johansson and Viklund (arXiv:2309.00308) have a result about the asymptotic behavior of the partition function for a Coulomb gas on a Jordan domain. In the project we would like to verify and possibly even extend their result for the special case of a half-lemniscate.
+        <li><details><summary><b style="text-decoration: underline;">Description:</b></summary> Johansson and Viklund (arXiv:2309.00308) have a result about the asymptotic behavior of the partition function for a Coulomb gas on a Jordan domain. In this project we would like to verify and possibly even extend their result for the special case of a half-lemniscate.
 
 The problem can be phrased in terms of  planar orthogonal polynomials, and these turn out to be multiple orthogonal on an interval.
 
