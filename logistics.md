@@ -44,7 +44,7 @@ title: "Logistics"
 
     <p>The <b>MATRIX cheese and wine afternoon</b> event will be held at 15:10 on Tuesday, August 5th at the recreational room.</p>
 
-    <p>There will hopefull be a local <b>stargazing walk</b> held after dinner at 19:30 on Wednesday, August 13th.</p>
+    <p>There will hopefully be a local <b>stargazing walk</b> held after dinner at 19:30 on Wednesday, August 13th.</p>
 
     <p><b>Weekend trips:</b> There are local walking trails in Creswick that participants may be interested in; see <a href="https://www.matrix-inst.org.au/visit/#post-29">here</a> for information. Otherwise, unofficial trips to <b>Melbourne</b> and <b>Ballarat</b> will be organised on the weekend, 9th and 10th August. Further information is coming soon.</p>
     <ul><li><b>Ballarat:</b> A relatively local town with Australian history. Participants may be interested in learning about the gold rush at Sovereign Hill or see native wildlife at the Ballarat Wildlife Park. The Eureka Centre Ballarat may also be a museum of interest.</li>
