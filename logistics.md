@@ -31,6 +31,7 @@ title: "Logistics"
     <p>We are able to provide on-campus accommodation to select participants for part of their stay, with preference given to students, early career researchers, and those who would benefit from support.</p>
     <p>Participants staying on campus will be staying at either Semmens Hall or The Lodge, described <a href="https://www.matrix-inst.org.au/accommodation">here</a>; see campus map below.</p>
     <p>Participants staying off-campus must either take the bus 30 described above from Ballarat or the RACV Goldfields Resort, or will otherwise be within walking distance of the MATRIX Institute.</p>
+    <p>MATRIX does not provide lunch and encourages participants to support the local economy. Please see <a href="https://www.matrix-inst.org.au/wp_Matrix2016/wp-content/uploads/Creswick/EATERIES-AND-FOOD-SUPPLIERS-IN-CRESWICK-2021.pdf">this helpful link</a> for a list of nearby cafes and restaurants. Participants can also visit these establishments for breakfast and dinner (please check that they are open at suitable times!)</p>
     <img src="/CreswickCampus.png" alt="MATRIX campus map">
 
 </div>
@@ -41,11 +42,13 @@ title: "Logistics"
 
     <p>The <b>conference banquet</b> will be held at 18:00 on Wednesday, August 6th at <a href="https://www.google.com/maps/place/The+American+Creswick/@-37.4226802,143.8845129,14.9z/data=!4m9!3m8!1s0x6ad1383357eb0e67:0xe51b5d633a80a8ed!5m2!4m1!1i2!8m2!3d-37.424898!4d143.894476!16s%2Fg%2F1td2mmdw?entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D">The American Creswick</a> (90 Albert St, Creswick VIC 3363, Australia).</p>
 
-    <p>The <b>MATRIX cheese and wine afternoon</b> will be held at 15:10 on Tuesday, August 5th at the recreational room.</p>
+    <p>The <b>MATRIX cheese and wine afternoon</b> event will be held at 15:10 on Tuesday, August 5th at the recreational room.</p>
 
-    <p>There will be an <b>excursion</b> held at 18:00 on Wednesday, August 13th.</p>
-    
-    <p><b>Unofficial trips to Melbourne</b> and Ballarat will be organised on the weekend. Further information is coming soon.</p>
+    <p>There will hopefull be a local <b>stargazing walk</b> held after dinner at 19:30 on Wednesday, August 13th.</p>
+
+    <p><b>Weekend trips:</b> There are local walking trails in Creswick that participants may be interested in; see <a href="https://www.matrix-inst.org.au/visit/#post-29">here</a> for information. Otherwise, unofficial trips to <b>Melbourne</b> and <b>Ballarat</b> will be organised on the weekend, 9th and 10th August. Further information is coming soon.</p>
+    <ul><li><b>Ballarat:</b> A relatively local town with Australian history. Participants may be interested in learning about the gold rush at Sovereign Hill or see native wildlife at the Ballarat Wildlife Park. The Eureka Centre Ballarat may also be a museum of interest.</li>
+    <li><b>Melbourne:</b> About 1.5 hours from Ballarat, hence 2 hours from Creswick (with carefully planned transportation), Melbourne is the largest Metropolitcan city in Australia. It is a multicultural city (so one can find almost any cuisine they are seeking) and boasts some of the best coffee in the world. Of interest could be the National Gallery of Victoria, the Queen Victoria Market, Federation Square, the Comic's Lounge, the Capital City Trail (a 30km bicycling route around Melbourne - bikes can be rented at <a href="https://bluetonguebikes.com.au/bike-hire-rentals-melbourne/">Blue Tongue Bikes</a>), Old Melbourne Gaol, the Melbourne Skydeck, and a variety of gardens.</li></ul>
 
 </div>
 
