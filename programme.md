@@ -168,7 +168,7 @@ details summary > * {
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t5"></div> &nbsp; <b>Nicholas Witte</b></td>
-        <td>TBA</td>
+        <td>Orthogonal and Symplectic Integrals via modulated 2j-k bi-orthogonal polynomial systems. Beyond Painleve?</td>
 </tr>
 <tr style="border-collapse: collapse; border-bottom: 3px solid #000000;">
         <td style="border-collapse: collapse;"><div id="rectangle" class="t3"></div> &nbsp; <b>Dang-Zheng Liu</b></td>
