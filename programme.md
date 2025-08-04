@@ -264,6 +264,6 @@ The aim is to perform the steepest descent analysis of the associated Riemann Hi
 <li>Anthony Mays, Anita Ponsaing, Gregory Schehr: Tuesday 5th 16:00pm, Room 137 of MATRIX House</li>
 <li>Zhigang Bao, Yuanyuan Xu: Tuesday 5th 16:00pm, Room 138 of MATRIX House</li>
 <li>Sungsoo Byun, Meng Yang, Leslie Molag: Tuesday 5th 17:00pm, Room 140 of MATRIX House</li>
-<li>Free space: Lecture Theatre, Seminar Room in Stage 2, and the following rooms in MATRIX House, assuming they are not booked according to the above information: Meeting Room 10 (8 people), Rooms 134, 139, 140 (5 people), Rooms 136, 137, 138 (3 people).</li>
+<li>Free space: Lecture Theatre, Seminar Room in Stage 2, and the following rooms in MATRIX House, assuming they are not booked according to the above information: Meeting Room 10 (8 people), Rooms 134, 139, 140 (5 people), Rooms 136, 137, 138 (3 people)</li>
 </ul></details>
 </body>
