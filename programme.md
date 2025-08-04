@@ -259,9 +259,9 @@ The problem can be phrased in terms of  planar orthogonal polynomials, and these
 
 The aim is to perform the steepest descent analysis of the associated Riemann Hilbert problem.</details></li>
 </ul>
-<p><b>Other (private) discussion groups:</b></p>
+<p><b>Other (private) discussion groups (please let us know if you would like to reserve space):</b></p>
 <ul><li>Anthony Mays, Anita Ponsaing, Gregory Schehr: Tuesday 5th 16:00pm, Room 137 of MATRIX House</li>
 <li>Zhigang Bao, Yuanyuan Xu: Tuesday 5th 16:00pm, Room 138 of MATRIX House</li>
-<li>Free space: Lecture Theatre, Seminar Room in Stage 2, </li>
+<li>Free space: Lecture Theatre, Seminar Room in Stage 2, and the following rooms in MATRIX House, assuming they are not booked according to the above information: Meeting Room 10 (8 people), Rooms 134, 139, 140 (5 people), Rooms 136, 137, 138 (3 people).</li>
 </ul></details>
 </body>
