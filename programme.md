@@ -235,7 +235,7 @@ details summary > * {
 <p><div id="rectangle" class="t1"></div> &nbsp; <b>Discrete notions of derivative type</b></p>
 <ul>
         <li><b>People:</b> Thomas Wolfs, Mario Kieburg, Jiyuan Zhang, Peter Forrester</li>
-        <li><b>Next meeting:</b> 5th Tuesday 16:00; location TBA</li>
+        <li><b>Next meeting:</b> 5th Tuesday 16:00</li>
         <li><details><summary><b style="text-decoration: underline;">Description:</b></summary> So far, mainly two notions of polynomial ensemble of derivative type (also called Pólya ensemble) have been considered: a multiplicative one, due to Kieburg-Kösters (2016), and an additive one, due to Kuijlaars-Róman (2019). They typically appear in connection to the squared singular values of products of invertible random matrices and the eigenvalues of sums of Hermitian random matrices. The main goal of this project is to develop discrete notions of derivative type that are compatible with certain non-intersecting path models induced by random tilings. Such developments will deepen our understanding of these models as ensembles of derivative type typically have useful properties, e.g., their kernel has a double integral representation, opening up the road for asymptotic analysis, and they posses certain (de)composition properties. Special interest goes to the discrete (multiple) orthogonal polynomial ensembles associated with the (multiple) Kravchuk, Hahn and q-Racah polynomials, but other polynomials from the (multiple) (q-)Askey scheme are considered as well. After an appropriate notion of derivative type has been set up, the goal is to obtain a double integral representation for the correlation kernel and to describe the (de)composition properties of such models. The latter is deeply connected to developing the surrounding finite free probability theory.</details></li>
 </ul>
 <p><div id="rectangle" class="t1"></div> &nbsp; <b>A simple diffusion model for free cumulants</b></p>
@@ -252,7 +252,7 @@ details summary > * {
 <p><div id="rectangle" class="t4"></div> &nbsp; <b>Bergman polynomials on a half-lemniscate</b></p>
 <ul>
         <li><b>People:</b> Arno Kuijlaars, Aron Wennman</li>
-        <li><b>Next meeting:</b> TBA</li>
+        <li><b>Next meeting: </b> 5th Tuesday 16:00</li>
         <li><details><summary><b style="text-decoration: underline;">Description:</b></summary> Johansson and Viklund (arXiv:2309.00308) have a result about the asymptotic behavior of the partition function for a Coulomb gas on a Jordan domain. In this project we would like to verify and possibly even extend their result for the special case of a half-lemniscate.
 
 The problem can be phrased in terms of  planar orthogonal polynomials, and these turn out to be multiple orthogonal on an interval.
