@@ -229,7 +229,7 @@ details summary > * {
 <p><div id="rectangle" class="t3"></div> &nbsp; <b>Infinitesimal free probability and Wigner ensembles</b></p>
 <ul>
         <li><b>People:</b> James Mingo, Yuanyuan Xu, Anas Rahman, Daniel Muñoz George</li>
-        <li><b>Next meeting:</b> TBA</li>
+        <li><b>Next meeting:</b> Wednesday 6th 11:45am, Meeting Room 10 of MATRIX House</li>
         <li><details><summary><b style="text-decoration: underline;">Description:</b></summary> Infinitesimal free probability has been able to recover, through combinatorial methods, differential equations characterising <i>1/N</i> corrections to eigenvalue densities of classical matrix ensembles. We wish to see if these methods can be extended to obtain equivalent results for more general Wigner ensembles.</details></li>
 </ul>
 <p><div id="rectangle" class="t1"></div> &nbsp; <b>Discrete notions of derivative type</b></p>
@@ -241,7 +241,7 @@ details summary > * {
 <p><div id="rectangle" class="t1"></div> &nbsp; <b>A simple diffusion model for free cumulants</b></p>
 <ul>
         <li><b>People:</b> Gregory Schehr, Peter Forrester</li>
-        <li><b>Next meeting:</b> TBA</li>
+        <li><b>Next meeting:</b> Wednesday 6th 15:00pm, Room 136 of MATRIX House</li>
 </ul>
 <p><div id="rectangle" class="t3"></div> &nbsp; <b>Combinatorics of random matrix moments</b></p>
 <ul>
@@ -258,5 +258,10 @@ details summary > * {
 The problem can be phrased in terms of  planar orthogonal polynomials, and these turn out to be multiple orthogonal on an interval.
 
 The aim is to perform the steepest descent analysis of the associated Riemann Hilbert problem.</details></li>
+</ul>
+<p><b>Other (private) discussion groups:</b></p>
+<ul><li>Anthony Mays, Anita Ponsaing, Gregory Schehr: Tuesday 5th 16:00pm, Room 137 of MATRIX House</li>
+<li>Zhigang Bao, Yuanyuan Xu: Tuesday 5th 16:00pm, Room 138 of MATRIX House</li>
+<li>Free space: Lecture Theatre, Seminar Room in Stage 2, </li>
 </ul></details>
 </body>
