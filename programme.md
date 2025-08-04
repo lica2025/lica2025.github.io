@@ -218,7 +218,7 @@ details summary > * {
 <p><div id="rectangle" class="t5"></div> &nbsp; <b>The mysterious multilinear structure of asymptotic expansions in classical random matrix ensembles</b></p>
 <ul>
         <li><b>People:</b> Folkmar Bornemann, Peter Forrester</li>
-        <li><b>Next meeting:</b> Wednesday 6th 11:45am, Room 140 of MATRIX House</li>
+        <li><b>Next meeting:</b> Wednesday 6th 11:15am, Room 140 of MATRIX House</li>
 </ul>
 <p><div id="rectangle" class="t3"></div> &nbsp; <b>Random Haagerup inequalities for random matrices</b></p>
 <ul>
@@ -229,7 +229,7 @@ details summary > * {
 <p><div id="rectangle" class="t3"></div> &nbsp; <b>Infinitesimal free probability and Wigner ensembles</b></p>
 <ul>
         <li><b>People:</b> James Mingo, Yuanyuan Xu, Anas Rahman, Daniel Muñoz George</li>
-        <li><b>Next meeting:</b> Wednesday 6th 11:45am, Meeting Room 10 of MATRIX House</li>
+        <li><b>Next meeting:</b> Wednesday 6th 11:15am, Meeting Room 10 of MATRIX House</li>
         <li><details><summary><b style="text-decoration: underline;">Description:</b></summary> Infinitesimal free probability has been able to recover, through combinatorial methods, differential equations characterising <i>1/N</i> corrections to eigenvalue densities of classical matrix ensembles. We wish to see if these methods can be extended to obtain equivalent results for more general Wigner ensembles.</details></li>
 </ul>
 <p><div id="rectangle" class="t1"></div> &nbsp; <b>Discrete notions of derivative type</b></p>
