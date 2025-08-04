@@ -222,7 +222,7 @@ details summary > * {
 </ul>
 <p><div id="rectangle" class="t3"></div> &nbsp; <b>Random Haagerup inequalities for random matrices</b></p>
 <ul>
-        <li><b>People:</b> Benoît Collins</li>
+        <li><b>People:</b> Benoît Collins, Giorgio Cipolloni</li>
         <li><b>Next meeting:</b> Tuesday 5th 16:00pm, Seminar Room in Stage 2</li>
         <li><details><summary><b style="text-decoration: underline;">Description:</b></summary> In operator algebra, a Haagerup inequality states that for a non-commuting polynomial of given degree <i>r</i>, in non-commuting variables, its operator norm and its <i>l</i><sup>2</sup> norm are comparable, up to a polynomial factor in the degree <i>r</i>. Such inequalities are true at the level of random matrices but the proof is very hard. Namely, it relies on strong convergence. We believe there should be a direct proof (perhaps using concentration of measure or other RMT techniques). This is not only a natural question, this would also allow to reprove in a new conceptual way strong convergence in many cases, and hopefully, with better bounds.</details></li>
 </ul>
@@ -241,7 +241,7 @@ details summary > * {
 <p><div id="rectangle" class="t1"></div> &nbsp; <b>A simple diffusion model for free cumulants</b></p>
 <ul>
         <li><b>People:</b> Gregory Schehr, Peter Forrester</li>
-        <li><b>Next meeting:</b> Wednesday 6th 15:00pm, Room 136 of MATRIX House</li>
+        <li><b>Next meeting:</b> Wednesday 6th 15:30pm, Room 136 of MATRIX House</li>
 </ul>
 <p><div id="rectangle" class="t3"></div> &nbsp; <b>Combinatorics of random matrix moments</b></p>
 <ul>
@@ -260,9 +260,10 @@ The problem can be phrased in terms of  planar orthogonal polynomials, and these
 The aim is to perform the steepest descent analysis of the associated Riemann Hilbert problem.</details></li>
 </ul>
 <p><b>Other (private) discussion groups (please let us know if you would like to reserve space):</b></p>
-<ul><li>Anthony Mays, Anita Ponsaing, Gregory Schehr: Tuesday 5th 16:00pm, Room 137 of MATRIX House</li>
+<ul><li>If you are looking for somebody to discuss with but have not been able to decide a time and location, try finding them at the Lecture Theatre</li>
+<li>Anthony Mays, Anita Ponsaing, Gregory Schehr: Tuesday 5th 16:00pm, Room 137 of MATRIX House</li>
 <li>Zhigang Bao, Yuanyuan Xu: Tuesday 5th 16:00pm, Room 138 of MATRIX House</li>
-<li>Gernot Akemann, Sungsoo Byun: Tuesday 5th 16:00pm, Lecture Theatre</li>
+<li>Sungsoo Byun, Meng Yang, Leslie Molag: Tuesday 5th 17:00pm, Room 140 of MATRIX House</li>
 <li>Free space: Lecture Theatre, Seminar Room in Stage 2, and the following rooms in MATRIX House, assuming they are not booked according to the above information: Meeting Room 10 (8 people), Rooms 134, 139, 140 (5 people), Rooms 136, 137, 138 (3 people).</li>
 </ul></details>
 </body>
