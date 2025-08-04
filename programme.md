@@ -245,7 +245,7 @@ details summary > * {
 <p><div id="rectangle" class="t1"></div> &nbsp; <b>A simple diffusion model for free cumulants</b></p>
 <ul>
         <li><b>People:</b> Gregory Schehr, Peter Forrester</li>
-        <li><b>Next meeting:</b> Wednesday 6th 15:30pm, Room 136 of MATRIX House</li>
+        <li><b>Next meeting:</b> Thursday 7th 11:15am, Room 140 of MATRIX House</li>
 </ul>
 <p><div id="rectangle" class="t3"></div> &nbsp; <b>Combinatorics of random matrix moments</b></p>
 <ul>
