@@ -218,12 +218,12 @@ details summary > * {
 <p><div id="rectangle" class="t5"></div> &nbsp; <b>The mysterious multilinear structure of asymptotic expansions in classical random matrix ensembles</b></p>
 <ul>
         <li><b>People:</b> Folkmar Bornemann, Peter Forrester</li>
-        <li><b>Next meeting:</b> TBA</li>
+        <li><b>Next meeting:</b> Wednesday 6th 11:45am, Room 140 of MATRIX House</li>
 </ul>
 <p><div id="rectangle" class="t3"></div> &nbsp; <b>Random Haagerup inequalities for random matrices</b></p>
 <ul>
         <li><b>People:</b> Benoît Collins</li>
-        <li><b>Next meeting:</b> TBA</li>
+        <li><b>Next meeting:</b> Tuesday 5th 16:00pm, Seminar Room in Stage 2</li>
         <li><details><summary><b style="text-decoration: underline;">Description:</b></summary> In operator algebra, a Haagerup inequality states that for a non-commuting polynomial of given degree <i>r</i>, in non-commuting variables, its operator norm and its <i>l</i><sup>2</sup> norm are comparable, up to a polynomial factor in the degree <i>r</i>. Such inequalities are true at the level of random matrices but the proof is very hard. Namely, it relies on strong convergence. We believe there should be a direct proof (perhaps using concentration of measure or other RMT techniques). This is not only a natural question, this would also allow to reprove in a new conceptual way strong convergence in many cases, and hopefully, with better bounds.</details></li>
 </ul>
 <p><div id="rectangle" class="t3"></div> &nbsp; <b>Infinitesimal free probability and Wigner ensembles</b></p>
@@ -235,7 +235,7 @@ details summary > * {
 <p><div id="rectangle" class="t1"></div> &nbsp; <b>Discrete notions of derivative type</b></p>
 <ul>
         <li><b>People:</b> Thomas Wolfs, Mario Kieburg, Jiyuan Zhang, Peter Forrester</li>
-        <li><b>Next meeting:</b> 5th Tuesday 16:00</li>
+        <li><b>Next meeting:</b> Tuesday 5th 16:00pm, Room 139 of MATRIX House</li>
         <li><details><summary><b style="text-decoration: underline;">Description:</b></summary> So far, mainly two notions of polynomial ensemble of derivative type (also called Pólya ensemble) have been considered: a multiplicative one, due to Kieburg-Kösters (2016), and an additive one, due to Kuijlaars-Róman (2019). They typically appear in connection to the squared singular values of products of invertible random matrices and the eigenvalues of sums of Hermitian random matrices. The main goal of this project is to develop discrete notions of derivative type that are compatible with certain non-intersecting path models induced by random tilings. Such developments will deepen our understanding of these models as ensembles of derivative type typically have useful properties, e.g., their kernel has a double integral representation, opening up the road for asymptotic analysis, and they posses certain (de)composition properties. Special interest goes to the discrete (multiple) orthogonal polynomial ensembles associated with the (multiple) Kravchuk, Hahn and q-Racah polynomials, but other polynomials from the (multiple) (q-)Askey scheme are considered as well. After an appropriate notion of derivative type has been set up, the goal is to obtain a double integral representation for the correlation kernel and to describe the (de)composition properties of such models. The latter is deeply connected to developing the surrounding finite free probability theory.</details></li>
 </ul>
 <p><div id="rectangle" class="t1"></div> &nbsp; <b>A simple diffusion model for free cumulants</b></p>
@@ -246,13 +246,13 @@ details summary > * {
 <p><div id="rectangle" class="t3"></div> &nbsp; <b>Combinatorics of random matrix moments</b></p>
 <ul>
         <li><b>People:</b> Anas Rahman, Daniel Muñoz George, Norm Do, James Mingo</li>
-        <li><b>Next meeting:</b> TBA</li>
+        <li><b>Next meeting:</b> Tuesday 5th 16:00pm, Meeting Room 10 of MATRIX House</li>
         <li><details><summary><b style="text-decoration: underline;">Description:</b></summary> It is known that the moments Tr(<i>M</i><sup>k</sup>) of matrices <i>M</i> can be understood as weighted sums over partitions of graphs obtained by identifying vertices of <i>k</i>-gons according to said partitions. In particular, moments of the Gaussian orthogonal ensemble (GOE) can be represented by pairwise identifying polygon edges to form locally orientable ribbon graphs. It has recently been shown that the <i>1/N</i> (<i>N</i> being matrix size) correction to the GOE moments are given by counts of non-crossing annular pairings. These should be in bijection with ribbon graphs of demi-genus one. We would like to elucidate a bijection and extend it to the case of general Wigner ensembles. We will also be discussing combinatorics of certain neural networks, which correspond to graphs with edges of fixed multiplicity supporting cyclic walks.</details></li>
 </ul>
 <p><div id="rectangle" class="t4"></div> &nbsp; <b>Bergman polynomials on a half-lemniscate</b></p>
 <ul>
         <li><b>People:</b> Arno Kuijlaars, Aron Wennman</li>
-        <li><b>Next meeting: </b> 5th Tuesday 16:00</li>
+        <li><b>Next meeting: </b> Tuesday 5th 16:00pm, Room 134 of MATRIX House</li>
         <li><details><summary><b style="text-decoration: underline;">Description:</b></summary> Johansson and Viklund (arXiv:2309.00308) have a result about the asymptotic behavior of the partition function for a Coulomb gas on a Jordan domain. In this project we would like to verify and possibly even extend their result for the special case of a half-lemniscate.
 
 The problem can be phrased in terms of  planar orthogonal polynomials, and these turn out to be multiple orthogonal on an interval.
