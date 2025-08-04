@@ -246,6 +246,7 @@ details summary > * {
 <ul>
         <li><b>People:</b> Gregory Schehr, Peter Forrester</li>
         <li><b>Next meeting:</b> Thursday 7th 11:15am, Room 140 of MATRIX House</li>
+        <li><details><summary><b style="text-decoration: underline;">Description:</b></summary> I will describe a simple diffusion model where a particle performs Brownian motion with a diffusion constant that changes randomly over time. Specifically, it switches between values drawn from a given distribution at a fixed rate. In the long-time limit, it turns out that the cumulants of the position grow linearly with time and are directly related to the <b>free cumulants</b> of the underlying distribution of diffusion constants. This is a joint work with M. Guéneau and S. N. Majumdar, <a href="https://arxiv.org/abs/2501.13754">https://arxiv.org/abs/2501.13754</a>. The reason why free cumulants arise in this simple diffusion model remains open.</details></li>
 </ul>
 <p><div id="rectangle" class="t3"></div> &nbsp; <b>Combinatorics of random matrix moments</b></p>
 <ul>
