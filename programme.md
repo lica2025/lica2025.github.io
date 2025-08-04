@@ -182,9 +182,13 @@ details summary > * {
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t3"></div> &nbsp; <b>Noriyoshi Sakuma</b></td>
         <td>On generalized free gamma distributions</td>
 </tr>
-<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;">
+<tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse;"><div id="rectangle" class="t5"></div> &nbsp; <b>Guido Mazzuca</b></td>
         <td>Generalized hydrodynamics for the Volterra lattice</td>
+</tr>
+<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;">
+        <td style="border-collapse: collapse;"><div id="rectangle" class="t4"></div> &nbsp; <b>Aron Wennman</b></td>
+        <td>An equivariant Weierstrass theorem</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t3"></div> &nbsp; <b>Matthias Allard</b></td>
