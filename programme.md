@@ -180,7 +180,7 @@ details summary > * {
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t3"></div> &nbsp; <b>Noriyoshi Sakuma</b></td>
-        <td>On generalized free gamma distributions</td>
+        <td>Generalized Meixner-type free gamma distributions</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse;"><div id="rectangle" class="t5"></div> &nbsp; <b>Guido Mazzuca</b></td>
