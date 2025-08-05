@@ -222,36 +222,36 @@ details summary > * {
 <p><div id="rectangle" class="t5"></div> &nbsp; <b>The mysterious multilinear structure of asymptotic expansions in classical random matrix ensembles</b></p>
 <ul>
         <li><b>People:</b> Folkmar Bornemann, Peter Forrester, Lun Zhang, Nicholas Witte</li>
-        <li><b>Next meeting:</b> Wednesday 6th 11:15am, Room 140 of MATRIX House</li>
+        <li><b>Next meeting:</b> Wednesday 6th 11:00am, Room 140 of MATRIX House</li>
 </ul>
 <p><div id="rectangle" class="t3"></div> &nbsp; <b>Random Haagerup inequalities for random matrices</b></p>
 <ul>
-        <li><b>People:</b> Benoît Collins, Giorgio Cipolloni</li>
-        <li><b>Next meeting:</b> Tuesday 5th 16:00pm, Seminar Room in Stage 2</li>
+        <li><b>People:</b> Benoît Collins, Giorgio Cipolloni, James Mingo, Yuanyuan Xu</li>
+        <li><b>Next meeting:</b> Wednesday 6th, Seminar Room in Stage 2</li>
         <li><details><summary><b style="text-decoration: underline;">Description:</b></summary> In operator algebra, a Haagerup inequality states that for a non-commuting polynomial of given degree <i>r</i>, in non-commuting variables, its operator norm and its <i>l</i><sup>2</sup> norm are comparable, up to a polynomial factor in the degree <i>r</i>. Such inequalities are true at the level of random matrices but the proof is very hard. Namely, it relies on strong convergence. We believe there should be a direct proof (perhaps using concentration of measure or other RMT techniques). This is not only a natural question, this would also allow to reprove in a new conceptual way strong convergence in many cases, and hopefully, with better bounds.</details></li>
 </ul>
 <p><div id="rectangle" class="t3"></div> &nbsp; <b>Infinitesimal free probability and Wigner ensembles</b></p>
 <ul>
         <li><b>People:</b> James Mingo, Yuanyuan Xu, Anas Rahman, Daniel Muñoz George</li>
-        <li><b>Next meeting:</b> Wednesday 6th 11:15am, Meeting Room 10 of MATRIX House</li>
+        <li><b>Next meeting:</b> Wednesday 6th 11:00am, Room 141 of MATRIX House</li>
         <li><details><summary><b style="text-decoration: underline;">Description:</b></summary> Infinitesimal free probability has been able to recover, through combinatorial methods, differential equations characterising <i>1/N</i> corrections to eigenvalue densities of classical matrix ensembles. We wish to see if these methods can be extended to obtain equivalent results for more general Wigner ensembles.</details></li>
 </ul>
 <p><div id="rectangle" class="t1"></div> &nbsp; <b>Discrete notions of derivative type</b></p>
 <ul>
-        <li><b>People:</b> Thomas Wolfs, Mario Kieburg, Jiyuan Zhang, Peter Forrester</li>
-        <li><b>Next meeting:</b> Wednesday 6th 15:30pm, Room 139 of MATRIX House</li>
+        <li><b>People:</b> Thomas Wolfs, Mario Kieburg, Jiyuan Zhang, Peter Forrester, James Mingo</li>
+        <li><b>Next meeting:</b> Wednesday 6th 15:30pm, Room 141 of MATRIX House</li>
         <li><details><summary><b style="text-decoration: underline;">Description:</b></summary> So far, mainly two notions of polynomial ensemble of derivative type (also called Pólya ensemble) have been considered: a multiplicative one, due to Kieburg-Kösters (2016), and an additive one, due to Kuijlaars-Róman (2019). They typically appear in connection to the squared singular values of products of invertible random matrices and the eigenvalues of sums of Hermitian random matrices. The main goal of this project is to develop discrete notions of derivative type that are compatible with certain non-intersecting path models induced by random tilings. Such developments will deepen our understanding of these models as ensembles of derivative type typically have useful properties, e.g., their kernel has a double integral representation, opening up the road for asymptotic analysis, and they posses certain (de)composition properties. Special interest goes to the discrete (multiple) orthogonal polynomial ensembles associated with the (multiple) Kravchuk, Hahn and q-Racah polynomials, but other polynomials from the (multiple) (q-)Askey scheme are considered as well. After an appropriate notion of derivative type has been set up, the goal is to obtain a double integral representation for the correlation kernel and to describe the (de)composition properties of such models. The latter is deeply connected to developing the surrounding finite free probability theory.</details></li>
 </ul>
 <p><div id="rectangle" class="t1"></div> &nbsp; <b>A simple diffusion model for free cumulants</b></p>
 <ul>
-        <li><b>People:</b> Gregory Schehr, Peter Forrester</li>
-        <li><b>Next meeting:</b> Thursday 7th 11:15am, Room 140 of MATRIX House</li>
+        <li><b>People:</b> Gregory Schehr, Peter Forrester, James Mingo</li>
+        <li><b>Next meeting:</b> Thursday 7th 11:00am, Room 140 of MATRIX House</li>
         <li><details><summary><b style="text-decoration: underline;">Description:</b></summary> I will describe a simple diffusion model where a particle performs Brownian motion with a diffusion constant that changes randomly over time. Specifically, it switches between values drawn from a given distribution at a fixed rate. In the long-time limit, it turns out that the cumulants of the position grow linearly with time and are directly related to the <b>free cumulants</b> of the underlying distribution of diffusion constants. This is a joint work with M. Guéneau and S. N. Majumdar, <a href="https://arxiv.org/abs/2501.13754">https://arxiv.org/abs/2501.13754</a>. The reason why free cumulants arise in this simple diffusion model remains open.</details></li>
 </ul>
 <p><div id="rectangle" class="t3"></div> &nbsp; <b>Combinatorics of random matrix moments</b></p>
 <ul>
         <li><b>People:</b> Anas Rahman, Daniel Muñoz George, Norm Do, James Mingo</li>
-        <li><b>Next meeting:</b> Tuesday 5th 16:00pm, Meeting Room 10 of MATRIX House</li>
+        <li><b>Next meeting:</b> Thursday 7th 15:30pm, Seminar Room in Stage 2</li>
         <li><details><summary><b style="text-decoration: underline;">Description:</b></summary> It is known that the moments Tr(<i>M</i><sup>k</sup>) of matrices <i>M</i> can be understood as weighted sums over partitions of graphs obtained by identifying vertices of <i>k</i>-gons according to said partitions. In particular, moments of the Gaussian orthogonal ensemble (GOE) can be represented by pairwise identifying polygon edges to form locally orientable ribbon graphs. It has recently been shown that the <i>1/N</i> (<i>N</i> being matrix size) correction to the GOE moments are given by counts of non-crossing annular pairings. These should be in bijection with ribbon graphs of demi-genus one. We would like to elucidate a bijection and extend it to the case of general Wigner ensembles. We will also be discussing combinatorics of certain neural networks, which correspond to graphs with edges of fixed multiplicity supporting cyclic walks.</details></li>
 </ul>
 <p><div id="rectangle" class="t4"></div> &nbsp; <b>Bergman polynomials on a half-lemniscate</b></p>
@@ -266,9 +266,9 @@ The aim is to perform the steepest descent analysis of the associated Riemann Hi
 </ul>
 <p><b>Other (private) discussion groups (please let us know if you would like to reserve space):</b></p>
 <ul><li>If you are looking for somebody to discuss with but have not been able to decide a time and location, try finding them at the Lecture Theatre</li>
-<li>Anthony Mays, Anita Ponsaing, Gregory Schehr: Tuesday 5th 16:00pm, Room 137 of MATRIX House</li>
-<li>Zhigang Bao, Yuanyuan Xu: Tuesday 5th 16:00pm, Room 138 of MATRIX House</li>
-<li>Sungsoo Byun, Meng Yang, Leslie Molag: Tuesday 5th 17:00pm, Room 140 of MATRIX House</li>
-<li>Free space: Lecture Theatre, Seminar Room in Stage 2, and the following rooms in MATRIX House, assuming they are not booked according to the above information: Meeting Room 10 (8 people), Rooms 134, 139, 140 (5 people), Rooms 136, 137, 138 (3 people)</li>
+<li>Anthony Mays, Anita Ponsaing, Gregory Schehr: Room 137 of MATRIX House</li>
+<li>Zhigang Bao, Yuanyuan Xu: Room 138 of MATRIX House</li>
+<li>Sungsoo Byun, Meng Yang, Leslie Molag: Room 139 of MATRIX House</li>
+<li>Free space: Lecture Theatre and Room 136 (3 people) in MATRIX House are not booked. The following are reserved but may be free anyway: Seminar Room in Stage 2, and the following rooms in MATRIX House: Room 141 (8 people), Rooms 134, 139, 140 (5 people), Rooms 137, 138 (3 people)</li>
 </ul></details>
 </body>
