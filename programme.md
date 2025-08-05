@@ -221,7 +221,7 @@ details summary > * {
 <details open><summary><h2 style="text-decoration: underline;">Collaborative Projects</h2></summary>
 <p><div id="rectangle" class="t5"></div> &nbsp; <b>The mysterious multilinear structure of asymptotic expansions in classical random matrix ensembles</b></p>
 <ul>
-        <li><b>People:</b> Folkmar Bornemann, Peter Forrester</li>
+        <li><b>People:</b> Folkmar Bornemann, Peter Forrester, Lun Zhang, Nicholas Witte</li>
         <li><b>Next meeting:</b> Wednesday 6th 11:15am, Room 140 of MATRIX House</li>
 </ul>
 <p><div id="rectangle" class="t3"></div> &nbsp; <b>Random Haagerup inequalities for random matrices</b></p>
