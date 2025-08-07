@@ -256,7 +256,7 @@ details summary > * {
 <p><div id="rectangle" class="t4"></div> &nbsp; <b>Bergman polynomials on a half-lemniscate</b></p>
 <ul>
         <li><b>People:</b> Arno Kuijlaars, Aron Wennman</li>
-        <li><b>Next meeting: </b> Thursday 7th 11:00am, Room 141 of MATRIX House</li>
+        <li><b>Next meeting: </b> Friday 7th 15:30pm, Main lecture hall</li>
         <li><details><summary><b style="text-decoration: underline;">Description:</b></summary> Johansson and Viklund (arXiv:2309.00308) have a result about the asymptotic behavior of the partition function for a Coulomb gas on a Jordan domain. In this project we would like to verify and possibly even extend their result for the special case of a half-lemniscate.
 
 The problem can be phrased in terms of  planar orthogonal polynomials, and these turn out to be multiple orthogonal on an interval.
