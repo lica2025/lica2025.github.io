@@ -268,6 +268,6 @@ The aim is to perform the steepest descent analysis of the associated Riemann Hi
 <li>Zhigang Bao, Yuanyuan Xu: Room 138 of MATRIX House</li>
 <li>Sungsoo Byun, Gregory Schehr, Yong-Woo Lee: Room 136 of MATRIX House at 11:00am</li>
 <li>Sungsoo Byun, Meng Yang, Leslie Molag: Room 139 of MATRIX House</li>
-<li>The following are reserved but may be free anyway: The Lecture Theatre and Room 141 (8 people), Rooms 134, 139, 140 (5 people), and Rooms 137, 138 (3 people) in MATRIX House</li>
+<li>The following are reserved but may be free anyway: The Lecture Theatre and Room 141 (8 people), Rooms 134, 139, 140 (5 people), and Rooms 136, 137, 138 (3 people) in MATRIX House</li>
 </ul></details>
 </body>
