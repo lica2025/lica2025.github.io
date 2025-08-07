@@ -227,7 +227,6 @@ details summary > * {
 <p><div id="rectangle" class="t3"></div> &nbsp; <b>Random Haagerup inequalities for random matrices</b></p>
 <ul>
         <li><b>People:</b> Benoît Collins, Giorgio Cipolloni, James Mingo, Yuanyuan Xu</li>
-        <li><b>Next meeting:</b> Thursday 7th 11:00am, Seminar Room in Stage 2</li>
         <li><details><summary><b style="text-decoration: underline;">Description:</b></summary> In operator algebra, a Haagerup inequality states that for a non-commuting polynomial of given degree <i>r</i>, in non-commuting variables, its operator norm and its <i>l</i><sup>2</sup> norm are comparable, up to a polynomial factor in the degree <i>r</i>. Such inequalities are true at the level of random matrices but the proof is very hard. Namely, it relies on strong convergence. We believe there should be a direct proof (perhaps using concentration of measure or other RMT techniques). This is not only a natural question, this would also allow to reprove in a new conceptual way strong convergence in many cases, and hopefully, with better bounds.</details></li>
 </ul>
 <p><div id="rectangle" class="t3"></div> &nbsp; <b>Infinitesimal free probability and Wigner ensembles</b></p>
@@ -245,7 +244,7 @@ details summary > * {
 <p><div id="rectangle" class="t1"></div> &nbsp; <b>A simple diffusion model for free cumulants</b></p>
 <ul>
         <li><b>People:</b> Gregory Schehr, Peter Forrester, James Mingo</li>
-        <li><b>Next meeting:</b> Thursday 7th 11:00am, Room 140 of MATRIX House</li>
+        <li><b>Next meeting:</b> Thursday 7th 11:00am, Seminar Room in Stage 2</li>
         <li><details><summary><b style="text-decoration: underline;">Description:</b></summary> I will describe a simple diffusion model where a particle performs Brownian motion with a diffusion constant that changes randomly over time. Specifically, it switches between values drawn from a given distribution at a fixed rate. In the long-time limit, it turns out that the cumulants of the position grow linearly with time and are directly related to the <b>free cumulants</b> of the underlying distribution of diffusion constants. This is a joint work with M. Guéneau and S. N. Majumdar, <a href="https://arxiv.org/abs/2501.13754">https://arxiv.org/abs/2501.13754</a>. The reason why free cumulants arise in this simple diffusion model remains open.</details></li>
 </ul>
 <p><div id="rectangle" class="t3"></div> &nbsp; <b>Combinatorics of random matrix moments</b></p>
