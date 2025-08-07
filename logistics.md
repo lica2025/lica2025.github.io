@@ -59,13 +59,10 @@ title: "Logistics"
 <div style="margin-bottom: 40px;">
     <h2>Other Social Events</h2>
 
-    <p>The <b>MATRIX cheese and wine afternoon</b> event was held at 15:10 on Tuesday, August 5th at the Recreation Centre.</p>
-    
-    <p>The <b>conference banquet</b> was held at 18:00 on Wednesday, August 6th at <a href="https://www.google.com/maps/place/The+American+Creswick/@-37.4226802,143.8845129,14.9z/data=!4m9!3m8!1s0x6ad1383357eb0e67:0xe51b5d633a80a8ed!5m2!4m1!1i2!8m2!3d-37.424898!4d143.894476!16s%2Fg%2F1td2mmdw?entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D">The American Creswick</a> (90 Albert St, Creswick VIC 3363, Australia).</p>
-
-    <p>There will hopefully be a local <b>stargazing walk</b> held after dinner at 19:30pm on either Wednesday, August 13th or Thursday, August 14th, depending on cloudiness. We will depart from the Farmers Arms Hotel at 19:30pm and walk to Calembeen Park to try to see the milky way and attemtp to interpret it as a very unusual log-gas. We recommend very warm clothes, walking shoes, and fully charged phones to use as torches. Feel free to bring snacks or drinks.</p>
-
-    <p>We will go to the Ballarat Wildlife Park again at noon on Thursday, August 14th.</p>
+    <ul><li>The <b>MATRIX cheese and wine afternoon</b> event was held at 15:10 on Tuesday, August 5th at the Recreation Centre.</li>
+    <li>The <b>conference banquet</b> was held at 18:00 on Wednesday, August 6th at <a href="https://www.google.com/maps/place/The+American+Creswick/@-37.4226802,143.8845129,14.9z/data=!4m9!3m8!1s0x6ad1383357eb0e67:0xe51b5d633a80a8ed!5m2!4m1!1i2!8m2!3d-37.424898!4d143.894476!16s%2Fg%2F1td2mmdw?entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D">The American Creswick</a> (90 Albert St, Creswick VIC 3363, Australia).</li>
+    <li>There will hopefully be a local <b>stargazing walk</b> held after dinner at 19:30pm on either Wednesday, August 13th or Thursday, August 14th, depending on cloudiness. We will depart from the Farmers Arms Hotel at 19:30pm and walk to Calembeen Park to try to see the milky way and attemtp to interpret it as a very unusual log-gas. We recommend very warm clothes, walking shoes, and fully charged phones to use as torches. Feel free to bring snacks or drinks.</li>
+    <li>We will go to the Ballarat Wildlife Park again at noon on Thursday, August 14th.</lu></ul>
 
 </div>
 
