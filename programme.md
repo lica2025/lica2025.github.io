@@ -244,19 +244,18 @@ details summary > * {
 <p><div id="rectangle" class="t1"></div> &nbsp; <b>A simple diffusion model for free cumulants</b></p>
 <ul>
         <li><b>People:</b> Gregory Schehr, Peter Forrester, James Mingo</li>
-        <li><b>Next meeting:</b> Thursday 7th 11:00am, Seminar Room in Stage 2</li>
         <li><details><summary><b style="text-decoration: underline;">Description:</b></summary> I will describe a simple diffusion model where a particle performs Brownian motion with a diffusion constant that changes randomly over time. Specifically, it switches between values drawn from a given distribution at a fixed rate. In the long-time limit, it turns out that the cumulants of the position grow linearly with time and are directly related to the <b>free cumulants</b> of the underlying distribution of diffusion constants. This is a joint work with M. Guéneau and S. N. Majumdar, <a href="https://arxiv.org/abs/2501.13754">https://arxiv.org/abs/2501.13754</a>. The reason why free cumulants arise in this simple diffusion model remains open.</details></li>
 </ul>
 <p><div id="rectangle" class="t3"></div> &nbsp; <b>Combinatorics of random matrix moments</b></p>
 <ul>
         <li><b>People:</b> Anas Rahman, Daniel Muñoz George, Norm Do, James Mingo</li>
-        <li><b>Next meeting:</b> Thursday 7th 15:30pm, Seminar Room in Stage 2</li>
+        <li><b>Next meeting:</b> Friday 8th 15:30pm, Room 140 of MATRIX House</li>
         <li><details><summary><b style="text-decoration: underline;">Description:</b></summary> It is known that the moments Tr(<i>M</i><sup>k</sup>) of matrices <i>M</i> can be understood as weighted sums over partitions of graphs obtained by identifying vertices of <i>k</i>-gons according to said partitions. In particular, moments of the Gaussian orthogonal ensemble (GOE) can be represented by pairwise identifying polygon edges to form locally orientable ribbon graphs. It has recently been shown that the <i>1/N</i> (<i>N</i> being matrix size) correction to the GOE moments are given by counts of non-crossing annular pairings. These should be in bijection with ribbon graphs of demi-genus one. We would like to elucidate a bijection and extend it to the case of general Wigner ensembles. We will also be discussing combinatorics of certain neural networks, which correspond to graphs with edges of fixed multiplicity supporting cyclic walks.</details></li>
 </ul>
 <p><div id="rectangle" class="t4"></div> &nbsp; <b>Bergman polynomials on a half-lemniscate</b></p>
 <ul>
         <li><b>People:</b> Arno Kuijlaars, Aron Wennman</li>
-        <li><b>Next meeting: </b> Friday 7th 15:30pm, Main lecture hall</li>
+        <li><b>Next meeting: </b> Friday 8th 15:30pm, Lecture Theatre</li>
         <li><details><summary><b style="text-decoration: underline;">Description:</b></summary> Johansson and Viklund (arXiv:2309.00308) have a result about the asymptotic behavior of the partition function for a Coulomb gas on a Jordan domain. In this project we would like to verify and possibly even extend their result for the special case of a half-lemniscate.
 
 The problem can be phrased in terms of  planar orthogonal polynomials, and these turn out to be multiple orthogonal on an interval.
@@ -267,8 +266,8 @@ The aim is to perform the steepest descent analysis of the associated Riemann Hi
 <ul><li>If you are looking for somebody to discuss with but have not been able to decide a time and location, try finding them at the Lecture Theatre</li>
 <li>Anthony Mays, Anita Ponsaing, Gregory Schehr: Room 137 of MATRIX House</li>
 <li>Zhigang Bao, Yuanyuan Xu: Room 138 of MATRIX House</li>
+<li>Sungsoo Byun, Gregory Schehr, Yong-Woo Lee: Room 136 of MATRIX House at 11:00am</li>
 <li>Sungsoo Byun, Meng Yang, Leslie Molag: Room 139 of MATRIX House</li>
-<li>Free space: The Lecture Theatre and Room 136 (3 people) in MATRIX House are not booked</li>
-<li>The following are reserved but may be free anyway: Seminar Room in Stage 2 and Room 141 (8 people), Rooms 134, 139, 140 (5 people), and Rooms 137, 138 (3 people) in MATRIX House</li>
+<li>The following are reserved but may be free anyway: The Lecture Theatre and Room 141 (8 people), Rooms 134, 139, 140 (5 people), and Rooms 137, 138 (3 people) in MATRIX House</li>
 </ul></details>
 </body>
