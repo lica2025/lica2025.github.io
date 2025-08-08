@@ -57,6 +57,7 @@ details summary > * {
 
 <details><summary><h2 style="text-decoration: underline;">Talk Titles</h2></summary>
 <h3>Please find <a href="/TalkAbstracts.pdf" target="_blank">detailed abstracts here</a>.</h3>
+<p>You may click talk titles to download slides or lecture notes.</p>
 <table style="border-collapse: collapse; border: none;overflow-y: hidden;">
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Gernot Akemann</b></td>
@@ -64,7 +65,7 @@ details summary > * {
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t2"></div> &nbsp; <b>Zhenyu Liao</b></td>
-        <td>Random matrix theory for deep learning: Opportunities and challenges</td>
+        <td><u><a href="/LiaoLiCA.pdf" target="_blank">Random matrix theory for deep learning: Opportunities and challenges</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Arno Kuijlaars</b></td>
@@ -92,7 +93,7 @@ details summary > * {
 </tr>
 <tr style="border-collapse: collapse; border-bottom: 3px solid #000000;">
         <td style="border-collapse: collapse;"><div id="rectangle" class="t5"></div> &nbsp; <b>Peter Forrester</b></td>
-        <td>On and around large <i>x,N</i>, small <i>k</i> expansions for log-gases and random matrices</td>
+        <td><u><a href="/ForresterLiCA.pdf" target="_blank">On and around large <i>x,N</i>, small <i>k</i> expansions for log-gases and random matrices</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;white-space: nowrap;"><div id="rectangle" class="t1"></div> &nbsp; <b>Jacobus Verbaarschot</b></td>
@@ -104,7 +105,7 @@ details summary > * {
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Satya N. Majumdar</b></td>
-        <td>Dynamically emergent strong correlations via stochastic resetting</td>
+        <td><u><a href="/MajumdarLiCA.pdf" target="_blank">Dynamically emergent strong correlations via stochastic resetting</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border-bottom: 3px solid #000000;">
         <td style="border-collapse: collapse;"><div id="rectangle" class="t1"></div> &nbsp; <b>Gregory Schehr</b></td>
@@ -112,31 +113,31 @@ details summary > * {
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t2"></div> &nbsp; <b>Daria Tieplova</b></td>
-        <td>Information-theoretic reduction of deep neural networks to linear models in the over-parametrized proportional regime</td>
+        <td><u><a href="/TieplovaLiCA.pdf" target="_blank">Information-theoretic reduction of deep neural networks to linear models in the over-parametrized proportional regime</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Dan Dai</b></td>
-        <td>The multiplicative constant in asymptotics of higher-order analogues of the Tracy–Widom distribution</td>
+        <td><u><a href="/DaiLiCA.pdf" target="_blank">The multiplicative constant in asymptotics of higher-order analogues of the Tracy–Widom distribution</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Masahiko Ito</b></td>
-        <td>Trigonometric and elliptic Selberg integrals</td>
+        <td><u><a href="/ItoLiCA.pdf" target="_blank">Trigonometric and elliptic Selberg integrals</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border-bottom: 3px solid #000000;">
         <td style="border-collapse: collapse;"><div id="rectangle" class="t3"></div> &nbsp; <b>Yuanyuan Xu</b></td>
-        <td>Optimal decay of eigenvector overlap for non-Hermitian random matrices</td>
+        <td><u><a href="/XuLiCA.pdf" target="_blank">Optimal decay of eigenvector overlap for non-Hermitian random matrices</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Youyi Huang</b></td>
-        <td>Cumulant structures of entanglement entropy over Hilbert–Schmidt ensemble</td>
+        <td><u><a href="/HuangLiCA.pdf" target="_blank">Cumulant structures of entanglement entropy over Hilbert–Schmidt ensemble</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t5"></div> &nbsp; <b>Lu Wei</b></td>
-        <td>Entropic cumulant structures of random state ensembles</td>
+        <td><u><a href="/LuWeiLiCA.pdf" target="_blank">Entropic cumulant structures of random state ensembles</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t3"></div> &nbsp; <b>Zhigang Bao</b></td>
-        <td>Law of fractional logarithm for random matrices</td>
+        <td><u><a href="/BaoLiCA.pdf" target="_blank">Law of fractional logarithm for random matrices</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border-bottom: 3px solid #000000;">
         <td style="border-collapse: collapse;"><div id="rectangle" class="t1"></div> &nbsp; <b>Giorgio Cipolloni</b></td>
