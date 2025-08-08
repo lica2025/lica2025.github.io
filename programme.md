@@ -69,7 +69,7 @@ details summary > * {
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Arno Kuijlaars</b></td>
-        <td>Riemann Hilbert problems</td>
+        <td>Riemann-Hilbert problems</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t5"></div> &nbsp; <b>Folkmar Bornemann</b></td>
