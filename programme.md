@@ -45,12 +45,12 @@ details summary > * {
 
 <p> </p>
 
-<details open><summary><h2 style="text-decoration: underline;">Week 1 Schedule</h2></summary>
+<details><summary><h2 style="text-decoration: underline;">Week 1 Schedule</h2></summary>
 <img src="/Schedule1.png" alt="Week 1 Schedule"></details>
 
 <p> </p>
 
-<details><summary><h2 style="text-decoration: underline;">Week 2 Schedule</h2></summary>
+<details open><summary><h2 style="text-decoration: underline;">Week 2 Schedule</h2></summary>
 <img src="/Schedule2.png" alt="Week 2 Schedule"></details>
 
 <p> </p>
