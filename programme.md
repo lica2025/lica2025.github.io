@@ -81,7 +81,7 @@ details summary > * {
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Sung-Soo Byun</b></td>
-        <td>Recent progress on free energy expansions of two-dimensional Coulomb gases</td>
+        <td><u><a href="/ByunLiCA.pdf" target="_blank">Recent progress on free energy expansions of two-dimensional Coulomb gases</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t3"></div> &nbsp; <b>James Mingo</b></td>
