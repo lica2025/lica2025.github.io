@@ -184,8 +184,8 @@ details summary > * {
         <td>Generalized Meixner-type free gamma distributions</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
-        <td style="border-collapse: collapse;"><div id="rectangle" class="t5"></div> &nbsp; <b>Guido Mazzuca</b></td>
-        <td>Generalized hydrodynamics for the Volterra lattice</td>
+        <td style="border-collapse: collapse;"><div id="rectangle" class="t4"></div> &nbsp; <b>Guido Mazzuca</b></td>
+        <td>Discrete and continuous Muttalib-Borodin process</td>
 </tr>
 <tr style="border-collapse: collapse; border-bottom: 3px solid #000000;">
         <td style="border-collapse: collapse;"><div id="rectangle" class="t4"></div> &nbsp; <b>Aron Wennman</b></td>
