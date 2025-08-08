@@ -73,7 +73,7 @@ details summary > * {
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t5"></div> &nbsp; <b>Folkmar Bornemann</b></td>
-        <td>Fredholm determinants and Painlevé transcendents: A pragmatist’s perspective</td>
+        <td><u><a href="/BornemannLiCA.pdf" target="_blank">Fredholm determinants and Painlevé transcendents: A pragmatist’s perspective</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border-bottom: 3px solid #000000;">
         <td style="border-collapse: collapse;"><div id="rectangle" class="t3"></div> &nbsp; <b>Benoît Collins</b></td>
@@ -97,7 +97,7 @@ details summary > * {
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;white-space: nowrap;"><div id="rectangle" class="t1"></div> &nbsp; <b>Jacobus Verbaarschot</b></td>
-        <td>Non-Hermitian random matrix theories and integrability</td>
+        <td><u><a href="/VerbaarschotLiCA.pdf" target="_blank">Non-Hermitian random matrix theories and integrability</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Dong Wang</b></td>
