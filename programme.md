@@ -69,7 +69,7 @@ details summary > * {
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Arno Kuijlaars</b></td>
-        <td>Riemann-Hilbert problems</td>
+        <td><u><a href="/KuijlaarsLiCA.pdf" target="_blank">Riemann-Hilbert problems</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t5"></div> &nbsp; <b>Folkmar Bornemann</b></td>
@@ -89,7 +89,7 @@ details summary > * {
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Thomas Wolfs</b></td>
-        <td>Multiple orthogonal polynomial ensembles of derivative type</td>
+        <td><u><a href="/WolfsLiCA.pdf" target="_blank">Multiple orthogonal polynomial ensembles of derivative type</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border-bottom: 3px solid #000000;">
         <td style="border-collapse: collapse;"><div id="rectangle" class="t5"></div> &nbsp; <b>Peter Forrester</b></td>
