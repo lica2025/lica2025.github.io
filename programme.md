@@ -85,7 +85,7 @@ details summary > * {
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t3"></div> &nbsp; <b>James Mingo</b></td>
-        <td>Real infinitesimal free independence</td>
+        <td><u><a href="/MingoLiCA.pdf" target="_blank">Real infinitesimal free independence</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Thomas Wolfs</b></td>
@@ -101,7 +101,7 @@ details summary > * {
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Dong Wang</b></td>
-        <td>Asymptotics of biorthogonal polynomials related to Muttalib–Borodin ensemble and Hermitian random matrix with external source</td>
+        <td><u><a href="/WangLiCA.pdf" target="_blank">Asymptotics of biorthogonal polynomials related to Muttalib–Borodin ensemble and Hermitian random matrix with external source</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Satya N. Majumdar</b></td>
