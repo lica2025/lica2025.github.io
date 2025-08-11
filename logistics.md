@@ -11,6 +11,11 @@ title: "Logistics"
 <article>
     
 <div style="margin-bottom: 40px;">
+    <details open><summary><h2><u>Getting to Melbourne</u></h2></summary>
+
+    <p>An airport shuttle bus will depart the MATRIX Institute at 14:00pm sharp on Friday 15th August, stopping at Melbourne city after the airport. Please prepare your luggage early. Participants staying off-campus may wish to bring luggage early in the morning and store it in the Reception Foyer or MATRIX House during the morning talks. </p>
+    
+    <p>Participants travelling to the airport on their own will need to take a taxi or number 30 bus to Ballarat Station with a Myki (check Google maps), Then, one may travel to the airport via the <a href="https://airportshuttlebus.com.au/">Ballarat airport bus shuttle</a> (reservations required). Otherwise, participants must then take a regional train to Southern Cross Station (Myki required) in Melbourne CBD and then take a Skybus to the airport.</p></details>
 
     <details><summary><h2><u>Getting here</u></h2></summary>
     
@@ -52,9 +57,7 @@ title: "Logistics"
 
     <p><b>Ballarat 9th August:</b> We visited the Ballarat Wildlife Park to see native animals and Sovereign Hill to see the historic gold rush town.</p>
 
-    <p><b>Melbourne 9th and 10th August: We walked around the city, visited the National Gallery of Victoria, saw fairy penguins at St Kilda beach, went up the Melbourne Skydeck, strolled through the University of Melbourne's main Parkville campus, enjoyed the Royal Botanical Garden, and so on.</b></p>
-    
-    <li>There is no itinerary in Melbourne, but Melbourne is a multicultural city (so one can find almost any cuisine they are seeking) that boasts some of the best coffee in the world. Of interest could be the National Gallery of Victoria, the Queen Victoria Market, Federation Square, the Comic's Lounge, the Capital City Trail (a 30km bicycling route around Melbourne - bikes can be rented at <a href="https://bluetonguebikes.com.au/bike-hire-rentals-melbourne/">Blue Tongue Bikes</a>), Old Melbourne Gaol, the Melbourne Skydeck, Melbourne Museum, the Melbourne Cricket Ground, the State Library of Victoria, the Shrine of Remembrance, fairy penguins at St. Kilda beach, and a variety of gardens.</li></ul>
+    <p><b>Melbourne 9th and 10th August:</b> We walked around the city, visited the National Gallery of Victoria, saw fairy penguins at St Kilda beach, went up the Melbourne Skydeck, strolled through the University of Melbourne's main Parkville campus, enjoyed the Royal Botanical Garden, and so on.</p>
 
     <p><b>Bendigo 9th and 10th August:</b> Mario Kieburg organised a weekend trip with overnight stay on Saturday night in Bendigo. Of interest is the goldmine, Golden Dragon museum, Bendigo art gallery, the theatre (now showing The Music Man), and Bendigo Park.</p></details>
 
