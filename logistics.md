@@ -4,7 +4,14 @@ title: "Logistics"
 ---
 <head>
 <style>
-    img{width: 90%}
+        img {width: 90%;}
+        details summary { 
+  cursor: pointer;
+}
+
+details summary > * {
+  display: inline;
+}
 </style>
 </head>
 <body>
