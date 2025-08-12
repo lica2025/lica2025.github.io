@@ -60,7 +60,7 @@ details summary > * {
 <p>You may click talk titles to download slides or lecture notes.</p>
 <table style="border-collapse: collapse; border: none;overflow-y: hidden;">
 <tr style="border-collapse: collapse; border-bottom: 3px solid #000000;border-left: 3px solid #000000;border-right: 3px solid #000000;border-top: 3px solid #000000;">
-        <th style="border-collapse: collapse; text-align:left;"><b>Week 1</b></th>
+        <th style="border-collapse: collapse; text-align:left;font-size:18px;"><b><u>Week 1</u></b></th>
 </tr>
 <tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Gernot Akemann</b></td>
@@ -147,7 +147,7 @@ details summary > * {
         <td>Universality of the spectral form factor</td>
 </tr>
 <tr style="border-collapse: collapse; border-bottom: 3px solid #000000;border-left: 3px solid #000000;border-right: 3px solid #000000;border-top: 3px solid #000000;">
-        <th style="border-collapse: collapse; text-align:left;"><b>Week 2</b></th>
+        <th style="border-collapse: collapse; text-align:left;font-size:18px;"><b><u>Week 2</u></b></th>
 </tr>
 <tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t5"></div> &nbsp; <b>Shi-Hao Li</b></td>
@@ -217,7 +217,7 @@ details summary > * {
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Eui Yoo</b></td>
         <td>Three topological phases of the elliptic Ginibre ensembles with a point charge</td>
 </tr>
-<tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
+<tr style="border-collapse: collapse; border: none;border-bottom: 3px solid #000000;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Yong-Woo Lee</b></td>
         <td>Large deviations for the number of real eigenvalues of the elliptic GinOE</td>
 </tr>
