@@ -112,7 +112,7 @@ details summary > * {
 </tr>
 <tr style="border-collapse: collapse; border-bottom: 3px solid #000000;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse;"><div id="rectangle" class="t1"></div> &nbsp; <b>Gregory Schehr</b></td>
-        <td>Higher-order cumulants of linear statistics in Coulomb and Riesz gases</td>
+        <td><u><a href="/TieplovaLiCA.pdf" target="_blank">Higher-order cumulants of linear statistics in Coulomb and Riesz gases</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t2"></div> &nbsp; <b>Daria Tieplova</b></td>
