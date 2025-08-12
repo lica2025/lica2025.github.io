@@ -59,26 +59,26 @@ details summary > * {
 <h3>Please find <a href="/TalkAbstracts.pdf" target="_blank">detailed abstracts here</a>.</h3>
 <p>You may click talk titles to download slides or lecture notes.</p>
 <table style="border-collapse: collapse; border: none;overflow-y: hidden;">
-<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;border-left: 1px solid #000000;border-right: 1px solid #000000;border-top: 1px solid #000000;">
+<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;border-left: 3px solid #000000;border-right: 3px solid #000000;border-top: 3px solid #000000;">
         <th style="border-collapse: collapse; text-align:left;"><b>Week 1</b></th>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
+<tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Gernot Akemann</b></td>
         <td>Recent advances in non-Hermitian random matrix theory</td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
+<tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t2"></div> &nbsp; <b>Zhenyu Liao</b></td>
         <td><u><a href="/LiaoLiCA.pdf" target="_blank">Random matrix theory for deep learning: Opportunities and challenges</a></u></td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
+<tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Arno Kuijlaars</b></td>
         <td><u><a href="/KuijlaarsLiCA.pdf" target="_blank">Riemann-Hilbert problems</a></u></td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
+<tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t5"></div> &nbsp; <b>Folkmar Bornemann</b></td>
         <td><u><a href="/BornemannLiCA.pdf" target="_blank">Fredholm determinants and Painlevé transcendents: A pragmatist’s perspective</a></u></td>
 </tr>
-<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;">
+<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse;"><div id="rectangle" class="t3"></div> &nbsp; <b>Benoît Collins</b></td>
         <td>Recent developments around strong convergence for random matrices</td>
 </tr>
