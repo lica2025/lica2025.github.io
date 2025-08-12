@@ -94,7 +94,7 @@ details summary > * {
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Thomas Wolfs</b></td>
         <td><u><a href="/WolfsLiCA.pdf" target="_blank">Multiple orthogonal polynomial ensembles of derivative type</a></u></td>
 </tr>
-<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;"border-left: 3px solid #000000;border-right: 3px solid #000000;>
+<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse;"><div id="rectangle" class="t5"></div> &nbsp; <b>Peter Forrester</b></td>
         <td><u><a href="/ForresterLiCA.pdf" target="_blank">On and around large <i>x,N</i>, small <i>k</i> expansions for log-gases and random matrices</a></u></td>
 </tr>
@@ -146,10 +146,8 @@ details summary > * {
         <td style="border-collapse: collapse;"><div id="rectangle" class="t1"></div> &nbsp; <b>Giorgio Cipolloni</b></td>
         <td>Universality of the spectral form factor</td>
 </tr>
-</table>
-<table style="border-collapse: collapse; border: none;overflow-y: hidden;">
 <tr style="border-collapse: collapse; border-bottom: 3px solid #000000;border-left: 3px solid #000000;border-right: 3px solid #000000;border-top: 3px solid #000000;">
-        <th style="border-collapse: collapse; text-align:left;"><b>Week 1</b></th>
+        <th style="border-collapse: collapse; text-align:left;"><b>Week 2</b></th>
 </tr>
 <tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t5"></div> &nbsp; <b>Shi-Hao Li</b></td>
