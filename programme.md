@@ -82,139 +82,144 @@ details summary > * {
         <td style="border-collapse: collapse;"><div id="rectangle" class="t3"></div> &nbsp; <b>Benoît Collins</b></td>
         <td>Recent developments around strong convergence for random matrices</td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
+<tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Sung-Soo Byun</b></td>
         <td><u><a href="/ByunLiCA.pdf" target="_blank">Recent progress on free energy expansions of two-dimensional Coulomb gases</a></u></td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
+<tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t3"></div> &nbsp; <b>James Mingo</b></td>
         <td><u><a href="/MingoLiCA.pdf" target="_blank">Real infinitesimal free independence</a></u></td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
+<tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Thomas Wolfs</b></td>
         <td><u><a href="/WolfsLiCA.pdf" target="_blank">Multiple orthogonal polynomial ensembles of derivative type</a></u></td>
 </tr>
-<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;">
+<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;"border-left: 3px solid #000000;border-right: 3px solid #000000;>
         <td style="border-collapse: collapse;"><div id="rectangle" class="t5"></div> &nbsp; <b>Peter Forrester</b></td>
         <td><u><a href="/ForresterLiCA.pdf" target="_blank">On and around large <i>x,N</i>, small <i>k</i> expansions for log-gases and random matrices</a></u></td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
+<tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;white-space: nowrap;"><div id="rectangle" class="t1"></div> &nbsp; <b>Jacobus Verbaarschot</b></td>
         <td><u><a href="/VerbaarschotLiCA.pdf" target="_blank">Non-Hermitian random matrix theories and integrability</a></u></td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
+<tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Dong Wang</b></td>
         <td><u><a href="/WangLiCA.pdf" target="_blank">Asymptotics of biorthogonal polynomials related to Muttalib–Borodin ensemble and Hermitian random matrix with external source</a></u></td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
+<tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Satya N. Majumdar</b></td>
         <td><u><a href="/MajumdarLiCA.pdf" target="_blank">Dynamically emergent strong correlations via stochastic resetting</a></u></td>
 </tr>
-<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;">
+<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse;"><div id="rectangle" class="t1"></div> &nbsp; <b>Gregory Schehr</b></td>
         <td>Higher-order cumulants of linear statistics in Coulomb and Riesz gases</td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
+<tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t2"></div> &nbsp; <b>Daria Tieplova</b></td>
         <td><u><a href="/TieplovaLiCA.pdf" target="_blank">Information-theoretic reduction of deep neural networks to linear models in the over-parametrized proportional regime</a></u></td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
+<tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Dan Dai</b></td>
         <td><u><a href="/DaiLiCA.pdf" target="_blank">The multiplicative constant in asymptotics of higher-order analogues of the Tracy–Widom distribution</a></u></td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
+<tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Masahiko Ito</b></td>
         <td><u><a href="/ItoLiCA.pdf" target="_blank">Trigonometric and elliptic Selberg integrals</a></u></td>
 </tr>
-<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;">
+<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse;"><div id="rectangle" class="t3"></div> &nbsp; <b>Yuanyuan Xu</b></td>
         <td><u><a href="/XuLiCA.pdf" target="_blank">Optimal decay of eigenvector overlap for non-Hermitian random matrices</a></u></td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
+<tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Youyi Huang</b></td>
         <td><u><a href="/HuangLiCA.pdf" target="_blank">Cumulant structures of entanglement entropy over Hilbert–Schmidt ensemble</a></u></td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
+<tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t5"></div> &nbsp; <b>Lu Wei</b></td>
         <td><u><a href="/LuWeiLiCA.pdf" target="_blank">Entropic cumulant structures of random state ensembles</a></u></td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
+<tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t3"></div> &nbsp; <b>Zhigang Bao</b></td>
         <td><u><a href="/BaoLiCA.pdf" target="_blank">Law of fractional logarithm for random matrices</a></u></td>
 </tr>
-<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;">
+<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse;"><div id="rectangle" class="t1"></div> &nbsp; <b>Giorgio Cipolloni</b></td>
         <td>Universality of the spectral form factor</td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
+</table>
+<table style="border-collapse: collapse; border: none;overflow-y: hidden;">
+<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;border-left: 3px solid #000000;border-right: 3px solid #000000;border-top: 3px solid #000000;">
+        <th style="border-collapse: collapse; text-align:left;"><b>Week 1</b></th>
+</tr>
+<tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t5"></div> &nbsp; <b>Shi-Hao Li</b></td>
         <td>Multiple skew orthogonal polynomials and applications</td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
+<tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t3"></div> &nbsp; <b>Fei Wei</b></td>
         <td>On the moments of the derivative of CUE characteristic polynomials inside the unit disc</td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
+<tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t2"></div> &nbsp; <b>Justin Ko</b></td>
         <td>On the phase diagram of extensive-rank symmetric matrix denoising beyond rotational invariance</td>
 </tr>
-<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;">
+<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse;"><div id="rectangle" class="t5"></div> &nbsp; <b>Lun Zhang</b></td>
         <td>Asymptotics for the noncommutative Painlevé II equation</td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
+<tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Leslie Molag</b></td>
         <td>Universality for fluctuations of counting statistics of random normal matrices</td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
+<tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Meng Yang</b></td>
         <td>Planar orthogonal polynomials and their applications</td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
+<tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t5"></div> &nbsp; <b>Nicholas Witte</b></td>
         <td>Orthogonal and Symplectic Integrals via modulated <i>2j-k</i> bi-orthogonal polynomial systems. Beyond Painlevé?</td>
 </tr>
-<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;">
+<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse;"><div id="rectangle" class="t3"></div> &nbsp; <b>Dang-Zheng Liu</b></td>
         <td>Edge statistics for random band matrices</td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
+<tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t3"></div> &nbsp; <b>Daniel M. George</b></td>
         <td>Third order cumulants of products</td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
+<tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t3"></div> &nbsp; <b>Noriyoshi Sakuma</b></td>
         <td>Generalized Meixner-type free gamma distributions</td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
+<tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse;"><div id="rectangle" class="t4"></div> &nbsp; <b>Guido Mazzuca</b></td>
         <td>Discrete and continuous Muttalib-Borodin process</td>
 </tr>
-<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;">
+<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse;"><div id="rectangle" class="t4"></div> &nbsp; <b>Aron Wennman</b></td>
         <td>An equivariant Weierstrass theorem</td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
+<tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t3"></div> &nbsp; <b>Matthias Allard</b></td>
         <td>Correlation functions between singular values and eigenvalues</td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
+<tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Mathieu Yahiaoui</b></td>
         <td>Random winding numbers for determinantal curves from non-Hermitian matrix random fields</td>
 </tr>
-<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;">
+<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse;"><div id="rectangle" class="t4"></div> &nbsp; <b>Linfeng Wei</b></td>
         <td>Skewness of von Neumann entropy over Bures–Hall random states</td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
+<tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Yeong-Gwang Jung</b></td>
         <td>Spectral analysis of <i>q</i>-deformed unitary ensembles with the Al-Salam–Carlitz weight</td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
+<tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Eui Yoo</b></td>
         <td>Three topological phases of the elliptic Ginibre ensembles with a point charge</td>
 </tr>
-<tr style="border-collapse: collapse; border: none;">
+<tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Yong-Woo Lee</b></td>
         <td>Large deviations for the number of real eigenvalues of the elliptic GinOE</td>
 </tr>
