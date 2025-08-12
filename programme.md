@@ -179,7 +179,7 @@ details summary > * {
 </tr>
 <tr style="border-collapse: collapse; border-bottom: 3px solid #000000;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse;"><div id="rectangle" class="t3"></div> &nbsp; <b>Dang-Zheng Liu</b></td>
-        <td><u><a href="/LiuLiCA.pdf" target="_blank">Edge statistics for random band matrices</a></u></td>
+        <td>Edge statistics for random band matrices</td>
 </tr>
 <tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t3"></div> &nbsp; <b>Daniel M. George</b></td>
