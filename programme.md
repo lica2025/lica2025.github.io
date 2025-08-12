@@ -151,23 +151,23 @@ details summary > * {
 </tr>
 <tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t5"></div> &nbsp; <b>Shi-Hao Li</b></td>
-        <td>Multiple skew orthogonal polynomials and applications</td>
+        <td><u><a href="/LiLiCA.pdf" target="_blank">Multiple skew orthogonal polynomials and applications</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t3"></div> &nbsp; <b>Fei Wei</b></td>
-        <td>On the moments of the derivative of CUE characteristic polynomials inside the unit disc</td>
+        <td><u><a href="/FeiWeiLiCA.pdf" target="_blank">On the moments of the derivative of CUE characteristic polynomials inside the unit disc</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t2"></div> &nbsp; <b>Justin Ko</b></td>
-        <td>On the phase diagram of extensive-rank symmetric matrix denoising beyond rotational invariance</td>
+        <td><u><a href="/KoLiCA.pdf" target="_blank">On the phase diagram of extensive-rank symmetric matrix denoising beyond rotational invariance</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border-bottom: 3px solid #000000;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse;"><div id="rectangle" class="t5"></div> &nbsp; <b>Lun Zhang</b></td>
-        <td>Asymptotics for the noncommutative Painlevé II equation</td>
+        <td><u><a href="/ZhangLiCA.pdf" target="_blank">Asymptotics for the noncommutative Painlevé II equation</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Leslie Molag</b></td>
-        <td>Universality for fluctuations of counting statistics of random normal matrices</td>
+        <td><u><a href="/MolagLiCA.pdf" target="_blank">Universality for fluctuations of counting statistics of random normal matrices</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Meng Yang</b></td>
@@ -175,11 +175,11 @@ details summary > * {
 </tr>
 <tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t5"></div> &nbsp; <b>Nicholas Witte</b></td>
-        <td>Orthogonal and Symplectic Integrals via modulated <i>2j-k</i> bi-orthogonal polynomial systems. Beyond Painlevé?</td>
+        <td><u><a href="/WitteLiCA.pdf" target="_blank">Orthogonal and Symplectic Integrals via modulated <i>2j-k</i> bi-orthogonal polynomial systems. Beyond Painlevé?</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border-bottom: 3px solid #000000;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse;"><div id="rectangle" class="t3"></div> &nbsp; <b>Dang-Zheng Liu</b></td>
-        <td>Edge statistics for random band matrices</td>
+        <td><u><a href="/LiuLiCA.pdf" target="_blank">Edge statistics for random band matrices</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t3"></div> &nbsp; <b>Daniel M. George</b></td>
