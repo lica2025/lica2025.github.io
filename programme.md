@@ -59,8 +59,8 @@ details summary > * {
 <h3>Please find <a href="/TalkAbstracts.pdf" target="_blank">detailed abstracts here</a>.</h3>
 <p>You may click talk titles to download slides or lecture notes.</p>
 <table style="border-collapse: collapse; border: none;overflow-y: hidden;">
-<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;">
-        <th style="border-collapse: collapse;"><div id="rectangle" class="t3"></div> &nbsp; <b>Week 1</b></th>
+<tr style="border-collapse: collapse; border-bottom: 3px solid #000000;border-left: 1px solid #000000;border-right: 1px solid #000000;border-top: 1px solid #000000;">
+        <th style="border-collapse: collapse; text-align:left;"><b>Week 1</b></th>
 </tr>
 <tr style="border-collapse: collapse; border: none;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Gernot Akemann</b></td>
