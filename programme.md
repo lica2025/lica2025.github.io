@@ -171,7 +171,7 @@ details summary > * {
 </tr>
 <tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Meng Yang</b></td>
-        <td>Planar orthogonal polynomials and their applications</td>
+        <td><u><a href="/YangLiCA.pdf" target="_blank">Planar orthogonal polynomials and their applications</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t5"></div> &nbsp; <b>Nicholas Witte</b></td>
@@ -183,7 +183,7 @@ details summary > * {
 </tr>
 <tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t3"></div> &nbsp; <b>Daniel M. George</b></td>
-        <td>Third order cumulants of products</td>
+        <td><u><a href="/GeorgeLiCA.pdf" target="_blank">Third order cumulants of products</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t3"></div> &nbsp; <b>Noriyoshi Sakuma</b></td>
@@ -191,7 +191,7 @@ details summary > * {
 </tr>
 <tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse;"><div id="rectangle" class="t4"></div> &nbsp; <b>Guido Mazzuca</b></td>
-        <td>Discrete and continuous Muttalib-Borodin process</td>
+        <td><u><a href="/MazzucaLiCA.pdf" target="_blank">Discrete and continuous Muttalib-Borodin process</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border-bottom: 3px solid #000000;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse;"><div id="rectangle" class="t4"></div> &nbsp; <b>Aron Wennman</b></td>
