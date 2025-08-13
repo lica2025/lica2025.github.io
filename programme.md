@@ -268,10 +268,7 @@ The aim is to perform the steepest descent analysis of the associated Riemann Hi
 </ul>
 <p><b>Other (private) discussion groups (please let us know if you would like to reserve space):</b></p>
 <ul><li>If you are looking for somebody to discuss with but have not been able to decide a time and location, try finding them at the Lecture Theatre</li>
-<li>Anthony Mays, Anita Ponsaing, Gregory Schehr: Room 137 of MATRIX House</li>
-<li>Sungsoo Byun, Gregory Schehr, Yong-Woo Lee: Room 141 of MATRIX House, Tuesday 12th 17:00pm</li>
 <li>Sungsoo Byun, Meng Yang, Leslie Molag: Room 139 of MATRIX House</li>
-<li>Anthony Mays: Room 136 of MATRIX House on Monday 11th 16:00pm—18:00pm and Tuesday 12th 13:00pm—15:00pm</li>
-<li>Rooms 138 in MATRIX House is free. The following are reserved but may be free anyway: The Lecture Theatre and Room 141 (8 people), Rooms 134, 139, 140 (5 people), and Room 137 (3 people) in MATRIX House</li>
+<li>Rooms 136, 137, and 138 in MATRIX House are free. The following are reserved but may be free anyway: The Lecture Theatre and Room 141 (8 people), Rooms 134, 139, 140 (5 people)</li>
 </ul></details>
 </body>
