@@ -3,7 +3,7 @@ layout: page
 title: "Participants"
 ---
 <style>
-        img{width:90%;}
+        img{width:100%;}
         details summary { 
   cursor: pointer;
 }
