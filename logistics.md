@@ -22,7 +22,7 @@ details summary > * {
 
     <p>An airport shuttle bus will depart the MATRIX Institute at 14:00pm sharp on Friday 15th August, stopping at Melbourne city after the airport. Please prepare your luggage early. Participants staying off-campus may wish to bring luggage early in the morning and store it in the Reception Foyer or MATRIX House during the morning talks. </p>
     
-    <p>Participants travelling to the airport on their own will need to take a taxi or number 30 bus to Ballarat Station with a Myki (check Google maps), Then, one may travel to the airport via the <a href="https://airportshuttlebus.com.au/">Ballarat airport bus shuttle</a> (reservations required). Otherwise, participants must then take a regional train to Southern Cross Station (Myki required) in Melbourne CBD and then take a Skybus to the airport.</p></details>
+    <p>Participants travelling to the airport on their own will need to take a taxi or number 30 bus to Ballarat Station with a Myki (check Google maps). Then, one may travel to the airport via the <a href="https://airportshuttlebus.com.au/">Ballarat airport bus shuttle</a> (reservations required). Otherwise, participants must then take a regional train to Southern Cross Station (Myki required) in Melbourne CBD and then take a Skybus to the airport.</p></details>
 
     <details><summary><h2><u>Getting here</u></h2></summary>
     
@@ -41,8 +41,8 @@ details summary > * {
     <details open><summary><h2><u>Getting Around Campus</u></h2></summary>
 
     <p>We are able to provide on-campus accommodation to select participants for part of their stay, with preference given to students, early career researchers, and those who would benefit from support.</p>
-    <p>Participants staying on campus will be staying at either Semmens Hall or The Lodge, described <a href="https://www.matrix-inst.org.au/accommodation">here</a>; see campus map below.</p>
-    <p>Participants staying off-campus must either take the bus 30 described above from Ballarat or the RACV Goldfields Resort, or will otherwise be within walking distance of the MATRIX Institute.</p>
+    <p>Participants staying on campus are situated at either Semmens Hall or The Lodge, described <a href="https://www.matrix-inst.org.au/accommodation">here</a>; see campus map below.</p>
+    <p>Participants staying off-campus must either take the number 30 bus described above from Ballarat or the RACV Goldfields Resort, or will otherwise be within walking distance of the MATRIX Institute.</p>
     <p>MATRIX does not provide lunch and encourages participants to support the local economy. Please see <a href="https://www.matrix-inst.org.au/wp_Matrix2016/wp-content/uploads/Creswick/EATERIES-AND-FOOD-SUPPLIERS-IN-CRESWICK-2021.pdf">this helpful link</a> for a list of nearby cafes and restaurants. Participants can also visit these establishments for breakfast and dinner (please check that they are open at suitable times!)</p>
     <img src="/CreswickCampus.png" alt="MATRIX campus map"></details>
 
@@ -50,23 +50,14 @@ details summary > * {
 
 <div style="margin-bottom: 40px;">
 
-    <details open><summary><h2><u>Upcoming Social Events</u></h2></summary>
-    <ul><li><b>Wednesday 13th, 19:30pm:</b> A local <b>stargazing walk</b> held after dinner. We will depart from the Farmers Arms Hotel at 19:30pm and walk to Calembeen Park to try to see the milky way and attempt to interpret it as a very unusual log-gas. Those having dinner on campus are encouraged to finish a little early to leave time to walk to the Farmers Arms Hotel. We recommend very warm clothes, walking shoes, and fully charged phones to use as torches. Feel free to bring snacks or drinks.</li>
-    <li><b>Thursday 14th, 12:00pm:</b> An additional excursion to the <b>Ballarat Wildlife Park</b>, where we will interact with native animals. After the final talk of the day, we will immediately head into Creswick town to purchase sandwiches fo the bus ride or have an extremely quick lunch. Then, we will take the route 30 bus from Raglan x Albert St at 12:40pm. We will change bus at the Curtis St Interchange, getting on the route 20 bus at 13:30pm. We will then spend time at the Ballarat Wildlife Park between 14:00pm and 17:00pm. After the closure of the park, we will take buses back to MATRIX. Participants may also wish to walk to Carboni's Italian Kitchen (30min walk away) for an early dinner. Participants will need to buy their own tickets for <a href="https://wildlifepark.com.au/tickets/">the Ballarat Wildlife Park ($36 with online discount)</a> and ensure they have a valid Myki.</li></ul></details>
+    <details><summary><h2><u>Social Events</u></h2></summary>
+    <ul><li><b>5th August, 15:10pm:</b> The <b>MATRIX cheese and wine afternoon</b> event was held at the Recreation Centre.</li>
+    <li><b>6th August, 18:00pm:</b> The <b>conference banquet</b> was held at<a href="https://www.google.com/maps/place/The+American+Creswick/@-37.4226802,143.8845129,14.9z/data=!4m9!3m8!1s0x6ad1383357eb0e67:0xe51b5d633a80a8ed!5m2!4m1!1i2!8m2!3d-37.424898!4d143.894476!16s%2Fg%2F1td2mmdw?entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D">The American Creswick</a> (90 Albert St, Creswick VIC 3363, Australia).</li>
+    <li><b>Ballarat 9th August:</b> We visited the Ballarat Wildlife Park to see native animals and Sovereign Hill to see the historic gold rush town.</li>
 
-</div>
-
-<div style="margin-bottom: 40px;">
-
-    <details><summary><h2><u>Past Social Events</u></h2></summary>
-    <p>The <b>MATRIX cheese and wine afternoon</b> event was held at 15:10pm on Tuesday, August 5th at the Recreation Centre.</p>
-    <p>The <b>conference banquet</b> was held at 18:00pm on Wednesday, August 6th at <a href="https://www.google.com/maps/place/The+American+Creswick/@-37.4226802,143.8845129,14.9z/data=!4m9!3m8!1s0x6ad1383357eb0e67:0xe51b5d633a80a8ed!5m2!4m1!1i2!8m2!3d-37.424898!4d143.894476!16s%2Fg%2F1td2mmdw?entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D">The American Creswick</a> (90 Albert St, Creswick VIC 3363, Australia).</p>
-
-    <p><b>Ballarat 9th August:</b> We visited the Ballarat Wildlife Park to see native animals and Sovereign Hill to see the historic gold rush town.</p>
-
-    <p><b>Melbourne 9th and 10th August:</b> We walked around the city, visited the National Gallery of Victoria, saw fairy penguins at St Kilda beach, went up the Melbourne Skydeck, strolled through the University of Melbourne's main Parkville campus, enjoyed the Royal Botanical Garden, and so on.</p>
-
-    <p><b>Bendigo 9th and 10th August:</b> Mario Kieburg organised a weekend trip with overnight stay on Saturday night in Bendigo. Of interest is the goldmine, Golden Dragon museum, Bendigo art gallery, the theatre (now showing The Music Man), and Bendigo Park.</p></details>
+    <li><b>Melbourne 9th and 10th August:</b> We walked around the city, visited the National Gallery of Victoria, saw fairy penguins at St Kilda beach, went up the Melbourne Skydeck, strolled through the University of Melbourne's main Parkville campus, enjoyed the Royal Botanical Garden, and so on.</li>
+    <li><b>Wednesday 13th, 19:30pm:</b> A local <b>stargazing walk</b> held after dinner. We departed from the Farmers Arms Hotel at 19:30pm and walked to Calembeen Park to see the milky way and attempt to interpret it as a very unusual log-gas. Aided by skymaps, torches, and astronomy enthusiasts Jiyuan Zhang and Nicholas Witte.</li>
+    <li><b>Ballarat Thursday 14th, 12:00pm:</b> An additional excursion to the <b>Ballarat Wildlife Park</b>.</li></ul></details>
 
 </div>
 
