@@ -18,13 +18,13 @@ details summary > * {
 <article>
     
 <div style="margin-bottom: 40px;">
-    <details open><summary><h2><u>Getting to Melbourne</u></h2></summary>
+    <details open><summary><h2><u>Getting to Melbourne from MATRIX</u></h2></summary>
 
     <p>An airport shuttle bus will depart the MATRIX Institute at 14:00pm sharp on Friday 15th August, stopping at Melbourne city after the airport. Please prepare your luggage early. Participants staying off-campus may wish to bring luggage early in the morning and store it in the Reception Foyer or MATRIX House during the morning talks. </p>
     
     <p>Participants travelling to the airport on their own will need to take a taxi or number 30 bus to Ballarat Station with a Myki (check Google maps). Then, one may travel to the airport via the <a href="https://airportshuttlebus.com.au/">Ballarat airport bus shuttle</a> (reservations required). Otherwise, participants must then take a regional train to Southern Cross Station (Myki required) in Melbourne CBD and then take a Skybus to the airport.</p></details>
 
-    <details><summary><h2><u>Getting here</u></h2></summary>
+    <details><summary><h2><u>Getting to MATRIX</u></h2></summary>
     
     <p>The easiest way to reach Melbourne is through Melbourne Tullamarine Airport. We will provide shuttles on the 3rd of August from Ballarat to Creswick, and on the 15th of August from Creswick to Melbourne Tullamarine Airport. Details will be released later.</p>
     
