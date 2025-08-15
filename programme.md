@@ -209,15 +209,15 @@ details summary > * {
 </tr>
 <tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Yeong-Gwang Jung</b></td>
-        <td>Spectral analysis of <i>q</i>-deformed unitary ensembles with the Al-Salam–Carlitz weight</td>
+        <td><u><a href="/JungLiCA.pdf" target="_blank">Spectral analysis of <i>q</i>-deformed unitary ensembles with the Al-Salam–Carlitz weight</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Eui Yoo</b></td>
-        <td>Three topological phases of the elliptic Ginibre ensembles with a point charge</td>
+        <td><u><a href="/YooLiCA.pdf" target="_blank">Three topological phases of the elliptic Ginibre ensembles with a point charge</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border: none;border-bottom: 3px solid #000000;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Yong-Woo Lee</b></td>
-        <td>Large deviations for the number of real eigenvalues of the elliptic GinOE</td>
+        <td><u><a href="/LeeLiCA.pdf" target="_blank">Large deviations for the number of real eigenvalues of the elliptic GinOE</a></u></td>
 </tr>
 </table></details>
 
