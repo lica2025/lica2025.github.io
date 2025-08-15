@@ -3,6 +3,7 @@ layout: page
 title: "Participants"
 ---
 <style>
+        img{width:90%;}
         details summary { 
   cursor: pointer;
 }
@@ -19,6 +20,9 @@ details summary > * {
         .t5{width: 10px; height: 10px; background-color:#d2b4de; border: 1px solid gray; display: inline-block;}
 </style>
 <body>
+        <div>
+                <img src="/LiCA2025.jpg" alt="LiCA2025">
+        </div>
 <p>MATRIX research programs are designed to afford plenty of free time for informal research collaboration. To maximise use of this free time, it is recommended (though not necessary) that collaborative research is initiated <i>prior</i> to arrival at the MATRIX Institute. Participants are listed with their primary areas of research interests so as to make it a little easier to recognise potential collaborative projects.</p>
 
 <details><summary><p><b style="text-decoration: underline;">Legend:</b></p></summary>
