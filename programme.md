@@ -20,9 +20,7 @@ details summary > * {
 </style>
 
 <body>
-<p>This page displays the program schedule and talk titles with <b><u><a href="/TalkAbstracts.pdf" target="_blank">detailed abstracts and programme summary here</a></u></b>.</p>
-<p>Moreover, there is a list of project collaborations frequently updated with <b>upcoming meeting times and locations</b>!</p>
-<p>Please contact the organisers for help in organising discussion sessions and updating this webpage. We encourage participants to join suitable projects and propose their own.</p>
+<p>This page displays the program schedule and talk titles with <b><u><a href="/TalkAbstracts.pdf" target="_blank">detailed abstracts and programme summary here</a></u></b>. Moreover, there is a list of project collaborations undertaken during the program.</p>
 <p>All 45-minute talks consist of 40 minutes for the speaker’s presentation followed by 5 minutes for questions. Participants are encouraged to follow up with deeper discussions during free time.</p>
 <details><summary><p><b style="text-decoration: underline;">Legend:</b></p></summary>
         <table style="border-collapse: collapse; border: none;overflow-y: hidden;">
@@ -50,14 +48,14 @@ details summary > * {
 
 <p> </p>
 
-<details open><summary><h2 style="text-decoration: underline;">Week 2 Schedule</h2></summary>
+<details><summary><h2 style="text-decoration: underline;">Week 2 Schedule</h2></summary>
 <img src="/Schedule2.png" alt="Week 2 Schedule"></details>
 
 <p> </p>
 
-<details><summary><h2 style="text-decoration: underline;">Talk Titles</h2></summary>
+<details open><summary><h2 style="text-decoration: underline;">Talk Titles</h2></summary>
 <h3>Please find <a href="/TalkAbstracts.pdf" target="_blank">detailed abstracts here</a>.</h3>
-<p>You may click talk titles to download slides or lecture notes.</p>
+<p>You may click talk titles to download slides.</p>
 <table style="border-collapse: collapse; border: none;overflow-y: hidden;">
 <tr style="border-collapse: collapse; border-bottom: 3px solid #000000;border-left: 3px solid #000000;border-right: 3px solid #000000;border-top: 3px solid #000000;">
         <th style="border-collapse: collapse; text-align:left;font-size:18px;"><b><u>Week 1</u></b></th>
@@ -187,7 +185,7 @@ details summary > * {
 </tr>
 <tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t3"></div> &nbsp; <b>Noriyoshi Sakuma</b></td>
-        <td>Generalized Meixner-type free gamma distributions</td>
+        <td><u><a href="/SakumaLiCA.pdf" target="_blank">Generalized Meixner-type free gamma distributions</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse;"><div id="rectangle" class="t4"></div> &nbsp; <b>Guido Mazzuca</b></td>
@@ -199,7 +197,7 @@ details summary > * {
 </tr>
 <tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t3"></div> &nbsp; <b>Matthias Allard</b></td>
-        <td>Correlation functions between singular values and eigenvalues</td>
+        <td><u><a href="/AllardLiCA.pdf" target="_blank">Correlation functions between singular values and eigenvalues</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Mathieu Yahiaoui</b></td>
@@ -229,7 +227,6 @@ details summary > * {
 <p><div id="rectangle" class="t5"></div> &nbsp; <b>The mysterious multilinear structure of asymptotic expansions in classical random matrix ensembles</b></p>
 <ul>
         <li><b>People:</b> Folkmar Bornemann, Peter Forrester, Lun Zhang, Nicholas Witte</li>
-        <li><b>Next meeting:</b> Wednesday 13th 14:45pm, Room 140 of MATRIX House</li>
 </ul>
 <p><div id="rectangle" class="t3"></div> &nbsp; <b>Random Haagerup inequalities for random matrices</b></p>
 <ul>
@@ -244,7 +241,6 @@ details summary > * {
 <p><div id="rectangle" class="t1"></div> &nbsp; <b>Discrete notions of derivative type</b></p>
 <ul>
         <li><b>People:</b> Thomas Wolfs, Mario Kieburg, Jiyuan Zhang, Peter Forrester, James Mingo</li>
-        <li><b>Next meeting:</b> Wednesday 13th 14:45pm, Room 141 of MATRIX House</li>
         <li><details><summary><b style="text-decoration: underline;">Description:</b></summary> So far, mainly two notions of polynomial ensemble of derivative type (also called Pólya ensemble) have been considered: a multiplicative one, due to Kieburg-Kösters (2016), and an additive one, due to Kuijlaars-Róman (2019). They typically appear in connection to the squared singular values of products of invertible random matrices and the eigenvalues of sums of Hermitian random matrices. The main goal of this project is to develop discrete notions of derivative type that are compatible with certain non-intersecting path models induced by random tilings. Such developments will deepen our understanding of these models as ensembles of derivative type typically have useful properties, e.g., their kernel has a double integral representation, opening up the road for asymptotic analysis, and they posses certain (de)composition properties. Special interest goes to the discrete (multiple) orthogonal polynomial ensembles associated with the (multiple) Kravchuk, Hahn and q-Racah polynomials, but other polynomials from the (multiple) (q-)Askey scheme are considered as well. After an appropriate notion of derivative type has been set up, the goal is to obtain a double integral representation for the correlation kernel and to describe the (de)composition properties of such models. The latter is deeply connected to developing the surrounding finite free probability theory.</details></li>
 </ul>
 <p><div id="rectangle" class="t1"></div> &nbsp; <b>A simple diffusion model for free cumulants</b></p>
@@ -265,10 +261,5 @@ details summary > * {
 The problem can be phrased in terms of  planar orthogonal polynomials, and these turn out to be multiple orthogonal on an interval.
 
 The aim is to perform the steepest descent analysis of the associated Riemann Hilbert problem.</details></li>
-</ul>
-<p><b>Other (private) discussion groups (please let us know if you would like to reserve space):</b></p>
-<ul><li>If you are looking for somebody to discuss with but have not been able to decide a time and location, try finding them at the Lecture Theatre</li>
-<li>Sungsoo Byun, Meng Yang, Leslie Molag: Room 139 of MATRIX House</li>
-<li>Rooms 136, 137, and 138 in MATRIX House are free. The following are reserved but may be free anyway: The Lecture Theatre and Room 141 (8 people), Rooms 134, 139, 140 (5 people)</li>
 </ul></details>
 </body>
