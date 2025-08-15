@@ -53,6 +53,7 @@ details summary > * {
     <details><summary><h2><u>Social Events</u></h2></summary>
     <ul><li><b>5th August, 15:10pm:</b> The <b>MATRIX cheese and wine afternoon</b> event was held at the Recreation Centre.</li>
     <li><b>6th August, 18:00pm:</b> The <b>conference banquet</b> was held at <a href="https://www.google.com/maps/place/The+American+Creswick/@-37.4226802,143.8845129,14.9z/data=!4m9!3m8!1s0x6ad1383357eb0e67:0xe51b5d633a80a8ed!5m2!4m1!1i2!8m2!3d-37.424898!4d143.894476!16s%2Fg%2F1td2mmdw?entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D">The American Creswick</a> (90 Albert St, Creswick VIC 3363, Australia).</li>
+    <li><b>7th August, 15:30pm:</b> Birthday cake!</li>
     <li><b>Ballarat 9th August:</b> We visited the Ballarat Wildlife Park to see native animals and Sovereign Hill to see the historic gold rush town.</li>
 
     <li><b>Melbourne 9th and 10th August:</b> We walked around the city, visited the National Gallery of Victoria, saw fairy penguins at St Kilda beach, went up the Melbourne Skydeck, strolled through the University of Melbourne's main Parkville campus, enjoyed the Royal Botanical Garden, and so on.</li>
