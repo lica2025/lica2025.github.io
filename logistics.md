@@ -16,9 +16,22 @@ details summary > * {
 </head>
 <body>
 <article>
+
+<div style="margin-bottom: 20px;">
+    <details open><summary><h2><u>The MATRIX Annals</u></h2></summary>
+        <p>Each year Springer publishes a book on behalf of MATRIX dedicated to articles related to MATRIX activities (online and in print). See <a href="https://www.matrix-inst.org.au/book-series/">https://www.matrix-inst.org.au/book-series/</a> for the previous editions. Participants are encouraged to contribute articles to the 2025 MATRIX Annals. It is a great opportunity to showcase the accomplishments of our community and celebrate the success of this research program. Articles should be of one of the following two types:</p>
+    <ul>
+            <li><b>Peer-reviewed Articles:</b> These articles contain original results or are review articles on a topic related to the MATRIX program. They should contain relevant background material and references. Articles stemming from collaborations at MATRIX or discussing open problems worked on at MATRIX are particularly encouraged. These articles can be in their final form, but this is not essential. It is possible to write a short (2-5 page) paper, and then at a later date, publish a full paper of the same results in a regular journal. Articles can be single-authored or collaborative, possibly including co-authors who did not attend the MATRIX program. Previous editions of the MATRIX Annals have been indexed by mathscinet and zbmath.</li>
+            <li><b>Other Contributed Articles:</b> These articles will not be peer-reviewed, can be short or long, and will most likely be expository lecture notes based on talks or activities at MATRIX, containing references to results.</li>
+    </ul>
     
-<div style="margin-bottom: 40px;">
-    <details open><summary><h2><u>Getting to Melbourne from MATRIX</u></h2></summary>
+    <p>Articles should be prepared in the LaTeX style file available at <a href="https://www.matrix-inst.org.au/book-series/">https://www.matrix-inst.org.au/book-series/</a> and all further guidelines therein should be followed. Note that authors are required to sign a Springer "consent to publish" form but may post a pre-publication version of their article on arXiv or on a personal web page.</p>
+    
+    <p><b>Deadlines:</b> Articles should be submitted (.tex and .pdf files) to <a href="mailto: licaatmatrix2025@gmail.com">licaatmatrix2025@gmail.com</a> by <b>15th October, 2025</b> for <i>peer-reviewed articles</i> and <b>15th December, 2025</b> for <i>other contributed articles</i>.</p></details>
+<\div>
+    
+<div style="margin-bottom: 20px;">
+    <details><summary><h2><u>Getting to Melbourne from MATRIX</u></h2></summary>
 
     <p>An airport shuttle bus will depart the MATRIX Institute at 14:00pm sharp on Friday 15th August, stopping at Melbourne city after the airport. Please prepare your luggage early. Participants staying off-campus may wish to bring luggage early in the morning and store it in the Reception Foyer or MATRIX House during the morning talks. </p>
     
@@ -36,7 +49,7 @@ details summary > * {
 
 </div>
 
-<div style="margin-bottom: 40px;">
+<div style="margin-bottom: 20px;">
 
     <details open><summary><h2><u>Getting Around Campus</u></h2></summary>
 
@@ -48,7 +61,7 @@ details summary > * {
 
 </div>
 
-<div style="margin-bottom: 40px;">
+<div style="margin-bottom: 20px;">
 
     <details><summary><h2><u>Social Events</u></h2></summary>
     <ul><li><b>5th August, 15:10pm:</b> The <b>MATRIX cheese and wine afternoon</b> event was held at the Recreation Centre.</li>
@@ -63,7 +76,7 @@ details summary > * {
 </div>
 
 
-<div style="margin-bottom: 40px;">
+<div style="margin-bottom: 20px;">
 
     <h2>Useful links</h2>
 
