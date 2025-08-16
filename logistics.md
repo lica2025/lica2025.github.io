@@ -51,7 +51,7 @@ details summary > * {
 
 <div style="margin-bottom: 20px;">
 
-    <details open><summary><h2><u>Getting Around Campus</u></h2></summary>
+    <details><summary><h2><u>Getting Around Campus</u></h2></summary>
 
     <p>We are able to provide on-campus accommodation to select participants for part of their stay, with preference given to students, early career researchers, and those who would benefit from support.</p>
     <p>Participants staying on campus are situated at either Semmens Hall or The Lodge, described <a href="https://www.matrix-inst.org.au/accommodation">here</a>; see campus map below.</p>
@@ -63,7 +63,7 @@ details summary > * {
 
 <div style="margin-bottom: 20px;">
 
-    <details><summary><h2><u>Social Events</u></h2></summary>
+    <details open><summary><h2><u>Social Events</u></h2></summary>
     <ul><li><b>5th August, 15:10pm:</b> The <b>MATRIX cheese and wine afternoon</b> event was held at the Recreation Centre.</li>
     <li><b>6th August, 18:00pm:</b> The <b>conference banquet</b> was held at <a href="https://www.google.com/maps/place/The+American+Creswick/@-37.4226802,143.8845129,14.9z/data=!4m9!3m8!1s0x6ad1383357eb0e67:0xe51b5d633a80a8ed!5m2!4m1!1i2!8m2!3d-37.424898!4d143.894476!16s%2Fg%2F1td2mmdw?entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D">The American Creswick</a> (90 Albert St, Creswick VIC 3363, Australia).</li>
     <li><b>7th August, 15:30pm:</b> Birthday cake!</li>
