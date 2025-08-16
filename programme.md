@@ -59,6 +59,7 @@ details summary > * {
 <table style="border-collapse: collapse; border: none;overflow-y: hidden;">
 <tr style="border-collapse: collapse; border-bottom: 3px solid #000000;border-left: 3px solid #000000;border-right: 3px solid #000000;border-top: 3px solid #000000;">
         <th style="border-collapse: collapse; text-align:left;font-size:18px;"><b><u>Week 1</u></b></th>
+        <th style="border-collapse: collapse; text-align:left;font-size:18px;"></th>
 </tr>
 <tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Gernot Akemann</b></td>
@@ -146,6 +147,7 @@ details summary > * {
 </tr>
 <tr style="border-collapse: collapse; border-bottom: 3px solid #000000;border-left: 3px solid #000000;border-right: 3px solid #000000;border-top: 3px solid #000000;">
         <th style="border-collapse: collapse; text-align:left;font-size:18px;"><b><u>Week 2</u></b></th>
+        <th style="border-collapse: collapse; text-align:left;font-size:18px;"></th>
 </tr>
 <tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t5"></div> &nbsp; <b>Shi-Hao Li</b></td>
