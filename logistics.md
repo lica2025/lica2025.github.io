@@ -28,7 +28,7 @@ details summary > * {
     <p>Articles should be prepared in the LaTeX style file available at <a href="https://www.matrix-inst.org.au/book-series/">https://www.matrix-inst.org.au/book-series/</a> and all further guidelines therein should be followed. Note that authors are required to sign a Springer "consent to publish" form but may post a pre-publication version of their article on arXiv or on a personal web page.</p>
     
     <p><b>Deadlines:</b> Articles should be submitted (.tex and .pdf files) to <a href="mailto: licaatmatrix2025@gmail.com">licaatmatrix2025@gmail.com</a> by <b>15th October, 2025</b> for <i>peer-reviewed articles</i> and <b>15th December, 2025</b> for <i>other contributed articles</i>.</p></details>
-<\div>
+</div>
     
 <div style="margin-bottom: 20px;">
     <details><summary><h2><u>Getting to Melbourne from MATRIX</u></h2></summary>
