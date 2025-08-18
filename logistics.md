@@ -72,8 +72,8 @@ details summary > * {
     <li><b>Ballarat 9th August:</b> We visited the Ballarat Wildlife Park to see native animals and Sovereign Hill to see the historic gold rush town.</li>
 
     <li><b>Melbourne 9th and 10th August:</b> We walked around the city, visited the National Gallery of Victoria, saw fairy penguins at St Kilda beach, went up the Melbourne Skydeck, strolled through the University of Melbourne's main Parkville campus, enjoyed the Royal Botanical Garden, and so on.</li>
-    <li><b>Wednesday 13th, 19:30pm:</b> A local <b>stargazing walk</b> held after dinner. We departed from the Farmers Arms Hotel at 19:30pm and walked to Calembeen Park to see the milky way and attempt to interpret it as a very unusual log-gas. Aided by skymaps, torches, and astronomy enthusiasts Jiyuan Zhang and Nicholas Witte.</li>
-    <li><b>Ballarat Thursday 14th, 12:00pm:</b> An additional excursion to the <b>Ballarat Wildlife Park</b>.</li></ul></details>
+    <li><b>13th August, 19:30pm:</b> A local <b>stargazing walk</b> held after dinner. We departed from the Farmers Arms Hotel at 19:30pm and walked to Calembeen Park to see the milky way and attempt to interpret it as a very unusual log-gas. Aided by skymaps, torches, and astronomy enthusiasts Jiyuan Zhang and Nicholas Witte.</li>
+    <li><b>Ballarat 14th August, 12:00pm:</b> An additional excursion to the <b>Ballarat Wildlife Park</b>.</li></ul></details>
 
 </div>
 
