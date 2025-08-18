@@ -203,11 +203,11 @@ details summary > * {
 </tr>
 <tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t1"></div> &nbsp; <b>Mathieu Yahiaoui</b></td>
-        <td>Random winding numbers for determinantal curves from non-Hermitian matrix random fields</td>
+        <td><u><a href="/YahiaouiLiCA.pdf" target="_blank">Random winding numbers for determinantal curves from non-Hermitian matrix random fields</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border-bottom: 3px solid #000000;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse;"><div id="rectangle" class="t4"></div> &nbsp; <b>Linfeng Wei</b></td>
-        <td>Skewness of von Neumann entropy over Bures–Hall random states</td>
+        <td><u><a href="/LinfengWeiLiCA.pdf" target="_blank">Skewness of von Neumann entropy over Bures–Hall random states</a></u></td>
 </tr>
 <tr style="border-collapse: collapse; border: none;border-left: 3px solid #000000;border-right: 3px solid #000000;">
         <td style="border-collapse: collapse; border: none;"><div id="rectangle" class="t4"></div> &nbsp; <b>Yeong-Gwang Jung</b></td>
