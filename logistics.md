@@ -18,16 +18,16 @@ details summary > * {
 <article>
 
 <div style="margin-bottom: 20px;">
-    <details open><summary><h2><u>The MATRIX Annals</u></h2></summary>
-        <p>Each year Springer publishes a book on behalf of MATRIX dedicated to articles related to MATRIX activities (online and in print). See <a href="https://www.matrix-inst.org.au/book-series/">https://www.matrix-inst.org.au/book-series/</a> for the previous editions. Participants are encouraged to contribute articles to the 2025 MATRIX Annals. It is a great opportunity to showcase the accomplishments of our community and celebrate the success of this research program. Articles should be of one of the following two types:</p>
+    <details><summary><h2><u>The MATRIX Annals</u></h2></summary>
+        <p>Each year Springer publishes a book on behalf of MATRIX dedicated to articles related to MATRIX activities (online and in print). See <a href="https://www.matrix-inst.org.au/book-series/">https://www.matrix-inst.org.au/book-series/</a> for previous editions. Participants were encouraged to contribute articles to the 2025 MATRIX Annals. Articles were to be of one of the following two types:</p>
     <ul>
             <li><b>Peer-reviewed Articles:</b> These articles contain original results or are review articles on a topic related to the MATRIX program. They should contain relevant background material and references. Articles stemming from collaborations at MATRIX or discussing open problems worked on at MATRIX are particularly encouraged. These articles can be in their final form, but this is not essential. It is possible to write a short (2-5 page) paper, and then at a later date, publish a full paper of the same results in a regular journal. Articles can be single-authored or collaborative, possibly including co-authors who did not attend the MATRIX program. Previous editions of the MATRIX Annals have been indexed by mathscinet and zbmath.</li>
             <li><b>Other Contributed Articles:</b> These articles will not be peer-reviewed, can be short or long, and will most likely be expository lecture notes based on talks or activities at MATRIX, containing references to results.</li>
     </ul>
     
-    <p>Articles should be prepared in the LaTeX style file available at <a href="https://www.matrix-inst.org.au/book-series/">https://www.matrix-inst.org.au/book-series/</a> and all further guidelines therein should be followed. Note that authors are required to sign a Springer "consent to publish" form but may post a pre-publication version of their article on arXiv or on a personal web page.</p>
+    <p>Articles were to be prepared in the LaTeX style file available at <a href="https://www.matrix-inst.org.au/book-series/">https://www.matrix-inst.org.au/book-series/</a> and all further guidelines therein were to be followed. Authors were required to sign a Springer "consent to publish" form but were able to post a pre-publication version of their article on arXiv or on a personal web page.</p>
     
-    <p><b>Deadlines:</b> Articles should be submitted (.tex and .pdf files) to <a href="mailto: licaatmatrix2025@gmail.com">licaatmatrix2025@gmail.com</a> by <b>15th October, 2025</b> for <i>peer-reviewed articles</i> and <b>15th December, 2025</b> for <i>other contributed articles</i>.</p></details>
+    <p><b>Deadlines:</b> Articles were due to be submitted (.tex and .pdf files) to <a href="mailto: licaatmatrix2025@gmail.com">licaatmatrix2025@gmail.com</a> by <b>15th October, 2025</b> for <i>peer-reviewed articles</i> and <b>15th December, 2025</b> for <i>other contributed articles</i>.</p></details>
 </div>
     
 <div style="margin-bottom: 20px;">
